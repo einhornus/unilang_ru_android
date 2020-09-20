@@ -190,8 +190,6 @@
 собою;собо́ю;form;он;он;2
 н-;н-;form;он;он;2
 г;г;form;он;он;2
-and;and;normal;and;and;2
-to;to;normal;to;to;3
 на;на;normal;на;на;3
 я;я;normal;я;я;4
 меня;меня́;form;я;я;4
@@ -243,8 +241,6 @@ to;to;normal;to;to;3
 нем;нём;normal;я;я;4
 н-;н-;form;я;я;4
 г;г;form;я;я;4
-a;a;normal;a;a;4
-in;in;normal;in;in;5
 тот;тот;normal;тот;тот;6
 тот;то́т;form;тот;тот;6
 то;то́;form;тот;тот;6
@@ -280,9 +276,6 @@ in;in;normal;in;in;5
 ту;ту;form;тот;тот;6
 тою;то́ю;form;тот;тот;6
 том;том;form;тот;тот;6
-that;that;normal;that;that;6
-that;that;form;that;that;6
-those;those;form;that;that;6
 быть;быть;normal;быть;быть;7
 есть;есть;form;быть;быть;7
 есмь;есмь;form;быть;быть;7
@@ -325,14 +318,7 @@ those;those;form;that;that;6
 есте;е́сте;form;быть;быть;7
 суть;су́ть;form;быть;быть;7
 будь;бу́дь;form;быть;быть;7
-for;for;normal;for;for;7
 с;с;normal;с;с;8
-have;have;normal;have;have;8
-have;have;form;have;have;8
-has;has;form;have;have;8
-had;had;form;have;have;8
-had;had;form;have;have;8
-having;having;form;have;have;8
 а;а;normal;а;а;9
 усиление;усиление;form;а;а;9
 решимость;решимость;form;а;а;9
@@ -340,58 +326,6 @@ having;having;form;have;have;8
 догадка;догадка;form;а;а;9
 узнавание;узнавание;form;а;а;9
 беспечность;беспечность;form;а;а;9
-it;it;normal;it;it;9
-itlər;itlər;form;it;it;9
-itin;itin;form;it;it;9
-itlərin;itlərin;form;it;it;9
-itə;itə;form;it;it;9
-itlərə;itlərə;form;it;it;9
-iti;iti;form;it;it;9
-itləri;itləri;form;it;it;9
-itdə;itdə;form;it;it;9
-itlərdə;itlərdə;form;it;it;9
-itdən;itdən;form;it;it;9
-itlərdən;itlərdən;form;it;it;9
-произношении;произношении;form;it;it;9
-itler;itler;form;it;it;9
-iti;iti;form;it;it;9
-itleri;itleri;form;it;it;9
-ite;ite;form;it;it;9
-itlere;itlere;form;it;it;9
-itte;itte;form;it;it;9
-itlerde;itlerde;form;it;it;9
-itten;itten;form;it;it;9
-itlerden;itlerden;form;it;it;9
-itin;itin;form;it;it;9
-itlerin;itlerin;form;it;it;9
-itlar;itlar;form;it;it;9
-itning;itning;form;it;it;9
-itlarning;itlarning;form;it;it;9
-itga;itga;form;it;it;9
-itlarga;itlarga;form;it;it;9
-itni;itni;form;it;it;9
-itlarni;itlarni;form;it;it;9
-itda;itda;form;it;it;9
-itlarda;itlarda;form;it;it;9
-itdan;itdan;form;it;it;9
-itlardan;itlardan;form;it;it;9
-			;			;form;it;it;9
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;it;it;9
-		Варианты	;		Варианты	;form;it;it;9
-							;							;form;it;it;9
-		Просмотры	;		Просмотры	;form;it;it;9
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;it;it;9
-		Ещё	;		Ещё	;form;it;it;9
-		Еще	;		Ещё	;normal;it;it;9
-							;							;form;it;it;9
-		Поиск	;		Поиск	;form;it;it;9
-																	;																	;form;it;it;9
-			;			;form;it;it;9
-			;			;form;it;it;9
-			;			;form;it;it;9
-			;			;form;it;it;9
-			;			;form;it;it;9
-on;on;normal;on;on;10
 это;э́то;normal;это;э́то;11
 это;э́то;form;это;э́то;11
 эти;э́ти;form;это;э́то;11
@@ -406,8 +340,6 @@ on;on;normal;on;on;10
 этими;э́тими;form;это;э́то;11
 этом;э́том;form;это;э́то;11
 этих;э́тих;form;это;э́то;11
-i;i;normal;i;i;11
-with;with;normal;with;with;12
 как;как;normal;как;как;12
 каграк;каграк;form;как;как;12
 как;как;form;как;как;12
@@ -459,7 +391,6 @@ Alt;Alt;form;как;как;12
 		Инструменты	;		Инструменты	;form;как;как;12
 			;			;form;как;как;12
 			;			;form;как;как;12
-not;not;normal;not;not;13
 она;она́;normal;она;она́;13
 она;она́;form;она;она́;13
 её;её;form;она;она́;13
@@ -527,9 +458,7 @@ not;not;normal;not;not;13
 нем;нём;normal;она;она́;13
 н-;н-;form;она;она́;13
 г;г;form;она;она́;13
-as;as;normal;as;as;14
 по;по;normal;по;по;14
-you;you;normal;you;you;15
 но;но;normal;но;но;15
 но;но;form;но;но;15
 но;но;form;но;но;15
@@ -561,33 +490,6 @@ you;you;normal;you;you;15
 		Инструменты	;		Инструменты	;form;но;но;15
 			;			;form;но;но;15
 			;			;form;но;но;15
-this;this;normal;this;this;16
-this;this;form;this;this;16
-these;these;form;this;this;16
-þis;þis;form;this;this;16
-*þa-;*þa-;form;this;this;16
-*þat;*þat;form;this;this;16
-*to-;*to-;form;this;this;16
-this;this;form;this;this;16
-disse;disse;form;this;this;16
-dizze;dizze;form;this;this;16
-dies;dies;form;this;this;16
-dieses;dieses;form;this;this;16
-			;			;form;this;this;16
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;this;this;16
-		Варианты	;		Варианты	;form;this;this;16
-							;							;form;this;this;16
-		Просмотры	;		Просмотры	;form;this;this;16
-		Ещё	;		Ещё	;form;this;this;16
-		Еще	;		Ещё	;normal;this;this;16
-							;							;form;this;this;16
-		Поиск	;		Поиск	;form;this;this;16
-																	;																	;form;this;this;16
-			;			;form;this;this;16
-			;			;form;this;this;16
-			;			;form;this;this;16
-			;			;form;this;this;16
-			;			;form;this;this;16
 они;они́;normal;они;они́;16
 они;они;form;они;они́;16
 их;их;form;они;они́;16
@@ -657,25 +559,7 @@ dieses;dieses;form;this;this;16
 н-;н-;form;они;они́;16
 г;г;form;они;они́;16
 к;к;normal;к;к;17
-by;by;normal;by;by;17
-bye;bye;form;by;by;17
-or;or;normal;or;or;18
-ors;ors;form;or;or;18
-aurum;aurum;form;or;or;18
 у;у;normal;у;у;18
-at;at;normal;at;at;19
-atlar;atlar;form;at;at;19
-atın;atın;form;at;at;19
-atların;atların;form;at;at;19
-ata;ata;form;at;at;19
-atlara;atlara;form;at;at;19
-atı;atı;form;at;at;19
-atları;atları;form;at;at;19
-atda;atda;form;at;at;19
-atlarda;atlarda;form;at;at;19
-atdan;atdan;form;at;at;19
-atlardan;atlardan;form;at;at;19
-ats;ats;form;at;at;19
 из;из;normal;из;из;19
 мы;мы;normal;мы;мы;20
 мы;мы;form;мы;мы;20
@@ -728,15 +612,7 @@ ats;ats;form;at;at;19
 нем;нём;normal;мы;мы;20
 н-;н-;form;мы;мы;20
 г;г;form;мы;мы;20
-do;do;normal;do;do;20
-does;does;form;do;do;20
-did;did;form;do;do;20
-done;done;form;do;do;20
-doing;doing;form;do;do;20
-dos;dos;form;do;do;20
-морфологииэтимологии;морфологииэтимологии;form;do;do;20
 за;за;normal;за;за;21
-from;from;normal;from;from;21
 ты;ты;normal;ты;ты;22
 ты;ты;form;ты;ты;22
 тебя;тебя́;form;ты;ты;22
@@ -788,8 +664,6 @@ from;from;normal;from;from;21
 нем;нём;normal;ты;ты;22
 н-;н-;form;ты;ты;22
 г;г;form;ты;ты;22
-we;we;normal;we;we;22
-an;an;normal;an;an;23
 вы;вы;normal;вы;вы;23
 вы;вы;form;вы;вы;23
 вас;вас;form;вы;вы;23
@@ -855,19 +729,6 @@ an;an;normal;an;an;23
 тактан;тактан;form;так;так;24
 таклардан;таклардан;form;так;так;24
 морфологиипроизношенииэтимологии;морфологиипроизношенииэтимологии;form;так;так;24
-will;will;normal;will;will;24
-will;will;form;will;will;24
-wills;wills;form;will;will;24
-would;would;form;will;will;24
-willing;willing;form;will;will;24
-will;will;form;will;will;24
-wills;wills;form;will;will;24
-willed;willed;form;will;will;24
-willed;willed;form;will;will;24
-willing;willing;form;will;will;24
-will;will;form;will;will;24
-wills;wills;form;will;will;24
-they;they;normal;they;they;25
 же;же;normal;же;же;25
 же;же;form;же;же;25
 же;же;form;же;же;25
@@ -881,9 +742,6 @@ they;they;normal;they;they;25
 же;же;form;же;же;25
 же;же;form;же;же;25
 же;же;form;же;же;25
-but;but;normal;but;but;26
-but;but;form;but;but;26
-buts;buts;form;but;but;26
 сказавший;сказа́вший;normal;сказавший;сказа́вший;26
 сказавший;сказа́вший;form;сказавший;сказа́вший;26
 сказавшее;сказа́вшее;form;сказавший;сказа́вший;26
@@ -966,11 +824,7 @@ buts;buts;form;but;but;26
 сказав;сказа́в;form;сказать;сказа́ть;26
 сказавши;сказа́вши;form;сказать;сказа́ть;26
 сказанный;ска́занный;form;сказать;сказа́ть;26
-all;all;normal;all;all;27
-all;all;form;all;all;27
-alls;alls;form;all;all;27
 от;от́;normal;от;от́;27
-he;he;normal;he;he;28
 этот;этот;normal;этот;этот;28
 этот;э́тот;form;этот;этот;28
 это;э́то;form;этот;этот;28
@@ -1025,25 +879,7 @@ he;he;normal;he;he;28
 которой;кото́рой;form;который;кото́рый;29
 которых;кото́рых;form;который;кото́рый;29
 которою;кото́рою;form;который;кото́рый;29
-your;your;normal;your;your;29
-if;if;normal;if;if;30
-can;can;normal;can;can;31
-can;can;form;can;can;31
-can;can;form;can;can;31
-could;could;form;can;can;31
-can;can;form;can;can;31
-cans;cans;form;can;can;31
-gan;gan;form;can;can;31
-nghan;nghan;form;can;can;31
-chan;chan;form;can;can;31
-can;can;form;can;can;31
-canach;canach;form;can;can;31
-cana(f);cana(f);form;can;can;31
-gan;gan;form;can;can;31
-nghan;nghan;form;can;can;31
-chan;chan;form;can;can;31
 о;о;normal;о;о;31
-their;their;normal;their;their;32
 человек;челове́к;normal;человек;челове́к;32
 обычное;обычное;form;человек;челове́к;32
 человек;челове́к;form;человек;челове́к;32
@@ -1070,16 +906,8 @@ their;their;normal;their;their;32
 человеках;челове́ках;form;человек;челове́к;32
 человече;челове́че;form;человек;челове́к;32
 люди;лю́ди;form;человек;челове́к;32
-one;one;normal;one;one;33
-one;one;form;one;one;33
-ones;ones;form;one;one;33
-:&#160;&#91;;:&#160;&#91;;form;one;one;33
-wʌn;wʌn;form;one;one;33
-&#93;;&#93;;form;one;one;33
 ещё;ещё;normal;еще;ещё;34
 еще;ещё;normal;еще;ещё;34
-more;more;normal;more;more;34
-which;which;normal;which;which;35
 бы;бы;normal;бы;бы;35
 такой;тако́й;normal;такой;тако́й;36
 такой;тако́й;form;такой;тако́й;36
@@ -1108,10 +936,7 @@ which;which;normal;which;which;35
 такой;тако́й;form;такой;тако́й;36
 таких;таки́х;form;такой;тако́й;36
 такою;тако́ю;form;такой;тако́й;36
-use;use;normal;use;use;36
 только;то́лько;normal;только;то́лько;37
-about;about;normal;about;about;37
-other;other;normal;other;other;38
 себя;себя́;normal;себя;себя́;38
 себя;себя́;form;себя;себя́;38
 себе;себе́;form;себя;себя́;38
@@ -1195,49 +1020,6 @@ other;other;normal;other;other;38
 своем;своём;normal;свое;свое;39
 своей;свое́й;form;свое;свое;39
 своих;свои́х;form;свое;свое;39
-make;make;normal;make;make;39
-make;make;form;make;make;39
-makes;makes;form;make;make;39
-made;made;form;make;make;39
-made;made;form;make;make;39
-making;making;form;make;make;39
-make;make;form;make;make;39
-makes;makes;form;make;make;39
-his;his;normal;his;his;40
-hic;hic;form;his;his;40
-haec;haec;form;his;his;40
-hoc;hoc;form;his;his;40
-hae;hae;form;his;his;40
-haec;haec;form;his;his;40
-huius;huius;form;his;his;40
-huius;huius;form;his;his;40
-huius;huius;form;his;his;40
-hōrum;hōrum;form;his;his;40
-hārum;hārum;form;his;his;40
-hōrum;hōrum;form;his;his;40
-huic;huic;form;his;his;40
-huic;huic;form;his;his;40
-huic;huic;form;his;his;40
-hīs;hīs;form;his;his;40
-hīs;hīs;form;his;his;40
-hīs;hīs;form;his;his;40
-hunc;hunc;form;his;his;40
-hanc;hanc;form;his;his;40
-hoc;hoc;form;his;his;40
-hōs;hōs;form;his;his;40
-hās;hās;form;his;his;40
-haec;haec;form;his;his;40
-hōc;hōc;form;his;his;40
-hāc;hāc;form;his;his;40
-hōc;hōc;form;his;his;40
-hīs;hīs;form;his;his;40
-hīs;hīs;form;his;his;40
-hīs;hīs;form;his;his;40
-hic;hic;form;his;his;40
-haec;haec;form;his;his;40
-hoc;hoc;form;his;his;40
-hae;hae;form;his;his;40
-haec;haec;form;his;his;40
 какой;како́й;normal;какой;како́й;40
 какой;како́й;form;какой;како́й;40
 какое;како́е;form;какой;како́й;40
@@ -1266,8 +1048,6 @@ haec;haec;form;his;his;40
 каких;каки́х;form;какой;како́й;40
 какою;како́ю;form;какой;како́й;40
 для;для;normal;для;для;41
-what;what;normal;what;what;41
-there;there;normal;there;there;42
 уже;уже́;normal;уже;уже́;42
 когда;когда́;normal;когда;когда́;43
 кто;кто;normal;кто;кто;44
@@ -1278,18 +1058,7 @@ there;there;normal;there;there;42
 кем;ке́м;form;кто;кто;44
 ком;ком;form;кто;кто;44
 ком;ко́м;form;кто;кто;44
-who;who;normal;who;who;44
-my;my;normal;my;my;45
-буква;буква;form;my;my;45
-греческого;греческого;form;my;my;45
-алфавита;алфавита;form;my;my;45
 вот;вот;normal;вот;вот;45
-say;say;normal;say;say;46
-say;say;form;say;say;46
-says;says;form;say;say;46
-said;said;form;say;say;46
-said;said;form;say;say;46
-saying;saying;form;say;say;46
 да;да;normal;да;да;46
 да;да;form;да;да;46
 да;да;form;да;да;46
@@ -1313,7 +1082,6 @@ saying;saying;form;say;say;46
 да;да;form;да;да;46
 да;да́;form;да;да;46
 но;но;form;да;да;46
-so;so;normal;so;so;47
 год;год;normal;год;год;47
 год;год;form;год;год;47
 го́ды&#160;//;го́ды&#160;//;form;год;год;47
@@ -1335,14 +1103,7 @@ so;so;normal;so;so;47
 летам;лета́м;form;год;год;47
 летами;лета́ми;form;год;год;47
 летах;лета́х;form;год;год;47
-when;when;normal;when;when;48
-time;time;normal;time;time;49
-time;time;form;time;time;49
-times;times;form;time;time;49
 если;е́сли;normal;если;е́сли;49
-new;new;normal;new;new;50
-newer;newer;form;new;new;50
-newest;newest;form;new;new;50
 до;до;normal;до;до;50
 до;до;form;до;до;50
 до;до;form;до;до;50
@@ -1356,7 +1117,6 @@ newest;newest;form;new;new;50
 до;до;form;до;до;50
 до;до;form;до;до;50
 до;до;form;до;до;50
-our;our;normal;our;our;51
 говоримый;говори́мый;normal;говоримый;говори́мый;51
 говоримое;говори́мое;form;говоримый;говори́мый;51
 говоримая;говори́мая;form;говоримый;говори́мый;51
@@ -1483,13 +1243,6 @@ our;our;normal;our;our;51
 		Инструменты	;		Инструменты	;form;или;и́ли;52
 			;			;form;или;и́ли;52
 			;			;form;или;и́ли;52
-get;get;normal;get;get;52
-get;get;form;get;get;52
-gets;gets;form;get;get;52
-got;got;form;get;get;52
-got,gotten;got,gotten;form;get;get;52
-getting;getting;form;get;get;52
-some;some;normal;some;some;53
 мой;мой;normal;мой;мой;53
 мой;мой;form;мой;мой;53
 моё;моё;form;мой;мой;53
@@ -1536,14 +1289,6 @@ some;some;normal;some;some;53
 временами;времена́ми;form;время;вре́мя;54
 времени;вре́мени;form;время;вре́мя;54
 временах;времена́х;form;время;вре́мя;54
-work;work;normal;work;work;54
-work;work;form;work;work;54
-works;works;form;work;work;54
-work;work;form;work;work;54
-works;works;form;work;work;54
-worked;worked;form;work;work;54
-worked;worked;form;work;work;54
-working;working;form;work;work;54
 рука;рука́;normal;рука;рука́;55
 рука;рука́;form;рука;рука́;55
 руки;ру́ки;form;рука;рука́;55
@@ -1558,10 +1303,6 @@ working;working;form;work;work;54
 руками;рука́ми;form;рука;рука́;55
 руке;руке́;form;рука;рука́;55
 руках;рука́х;form;рука;рука́;55
-may;may;normal;may;may;55
-may;may;form;may;may;55
-might;might;form;may;may;55
-might;might;form;may;may;55
 самый;са́мый;normal;самый;са́мый;56
 самый;са́мый;form;самый;са́мый;56
 самое;са́мое;form;самый;са́мый;56
@@ -1589,12 +1330,6 @@ might;might;form;may;may;55
 самой;са́мой;form;самый;са́мый;56
 самых;са́мых;form;самый;са́мый;56
 самою;са́мою;form;самый;са́мый;56
-out;out;normal;out;out;56
-out;out;form;out;out;56
-outs;outs;form;out;out;56
-outed;outed;form;out;out;56
-outed;outed;form;out;out;56
-outing;outing;form;out;out;56
 нет;нет;normal;нет;нет;57
 нет;не́т;form;нет;нет;57
 неты;не́ты;form;нет;нет;57
@@ -1608,10 +1343,6 @@ outing;outing;form;out;out;56
 нетами;не́тами;form;нет;нет;57
 нете;не́те;form;нет;нет;57
 нетах;не́тах;form;нет;нет;57
-year;year;normal;year;year;57
-year;year;form;year;year;57
-years;years;form;year;year;57
-also;also;normal;also;also;58
 ни;ни́;normal;ни;ни́;58
 ни;ни;form;ни;ни́;58
 нилр;нил́р;form;ни;ни́;58
@@ -1646,7 +1377,6 @@ also;also;normal;also;also;58
 		Инструменты	;		Инструменты	;form;ни;ни́;58
 			;			;form;ни;ни́;58
 			;			;form;ни;ни́;58
-people;people;normal;people;people;59
 большой;большо́й;normal;большой;большо́й;60
 большой;большо́й;form;большой;большо́й;60
 большое;большо́е;form;большой;большо́й;60
@@ -1678,8 +1408,6 @@ people;people;normal;people;people;59
 велика;велика́;form;большой;большо́й;60
 велики;велики́;form;большой;большо́й;60
 большою;большо́ю;form;большой;большо́й;60
-good;good;normal;good;good;60
-no;no;normal;no;no;61
 наш;наш;normal;наш;наш;61
 наш;на́ш;form;наш;наш;61
 наше;на́ше;form;наш;наш;61
@@ -1720,11 +1448,6 @@ no;no;normal;no;no;61
 наш;наш;form;наш;наш;61
 нашею;на́шею;form;наш;наш;61
 даже;да́же;normal;даже;да́же;62
-go;go;normal;go;go;62
-goes;goes;form;go;go;62
-went;went;form;go;go;62
-gone;gone;form;go;go;62
-going;going;form;go;go;62
 другой;друго́й;normal;другой;друго́й;63
 другой;друго́й;form;другой;друго́й;63
 другое;друго́е;form;другой;друго́й;63
@@ -1752,34 +1475,6 @@ going;going;form;go;go;62
 другой;друго́й;form;другой;друго́й;63
 других;други́х;form;другой;друго́й;63
 другою;друго́ю;form;другой;друго́й;63
-up;up;normal;up;up;63
-these;these;normal;these;these;64
-this;this;form;these;these;64
-these;these;form;these;these;64
-þis;þis;form;these;these;64
-*þa-;*þa-;form;these;these;64
-*þat;*þat;form;these;these;64
-*to-;*to-;form;these;these;64
-this;this;form;these;these;64
-disse;disse;form;these;these;64
-dizze;dizze;form;these;these;64
-dies;dies;form;these;these;64
-dieses;dieses;form;these;these;64
-			;			;form;these;these;64
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;these;these;64
-		Варианты	;		Варианты	;form;these;these;64
-							;							;form;these;these;64
-		Просмотры	;		Просмотры	;form;these;these;64
-		Ещё	;		Ещё	;form;these;these;64
-		Еще	;		Ещё	;normal;these;these;64
-							;							;form;these;these;64
-		Поиск	;		Поиск	;form;these;these;64
-																	;																	;form;these;these;64
-			;			;form;these;these;64
-			;			;form;these;these;64
-			;			;form;these;these;64
-			;			;form;these;these;64
-			;			;form;these;these;64
 свой;свой;normal;свой;свой;64
 свой;свой;form;свой;свой;64
 своё;своё;form;свой;свой;64
@@ -1812,7 +1507,6 @@ dieses;dieses;form;these;these;64
 своем;своём;normal;свой;свой;64
 своей;свое́й;form;свой;свой;64
 своих;свои́х;form;свой;свой;64
-than;than;normal;than;than;65
 дело;дело;normal;дело;дело;65
 дело;де́ло;form;дело;дело;65
 дела;дела́;form;дело;дело;65
@@ -1826,96 +1520,9 @@ than;than;normal;than;than;65
 делами;дела́ми;form;дело;дело;65
 деле;де́ле;form;дело;дело;65
 делах;дела́х;form;дело;дело;65
-take;take;normal;take;take;66
-take;take;form;take;take;66
-takes;takes;form;take;take;66
-took;took;form;take;take;66
-taken;taken;form;take;take;66
-taking;taking;form;take;take;66
-take;take;form;take;take;66
-takes;takes;form;take;take;66
 где;где;normal;где;где;67
-any;any;normal;any;any;67
-any;any;form;any;any;67
-anys;anys;form;any;any;67
-see;see;normal;see;see;68
-see;see;form;see;see;68
-sees;sees;form;see;see;68
-saw;saw;form;see;see;68
-seen;seen;form;see;see;68
-seeing;seeing;form;see;see;68
-see;see;form;see;see;68
-sees;sees;form;see;see;68
-see;see;form;see;see;68
-seë;seë;form;see;see;68
-склонение;склонение;form;see;see;68
-номинатив;номинатив;form;see;see;68
-see;see;form;see;see;68
-seet;seet;form;see;see;68
-генитив;генитив;form;see;see;68
-seen;seen;form;see;see;68
-seiden;seiden;form;see;see;68
-seitten;seitten;form;see;see;68
-аккузатив;аккузатив;form;see;see;68
-see;see;form;see;see;68
-seen;seen;form;see;see;68
-seet;seet;form;see;see;68
-партитив;партитив;form;see;see;68
-seetä;seetä;form;see;see;68
-seitä;seitä;form;see;see;68
-эссив;эссив;form;see;see;68
-seenä;seenä;form;see;see;68
-seinä;seinä;form;see;see;68
-транслатив;транслатив;form;see;see;68
-seeksi;seeksi;form;see;see;68
-seiksi;seiksi;form;see;see;68
-инессив;инессив;form;see;see;68
-seessä;seessä;form;see;see;68
-seissä;seissä;form;see;see;68
-элатив;элатив;form;see;see;68
-seestä;seestä;form;see;see;68
-seistä;seistä;form;see;see;68
-иллатив;иллатив;form;see;see;68
-seehen;seehen;form;see;see;68
-seihin;seihin;form;see;see;68
-адессив;адессив;form;see;see;68
-seellä;seellä;form;see;see;68
-seillä;seillä;form;see;see;68
-аблатив;аблатив;form;see;see;68
-seeltä;seeltä;form;see;see;68
-seiltä;seiltä;form;see;see;68
-аллатив;аллатив;form;see;see;68
-seelle;seelle;form;see;see;68
-seille;seille;form;see;see;68
-абессив;абессив;form;see;see;68
-seettä;seettä;form;see;see;68
-seittä;seittä;form;see;see;68
-комитатив;комитатив;form;see;see;68
-seineen;seineen;form;see;see;68
-инструктив;инструктив;form;see;see;68
-sein;sein;form;see;see;68
-see;see;form;see;see;68
-seeën;seeën;form;see;see;68
-море;море;form;see;see;68
-&#9670;&#160;;&#9670;&#160;;form;see;see;68
-			;			;form;see;see;68
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;see;see;68
-		Варианты	;		Варианты	;form;see;see;68
-							;							;form;see;see;68
-		Просмотры	;		Просмотры	;form;see;see;68
-		Ещё	;		Ещё	;form;see;see;68
-		Еще	;		Ещё	;normal;see;see;68
-							;							;form;see;see;68
-		Поиск	;		Поиск	;form;see;see;68
-																	;																	;form;see;see;68
-			;			;form;see;see;68
-			;			;form;see;see;68
-			;			;form;see;see;68
-			;			;form;see;see;68
-			;			;form;see;see;68
 чтобы;чтобы;normal;чтобы;чтобы;68
 ну;ну;normal;ну;ну;69
-how;how;normal;how;how;70
 сам;сам;normal;сам;сам;70
 сам;са́м;form;сам;сам;70
 само;само́;form;сам;сам;70
@@ -2049,7 +1656,6 @@ how;how;normal;how;how;70
 едящей;едя́щей;form;едящий;едя́щий;71
 едящих;едя́щих;form;едящий;едя́щий;71
 едящею;едя́щею;form;едящий;едя́щий;71
-them;them;normal;them;them;71
 евший;е́вший;normal;евший;е́вший;71
 евшее;е́вшее;form;евший;е́вший;71
 евшая;е́вшая;form;евший;е́вший;71
@@ -2158,7 +1764,6 @@ ras;ras;form;раз;раз;72
 		Инструменты	;		Инструменты	;form;раз;раз;72
 			;			;form;раз;раз;72
 			;			;form;раз;раз;72
-only;only;normal;only;only;72
 два;два;normal;два;два;73
 два;два́;form;два;два;73
 две;две́;form;два;два;73
@@ -2172,20 +1777,8 @@ only;only;normal;only;only;72
 две;две;form;два;два;73
 двух;двух;form;два;два;73
 двум;двум;form;два;два;73
-like;like;normal;like;like;73
-like;like;form;like;like;73
-likes;likes;form;like;like;73
 чем;чем;normal;чем;чем;74
-into;into;normal;into;into;74
 там;там;normal;там;там;75
-know;know;normal;know;know;75
-know;know;form;know;know;75
-knows;knows;form;know;know;75
-knew;knew;form;know;know;75
-known;known;form;know;know;75
-knowing;knowing;form;know;know;75
-know;know;form;know;know;75
-knows;knows;form;know;know;75
 глаз;глаз;normal;глаз;глаз;76
 глаз;гла́з;form;глаз;глаз;76
 глаза;глаза́;form;глаз;глаз;76
@@ -2200,7 +1793,6 @@ knows;knows;form;know;know;75
 глазе;гла́зе;form;глаз;глаз;76
 глазах;глаза́х;form;глаз;глаз;76
 глазу;глазу́;form;глаз;глаз;76
-need;need;normal;need;need;76
 первый;пе́рвый;normal;первый;пе́рвый;77
 первый;пе́рвый;form;первый;пе́рвый;77
 первое;пе́рвое;form;первый;пе́рвый;77
@@ -2249,8 +1841,6 @@ need;need;normal;need;need;76
 дням;дня́м;form;день;день;78
 дне;дне́;form;день;день;78
 днях;дня́х;form;день;день;78
-just;just;normal;just;just;78
-most;most;normal;most;most;79
 жизнь;жизнь;normal;жизнь;жизнь;79
 жизнь;жи́знь;form;жизнь;жизнь;79
 жизни;жи́зни;form;жизнь;жизнь;79
@@ -2265,8 +1855,6 @@ most;most;normal;most;most;79
 жизни;жи́зни;form;жизнь;жизнь;79
 жизнях;жи́знях;form;жизнь;жизнь;79
 во;во;normal;во;во;80
-first;first;normal;first;first;80
-such;such;normal;such;such;81
 тут;тут;normal;тут;тут;81
 тут;ту́т;form;тут;тут;81
 туты;ту́ты;form;тут;тут;81
@@ -2280,7 +1868,6 @@ such;such;normal;such;such;81
 тутами;ту́тами;form;тут;тут;81
 туте;ту́те;form;тут;тут;81
 тутах;ту́тах;form;тут;тут;81
-her;her;normal;her;her;82
 ничто;ничто́;normal;ничто;ничто́;82
 ничто;ничто́;form;ничто;ничто́;82
 ничего;ничего́;form;ничто;ничто́;82
@@ -2288,17 +1875,7 @@ her;her;normal;her;her;82
 ничто;ничто́;form;ничто;ничто́;82
 ничем;ниче́м;form;ничто;ничто́;82
 потом;пото́м;normal;потом;пото́м;83
-me;me;normal;me;me;83
 со;со;normal;со;со;84
-find;find;normal;find;find;84
-find;find;form;find;find;84
-finds;finds;form;find;find;84
-found;found;form;find;find;84
-found;found;form;find;find;84
-finding;finding;form;find;find;84
-find;find;form;find;find;84
-finds;finds;form;find;find;84
-many;many;normal;many;many;85
 очень;о́чень;normal;очень;о́чень;85
 ли;ли;normal;ли;ли;86
 ли;ли;form;ли;ли;86
@@ -2344,15 +1921,6 @@ many;many;normal;many;many;85
 		Инструменты	;		Инструменты	;form;ли;ли;86
 			;			;form;ли;ли;86
 			;			;form;ли;ли;86
-give;give;normal;give;give;86
-give;give;form;give;give;86
-gives;gives;form;give;give;86
-gave;gave;form;give;give;86
-given;given;form;give;give;86
-giving;giving;form;give;give;86
-way;way;normal;way;way;87
-way;way;form;way;way;87
-ways;ways;form;way;way;87
 при;при;normal;при;при;87
 хотевший;хоте́вший;normal;хотевший;хоте́вший;88
 хотевший;хоте́вший;form;хотевший;хоте́вший;88
@@ -2414,9 +1982,6 @@ ways;ways;form;way;way;87
 будем;бу́дем;form;хотеть;хоте́ть;88
 будете;бу́дете;form;хотеть;хоте́ть;88
 будут;бу́дут;form;хотеть;хоте́ть;88
-information;information;normal;information;information;88
-information;information;form;information;information;88
-informations;informations;form;information;information;88
 хотящий;хотя́щий;normal;хотящий;хотя́щий;88
 хотящее;хотя́щее;form;хотящий;хотя́щий;88
 хотящая;хотя́щая;form;хотящий;хотя́щий;88
@@ -2446,14 +2011,6 @@ informations;informations;form;information;information;88
 голове;голове́;form;голова;голова́;90
 головах;голова́х;form;голова;голова́;90
 голову;голову́;form;голова;голова́;90
-she;she;normal;she;she;90
-well;well;normal;well;well;91
-well;well;form;well;well;91
-wells;wells;form;well;well;91
-welled;welled;form;well;well;91
-welled;welled;form;well;well;91
-welling;welling;form;well;well;91
-welled;welled;form;well;well;91
 без;без;normal;без;без;91
 видящий;ви́дящий;normal;видящий;ви́дящий;92
 видящий;ви́дящий;form;видящий;ви́дящий;92
@@ -2574,16 +2131,7 @@ welled;welled;form;well;well;91
 видевшей;ви́девшей;form;видевший;ви́девший;92
 видевших;ви́девших;form;видевший;ви́девший;92
 видевшею;ви́девшею;form;видевший;ви́девший;92
-think;think;normal;think;think;92
-think;think;form;think;think;92
-thinks;thinks;form;think;think;92
-thought;thought;form;think;think;92
-thought;thought;form;think;think;92
-thinking;thinking;form;think;think;92
-think;think;form;think;think;92
-thinks;thinks;form;think;think;92
 теперь;тепе́рь;normal;теперь;тепе́рь;93
-include;include;normal;include;include;93
 шедший;ше́дший;normal;шедший;ше́дший;94
 шедший;ше́дший;form;шедший;ше́дший;94
 шедшее;ше́дшее;form;шедший;ше́дший;94
@@ -2611,7 +2159,6 @@ include;include;normal;include;include;93
 шедшей;ше́дшей;form;шедший;ше́дший;94
 шедших;ше́дших;form;шедший;ше́дший;94
 шедшею;ше́дшею;form;шедший;ше́дший;94
-now;now;normal;now;now;94
 идущий;иду́щий;normal;идущий;иду́щий;94
 идущий;иду́щий;form;идущий;иду́щий;94
 идущее;иду́щее;form;идущий;иду́щий;94
@@ -2692,10 +2239,6 @@ now;now;normal;now;now;94
 друге;дру́ге;form;друг;друг;95
 друзьях;друзья́х;form;друг;друг;95
 друже;дру́же;form;друг;друг;95
-two;two;normal;two;two;95
-two;two;form;two;two;95
-twos;twos;form;two;two;95
-over;over;normal;over;over;96
 сейчас;сейча́с;normal;сейчас;сейча́с;96
 стоявший;стоявший;normal;стоявший;стоявший;97
 стоявшее;стоя́вшее;form;стоявший;стоявший;97
@@ -2740,21 +2283,6 @@ over;over;normal;over;over;96
 будем;бу́дем;form;стоять;стоя́ть;97
 будете;бу́дете;form;стоять;стоя́ть;97
 будут;бу́дут;form;стоять;стоя́ть;97
-could;could;normal;could;could;97
-can;can;form;could;could;97
-can;can;form;could;could;97
-could;could;form;could;could;97
-can;can;form;could;could;97
-cans;cans;form;could;could;97
-gan;gan;form;could;could;97
-nghan;nghan;form;could;could;97
-chan;chan;form;could;could;97
-can;can;form;could;could;97
-canach;canach;form;could;could;97
-cana(f);cana(f);form;could;could;97
-gan;gan;form;could;could;97
-nghan;nghan;form;could;could;97
-chan;chan;form;could;could;97
 дом;дом;normal;дом;дом;98
 дом;дом;form;дом;дом;98
 дома;дома́;form;дом;дом;98
@@ -2770,11 +2298,8 @@ chan;chan;form;could;could;97
 домах;дома́х;form;дом;дом;98
 домы;до́мы;form;дом;дом;98
 дому;дому́;form;дом;дом;98
-then;then;normal;then;then;98
 тоже;то́же;normal;тоже;то́же;99
-because;because;normal;because;because;99
 после;по́сле;normal;после;по́сле;100
-us;us;normal;us;us;100
 можно;мо́жно;normal;можно;мо́жно;101
 слово;сло́во;normal;слово;сло́во;102
 слово;сло́во;form;слово;сло́во;102
@@ -2789,14 +2314,6 @@ us;us;normal;us;us;100
 словами;слова́ми;form;слово;сло́во;102
 слове;сло́ве;form;слово;сло́во;102
 словах;слова́х;form;слово;сло́во;102
-very;very;normal;very;very;102
-come;come;normal;come;come;103
-come;come;form;come;come;103
-comes;comes;form;come;come;103
-came;came;form;come;come;103
-come;come;form;come;come;103
-coming;coming;form;come;come;103
-come;come;form;come;come;103
 через;че́рез;normal;через;че́рез;103
 черезы;че́резы;form;через;че́рез;103
 череза;че́реза;form;через;че́рез;103
@@ -2821,7 +2338,6 @@ come;come;form;come;come;103
 месте;ме́сте;form;место;место;104
 местах;места́х;form;место;место;104
 мест;ме́ст;form;место;место;104
-after;after;normal;after;after;104
 думать;ду́мать;normal;думать;ду́мать;105
 думаю;ду́маю;form;думать;ду́мать;105
 думал;ду́мал;form;думать;ду́мать;105
@@ -2854,9 +2370,6 @@ after;after;normal;after;after;104
 будем;бу́дем;form;думать;ду́мать;105
 будете;бу́дете;form;думать;ду́мать;105
 будут;бу́дут;form;думать;ду́мать;105
-day;day;normal;day;day;105
-day;day;form;day;day;105
-days;days;form;day;day;105
 думавший;ду́мавший;normal;думавший;ду́мавший;105
 думавший;ду́мавший;form;думавший;ду́мавший;105
 думавшее;ду́мавшее;form;думавший;ду́мавший;105
@@ -2898,9 +2411,6 @@ days;days;form;day;day;105
 думающими;ду́мающими;form;думающий;думающий;105
 думающем;ду́мающем;form;думающий;думающий;105
 здесь;здесь;normal;здесь;здесь;106
-those;those;normal;those;those;106
-that;that;form;those;those;106
-those;those;form;those;those;106
 спросить;спроси́ть;normal;спросить;спроси́ть;107
 спрошу;спрошу́;form;спросить;спроси́ть;107
 спросил;спроси́л;form;спросить;спроси́ть;107
@@ -2925,22 +2435,6 @@ those;those;form;those;those;106
 спросив;спроси́в;form;спросить;спроси́ть;107
 спросивши;спроси́вши;form;спросить;спроси́ть;107
 спрошенный;спро́шенный;form;спросить;спроси́ть;107
-even;even;normal;even;even;107
-			;			;form;even;even;107
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;even;even;107
-		Варианты	;		Варианты	;form;even;even;107
-							;							;form;even;even;107
-		Просмотры	;		Просмотры	;form;even;even;107
-		Ещё	;		Ещё	;form;even;even;107
-		Еще	;		Ещё	;normal;even;even;107
-							;							;form;even;even;107
-		Поиск	;		Поиск	;form;even;even;107
-																	;																	;form;even;even;107
-			;			;form;even;even;107
-			;			;form;even;even;107
-			;			;form;even;even;107
-			;			;form;even;even;107
-			;			;form;even;even;107
 спрошенный;спро́шенный;normal;спрошенный;спро́шенный;107
 спрошенное;спро́шенное;form;спрошенный;спро́шенный;107
 спрошенная;спро́шенная;form;спрошенный;спро́шенный;107
@@ -2998,41 +2492,6 @@ even;even;normal;even;even;107
 лицами;ли́цами;form;лицо;лицо́;108
 лице;лице́;form;лицо;лицо́;108
 лицах;ли́цах;form;лицо;лицо́;108
-right;right;normal;right;right;108
-righter;righter;form;right;right;108
-right;right;form;right;right;108
-rights;rights;form;right;right;108
-right;right;form;right;right;108
-right;right;form;right;right;108
-right;right;form;right;right;108
-right;right;form;right;right;108
-rights;rights;form;right;right;108
-righted;righted;form;right;right;108
-righted;righted;form;right;right;108
-righting;righting;form;right;right;108
-			;			;form;right;right;108
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;right;right;108
-		Варианты	;		Варианты	;form;right;right;108
-							;							;form;right;right;108
-		Просмотры	;		Просмотры	;form;right;right;108
-		Ещё	;		Ещё	;form;right;right;108
-		Еще	;		Ещё	;normal;right;right;108
-							;							;form;right;right;108
-		Поиск	;		Поиск	;form;right;right;108
-																	;																	;form;right;right;108
-			;			;form;right;right;108
-			;			;form;right;right;108
-			;			;form;right;right;108
-			;			;form;right;right;108
-			;			;form;right;right;108
-state;state;normal;state;state;109
-state;state;form;state;state;109
-states;states;form;state;state;109
-state;state;form;state;state;109
-states;states;form;state;state;109
-stated;stated;form;state;state;109
-stated;stated;form;state;state;109
-stating;stating;form;state;state;109
 тогда;тогда́;normal;тогда;тогда́;109
 что;что;normal;что;что;110
 что;что́;form;что;что;110
@@ -3044,12 +2503,6 @@ stating;stating;form;state;state;109
 чем;чём;normal;что;что;110
 что;что́;form;что;что;110
 чем;че́м;form;что;что;110
-system;system;normal;system;system;110
-system;system;form;system;system;110
-systems;systems;form;system;system;110
-where;where;normal;where;where;111
-where;where;form;where;where;111
-wheres;wheres;form;where;where;111
 должный;до́лжный;normal;должный;до́лжный;111
 должный;до́лжный;form;должный;до́лжный;111
 должное;до́лжное;form;должный;до́лжный;111
@@ -3101,22 +2554,6 @@ wheres;wheres;form;where;where;111
 			;			;form;ведь;ведь;112
 AzərbaycancaБеларускаяᏣᎳᎩKaszëbscziΕλληνικάEnglishEestiEuskaraSuomiFrançaisMagyarIdo한국어KurdîLietuviųMalagasyNederlandsPolskiپښتوPortuguêsТоҷикӣTürkçeOʻzbekcha/ўзбекча中文;AzərbaycancaБеларускаяᏣᎳᎩKaszëbscziΕλληνικάEnglishEestiEuskaraSuomiFrançaisMagyarIdo한국어KurdîLietuviųMalagasyNederlandsPolskiپښتوPortuguêsТоҷикӣTürkçeOʻzbekcha/ўзбекча中文;form;ведь;ведь;112
 			;			;form;ведь;ведь;112
-want;want;normal;want;want;112
-want;want;form;want;want;112
-wants;wants;form;want;want;112
-wanted;wanted;form;want;want;112
-wanted;wanted;form;want;want;112
-wanting;wanting;form;want;want;112
-want;want;form;want;want;112
-wants;wants;form;want;want;112
-book;book;normal;book;book;113
-book;book;form;book;book;113
-books;books;form;book;book;113
-book;book;form;book;book;113
-books;books;form;book;book;113
-booked;booked;form;book;book;113
-booked;booked;form;book;book;113
-booking;booking;form;book;book;113
 новый;но́вый;normal;новый;но́вый;113
 новый;но́вый;form;новый;но́вый;113
 новое;но́вое;form;новый;но́вый;113
@@ -3177,7 +2614,6 @@ booking;booking;form;book;book;113
 каждой;ка́ждой;form;каждый;ка́ждый;114
 каждых;ка́ждых;form;каждый;ка́ждый;114
 каждою;ка́ждою;form;каждый;ка́ждый;114
-through;through;normal;through;through;114
 хороший;хоро́ший;normal;хороший;хоро́ший;115
 хороший;хоро́ший;form;хороший;хоро́ший;115
 хорошее;хоро́шее;form;хороший;хоро́ший;115
@@ -3209,9 +2645,6 @@ through;through;normal;through;through;114
 хороша;хороша́;form;хороший;хоро́ший;115
 хороши;хороши́;form;хороший;хоро́ший;115
 хорошею;хоро́шею;form;хороший;хоро́ший;115
-world;world;normal;world;world;115
-world;world;form;world;world;115
-worlds;worlds;form;world;world;115
 живущий;живу́щий;normal;живущий;живу́щий;116
 живущий;живу́щий;form;живущий;живу́щий;116
 живущее;живу́щее;form;живущий;живу́щий;116
@@ -3239,14 +2672,6 @@ worlds;worlds;form;world;world;115
 живущей;живу́щей;form;живущий;живу́щий;116
 живущих;живу́щих;form;живущий;живу́щий;116
 живущею;живу́щею;form;живущий;живу́щий;116
-look;look;normal;look;look;116
-look;look;form;look;look;116
-looks;looks;form;look;look;116
-looked;looked;form;look;look;116
-looked;looked;form;look;look;116
-looking;looking;form;look;look;116
-look;look;form;look;look;116
-looks;looks;form;look;look;116
 живший;жи́вший;normal;живший;жи́вший;116
 живший;жи́вший;form;живший;жи́вший;116
 жившее;жи́вшее;form;живший;жи́вший;116
@@ -3312,19 +2737,7 @@ looks;looks;form;look;look;116
 жило;жи́ло;form;жить;жить;116
 жило;жило́;form;жить;жить;116
 почему;почему́;normal;почему;почему́;117
-service;service;normal;service;service;118
-service;service;form;service;service;118
-services;services;form;service;service;118
-&#91;Merriam-Webster&#93;;&#91;Merriam-Webster&#93;;form;service;service;118
 потому;потому́;normal;потому;потому́;118
-post;post;normal;post;post;119
-post;post;form;post;post;119
-posts;posts;form;post;post;119
-post;post;form;post;post;119
-posts;posts;form;post;post;119
-posted;posted;form;post;post;119
-posted;posted;form;post;post;119
-posting;posting;form;post;post;119
 сторона;сторона́;normal;сторона;сторона́;119
 сторона;сторона́;form;сторона;сторона́;119
 стороны;сто́роны;form;сторона;сторона́;119
@@ -3423,7 +2836,6 @@ posting;posting;form;post;post;119
 смотрящей;смотря́щей;form;смотрящий;смотря́щий;120
 смотрящих;смотря́щих;form;смотрящий;смотря́щий;120
 смотрящею;смотря́щею;form;смотрящий;смотря́щий;120
-much;much;normal;much;much;120
 иметь;име́ть;normal;иметь;име́ть;121
 имею;име́ю;form;иметь;име́ть;121
 имел;име́л;form;иметь;име́ть;121
@@ -3455,14 +2867,6 @@ much;much;normal;much;much;120
 будем;бу́дем;form;иметь;име́ть;121
 будете;бу́дете;form;иметь;име́ть;121
 будут;бу́дут;form;иметь;име́ть;121
-change;change;normal;change;change;121
-change;change;form;change;change;121
-changes;changes;form;change;change;121
-change;change;form;change;change;121
-changes;changes;form;change;change;121
-changed;changed;form;change;change;121
-changed;changed;form;change;change;121
-changing;changing;form;change;change;121
 имеющий;име́ющий;normal;имеющий;име́ющий;121
 имеющий;име́ющий;form;имеющий;име́ющий;121
 имеющее;име́ющее;form;имеющий;име́ющий;121
@@ -3518,32 +2922,6 @@ changing;changing;form;change;change;121
 имевших;име́вших;form;имевший;име́вший;121
 имевшею;име́вшею;form;имевший;име́вший;121
 просто;про́сто;normal;просто;про́сто;122
-back;back;normal;back;back;122
-back;back;form;back;back;122
-backs;backs;form;back;back;122
-back;back;form;back;back;122
-backs;backs;form;back;back;122
-backed;backed;form;back;back;122
-backed;backed;form;back;back;122
-backing;backing;form;back;back;122
-(файл);(файл);form;back;back;122
-confirm;confirm;form;back;back;122
-			;			;form;back;back;122
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;back;back;122
-		Варианты	;		Варианты	;form;back;back;122
-							;							;form;back;back;122
-		Просмотры	;		Просмотры	;form;back;back;122
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;back;back;122
-		Ещё	;		Ещё	;form;back;back;122
-		Еще	;		Ещё	;normal;back;back;122
-							;							;form;back;back;122
-		Поиск	;		Поиск	;form;back;back;122
-																	;																	;form;back;back;122
-			;			;form;back;back;122
-			;			;form;back;back;122
-			;			;form;back;back;122
-			;			;form;back;back;122
-			;			;form;back;back;122
 понявший;поня́вший;normal;понявший;поня́вший;123
 понявший;поня́вший;form;понявший;поня́вший;123
 понявшее;поня́вшее;form;понявший;поня́вший;123
@@ -3617,15 +2995,6 @@ confirm;confirm;form;back;back;122
 поняв;поня́в;form;понять;поня́ть;123
 понявши;поня́вши;form;понять;поня́ть;123
 понятый;по́нятый;form;понять;поня́ть;123
-student;student;normal;student;student;123
-help;help;normal;help;help;124
-help;help;form;help;help;124
-helps;helps;form;help;help;124
-helped;helped;form;help;help;124
-helped;helped;form;help;help;124
-helping;helping;form;help;help;124
-help;help;form;help;help;124
-helps;helps;form;help;help;124
 сидевший;сидевший;normal;сидевший;сидевший;124
 сидевший;сидевший;form;сидевший;сидевший;124
 сидевшее;сидевшее;form;сидевший;сидевший;124
@@ -3708,7 +3077,6 @@ helps;helps;form;help;help;124
 сидящею;сидя́щею;form;сидящий;сидя́щий;124
 сидящими;сидя́щими;form;сидящий;сидя́щий;124
 сидящем;сидя́щем;form;сидящий;сидя́щий;124
-programme;programme;normal;programme;programme;125
 об;об;normal;об;об;125
 нога;нога́;normal;нога;нога́;126
 нога;нога́;form;нога;нога́;126
@@ -3737,9 +3105,6 @@ programme;programme;normal;programme;programme;125
 ногами;нога́ми;form;нога;нога́;126
 ноге;ноге́;form;нога;нога́;126
 ногах;нога́х;form;нога;нога́;126
-life;life;normal;life;life;126
-life;life;form;life;life;126
-lives;lives;form;life;life;126
 делающий;де́лающий;normal;делающий;де́лающий;127
 делающий;де́лающий;form;делающий;де́лающий;127
 делающее;де́лающее;form;делающий;де́лающий;127
@@ -3816,14 +3181,6 @@ lives;lives;form;life;life;126
 делаемо;де́лаемо;form;делаемый;де́лаемый;127
 делаема;де́лаема;form;делаемый;де́лаемый;127
 делаемы;де́лаемы;form;делаемый;де́лаемый;127
-call;call;normal;call;call;127
-call;call;form;call;call;127
-calls;calls;form;call;call;127
-call;call;form;call;call;127
-calls;calls;form;call;call;127
-called;called;form;call;call;127
-called;called;form;call;call;127
-calling;calling;form;call;call;127
 делавший;де́лавший;normal;делавший;де́лавший;127
 делавший;де́лавший;form;делавший;де́лавший;127
 делавшее;де́лавшее;form;делавший;де́лавший;127
@@ -3882,9 +3239,6 @@ calling;calling;form;call;call;127
 сделана;сде́лана;form;сделанный;сде́ланный;128
 сделаны;сде́ланы;form;сделанный;сде́ланный;128
 сделанною;сде́ланною;form;сделанный;сде́ланный;128
-school;school;normal;school;school;128
-school;school;form;school;school;128
-schools;schools;form;school;school;128
 сделать;сделать;normal;сделать;сделать;128
 сделаю;сде́лаю;form;сделать;сделать;128
 сделал;сде́лал;form;сделать;сделать;128
@@ -3936,9 +3290,6 @@ schools;schools;form;school;school;128
 сделавшей;сде́лавшей;form;сделавший;сде́лавший;128
 сделавших;сде́лавших;form;сделавший;сде́лавший;128
 сделавшею;сде́лавшею;form;сделавший;сде́лавший;128
-being;being;normal;being;being;129
-being;being;form;being;being;129
-beings;beings;form;being;being;129
 вдруг;вдруг;normal;вдруг;вдруг;129
 никто;никто́;normal;никто;никто́;130
 никто;никто́;form;никто;никто́;130
@@ -3946,29 +3297,6 @@ beings;beings;form;being;being;129
 никому;никому́;form;никто;никто́;130
 никого;никого́;form;никто;никто́;130
 никем;нике́м;form;никто;никто́;130
-each;each́;normal;each;each́;130
-each;each;form;each;each́;130
-eachen;eachen;form;each;each́;130
-each;each;form;each;each́;130
-			;			;form;each;each́;130
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;each;each́;130
-		Варианты	;		Варианты	;form;each;each́;130
-							;							;form;each;each́;130
-		Просмотры	;		Просмотры	;form;each;each́;130
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;each;each́;130
-		Ещё	;		Ещё	;form;each;each́;130
-		Еще	;		Ещё	;normal;each;each́;130
-							;							;form;each;each́;130
-		Поиск	;		Поиск	;form;each;each́;130
-																	;																	;form;each;each́;130
-			;			;form;each;each́;130
-			;			;form;each;each́;130
-			;			;form;each;each́;130
-			;			;form;each;each́;130
-			;			;form;each;each́;130
-child;child;normal;child;child;131
-child;child;form;child;child;131
-children;children;form;child;child;131
 работа;рабо́та;normal;работа;рабо́та;131
 работа;рабо́та;form;работа;рабо́та;131
 работы;рабо́ты;form;работа;рабо́та;131
@@ -3983,12 +3311,6 @@ children;children;form;child;child;131
 работами;рабо́тами;form;работа;рабо́та;131
 работе;рабо́те;form;работа;рабо́та;131
 работах;рабо́тах;form;работа;рабо́та;131
-here;here;normal;here;here;132
-here;here;form;here;here;132
-herék;herék;form;here;here;132
-thing;thing;normal;thing;thing;133
-thing;thing;form;thing;thing;133
-things;things;form;thing;thing;133
 ваш;ваш;normal;ваш;ваш;133
 ваш;ва́ш;form;ваш;ваш;133
 ваше;ва́ше;form;ваш;ваш;133
@@ -4073,12 +3395,7 @@ things;things;form;thing;thing;133
 нужной;ну́жной;form;нужный;ну́жный;134
 нужных;ну́жных;form;нужный;ну́жный;134
 нужною;ну́жною;form;нужный;ну́жный;134
-must;must;normal;must;must;134
 над;над;normal;над;над;135
-part;part;normal;part;part;135
-part;part;form;part;part;135
-parts;parts;form;part;part;135
-great;great;normal;great;great;136
 взявший;взя́вший;normal;взявший;взя́вший;136
 взявший;взя́вший;form;взявший;взя́вший;136
 взявшее;взя́вшее;form;взявший;взя́вший;136
@@ -4169,9 +3486,6 @@ great;great;normal;great;great;136
 взятый;взя́тый;form;взять;взять;136
 взяло;взя́ло;form;взять;взять;136
 взяло;взяло́;form;взять;взять;136
-group;group;normal;group;group;137
-group;group;form;group;group;137
-groups;groups;form;group;group;137
 конечно;коне́чно;normal;конечно;коне́чно;137
 понимаемый;понима́емый;normal;понимаемый;понима́емый;138
 понимаемое;понима́емое;form;понимаемый;понима́емый;138
@@ -4217,9 +3531,6 @@ groups;groups;form;group;group;137
 понимавшей;понима́вшей;form;понимавший;понима́вший;138
 понимавших;понима́вших;form;понимавший;понима́вший;138
 понимавшею;понима́вшею;form;понимавший;понима́вший;138
-high;high;normal;high;high;138
-high;high;form;high;high;138
-highs;highs;form;high;high;138
 понимать;понима́ть;normal;понимать;понима́ть;138
 понимаю;понима́ю;form;понимать;понима́ть;138
 понимал;понима́л;form;понимать;понима́ть;138
@@ -4293,7 +3604,6 @@ highs;highs;form;high;high;138
 понимающе;понима́юще;form;понимающий;понима́ющий;138
 понимающа;понима́юща;form;понимающий;понима́ющий;138
 понимающи;понима́ющи;form;понимающий;понима́ющий;138
-number;number;normal;number;number;139
 дверь;дверь;normal;дверь;дверь;139
 дверь;две́рь;form;дверь;дверь;139
 двери;две́ри;form;дверь;дверь;139
@@ -4351,7 +3661,6 @@ number;number;normal;number;number;139
 будем;бу́дем;form;казаться;каза́ться;140
 будете;бу́дете;form;казаться;каза́ться;140
 будут;бу́дут;form;казаться;каза́ться;140
-before;before;normal;before;before;140
 три;три;normal;три;три;141
 три;три́;form;три;три;141
 трёх;трёх;form;три;три;141
@@ -4365,14 +3674,6 @@ before;before;normal;before;before;140
 тремя;тремя́;form;три;три;141
 трёх;трёх;form;три;три;141
 трех;трёх;normal;три;три;141
-show;show;normal;show;show;141
-show;show;form;show;show;141
-shows;shows;form;show;show;141
-showed;showed;form;show;show;141
-shown;shown;form;show;show;141
-showing;showing;form;show;show;141
-show;show;form;show;show;141
-shows;shows;form;show;show;141
 конец;коне́ц;normal;конец;коне́ц;142
 конец;коне́ц;form;конец;коне́ц;142
 концы;концы́;form;конец;коне́ц;142
@@ -4386,8 +3687,6 @@ shows;shows;form;show;show;141
 концами;конца́ми;form;конец;коне́ц;142
 конце;конце́;form;конец;коне́ц;142
 концах;конца́х;form;конец;коне́ц;142
-between;betweeń;normal;between;betweeń;142
-report;report;normal;report;report;143
 город;го́род;normal;город;го́род;143
 город;го́род;form;город;го́род;143
 города;города́;form;город;го́род;143
@@ -4401,23 +3700,6 @@ report;report;normal;report;report;143
 городами;города́ми;form;город;го́род;143
 городе;го́роде;form;город;го́род;143
 городах;города́х;form;город;го́род;143
-own;own;normal;own;own;144
-			;			;form;own;own;144
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;own;own;144
-		Варианты	;		Варианты	;form;own;own;144
-							;							;form;own;own;144
-		Просмотры	;		Просмотры	;form;own;own;144
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;own;own;144
-		Ещё	;		Ещё	;form;own;own;144
-		Еще	;		Ещё	;normal;own;own;144
-							;							;form;own;own;144
-		Поиск	;		Поиск	;form;own;own;144
-																	;																	;form;own;own;144
-			;			;form;own;own;144
-			;			;form;own;own;144
-			;			;form;own;own;144
-			;			;form;own;own;144
-			;			;form;own;own;144
 начатый;на́чатый;normal;начатый;на́чатый;145
 начатый;на́чатый;form;начатый;на́чатый;145
 начатое;на́чатое;form;начатый;на́чатый;145
@@ -4476,7 +3758,6 @@ own;own;normal;own;own;144
 начавшей;нача́вшей;form;начавший;нача́вший;145
 начавших;нача́вших;form;начавший;нача́вший;145
 начавшею;нача́вшею;form;начавший;нача́вший;145
-him;him;normal;him;him;145
 начать;нача́ть;normal;начать;нача́ть;145
 начну;начну́;form;начать;нача́ть;145
 начал;на́чал;form;начать;нача́ть;145
@@ -4506,7 +3787,6 @@ him;him;normal;him;him;145
 начав;нача́в;form;начать;нача́ть;145
 начавши;нача́вши;form;начать;нача́ть;145
 начатый;на́чатый;form;начать;нача́ть;145
-while;while;normal;while;while;146
 голос;го́лос;normal;голос;го́лос;146
 голос;го́лос;form;голос;го́лос;146
 голоса;голоса́;form;голос;го́лос;146
@@ -4536,24 +3816,7 @@ while;while;normal;while;while;146
 часах;часа́х;form;час;час;147
 часу;часу́;form;час;час;147
 часа;часа́;form;час;час;147
-place;place;normal;place;place;147
 пока;пока́;normal;пока;пока́;148
-support;support;normal;support;support;148
-support;support;form;support;support;148
-supports;supports;form;support;support;148
-support;support;form;support;support;148
-supports;supports;form;support;support;148
-supported;supported;form;support;support;148
-supported;supported;form;support;support;148
-supporting;supporting;form;support;support;148
-issue;issue;normal;issue;issue;149
-issue;issue;form;issue;issue;149
-issues;issues;form;issue;issue;149
-issue;issue;form;issue;issue;149
-issues;issues;form;issue;issue;149
-issued;issued;form;issue;issue;149
-issued;issued;form;issue;issue;149
-issuing;issuing;form;issue;issue;149
 последний;после́дний;normal;последний;после́дний;150
 последний;после́дний;form;последний;после́дний;150
 последнее;после́днее;form;последний;после́дний;150
@@ -4586,17 +3849,7 @@ issuing;issuing;form;issue;issue;149
 последня;после́дня;form;последний;после́дний;150
 последни;после́дни;form;последний;после́дний;150
 последнею;после́днею;form;последний;после́дний;150
-long;long;normal;long;long;150
-longer;longer;form;long;long;150
-longest;longest;form;long;long;150
 более;бо́лее;normal;более;бо́лее;151
-become;become;normal;become;become;151
-become;become;form;become;become;151
-becomes;becomes;form;become;become;151
-became;became;form;become;become;151
-become;become;form;become;become;151
-becoming;becoming;form;become;become;151
-follow;follow;normal;follow;follow;152
 земля;земля́;normal;земля;земля́;152
 земля;земля́;form;земля;земля́;152
 земли;зе́мли;form;земля;земля́;152
@@ -4635,19 +3888,7 @@ follow;follow;normal;follow;follow;152
 &#42;;&#42;;form;земля;земля́;152
 землях;зе́млях;form;земля;земля́;152
 хорошо;хорошо́;normal;хорошо;хорошо́;153
-case;case;normal;case;case;153
-case;case;form;case;case;153
-cases;cases;form;case;case;153
-case;case;form;case;case;153
-cases;cases;form;case;case;153
-case;case;form;case;case;153
-cases;cases;form;case;case;153
-cased;cased;form;case;case;153
-cased;cased;form;case;case;153
-casing;casing;form;case;case;153
 хотя;хотя́;normal;хотя;хотя́;154
-company;company;normal;company;company;154
-same;same;normal;same;same;155
 сила;си́ла;normal;сила;си́ла;155
 сила;си́ла;form;сила;си́ла;155
 силы;си́лы;form;сила;си́ла;155
@@ -4697,9 +3938,6 @@ same;same;normal;same;same;155
 водою;во́дою;form;вода;во́да;156
 воде;во́де;form;вода;во́да;156
 вод;во́д;form;вода;во́да;156
-problem;problem;normal;problem;problem;157
-problem;problem;form;problem;problem;157
-problems;problems;form;problem;problem;157
 второй;второ́й;normal;второй;второ́й;157
 второй;второ́й;form;второй;второ́й;157
 второе;второ́е;form;второй;второ́й;157
@@ -4771,9 +4009,6 @@ problems;problems;form;problem;problem;157
 увидевшей;уви́девшей;form;увидевший;уви́девший;158
 увидевших;уви́девших;form;увидевший;уви́девший;158
 увидевшею;уви́девшею;form;увидевший;уви́девший;158
-government;government;normal;government;government;158
-government;government;form;government;government;158
-governments;governments;form;government;government;158
 увидеть;уви́деть;normal;увидеть;уви́деть;158
 увижу;уви́жу;form;увидеть;уви́деть;158
 увидел;уви́дел;form;увидеть;уви́деть;158
@@ -4798,11 +4033,7 @@ governments;governments;form;government;government;158
 увидев;уви́дев;form;увидеть;уви́деть;158
 увидевши;уви́девши;form;увидеть;уви́деть;158
 увиденный;уви́денный;form;увидеть;уви́деть;158
-question;question;normal;question;question;159
 всегда;всегда́;normal;всегда;всегда́;159
-member;member;normal;member;member;160
-member;member;form;member;member;160
-members;members;form;member;member;160
 дающий;даю́щий;normal;дающий;даю́щий;160
 дающее;даю́щее;form;дающий;даю́щий;160
 дающая;даю́щая;form;дающий;даю́щий;160
@@ -4908,20 +4139,6 @@ members;members;form;member;member;160
 случаями;слу́чаями;form;случай;слу́чай;161
 случае;слу́чае;form;случай;слу́чай;161
 случаях;слу́чаях;form;случай;слу́чай;161
-point;point;normal;point;point;161
-point;point;form;point;point;161
-points;points;form;point;point;161
-point;point;form;point;point;161
-points;points;form;point;point;161
-pointed;pointed;form;point;point;161
-pointed;pointed;form;point;point;161
-pointing;pointing;form;point;point;161
-area;area;normal;area;area;162
-area;area;form;area;area;162
-areas;areas;form;area;area;162
-site;site;normal;site;site;163
-site;site;form;site;site;163
-sites;sites;form;site;site;163
 пошедший;поше́дший;normal;пошедший;поше́дший;163
 пошедшее;поше́дшее;form;пошедший;поше́дший;163
 пошедшая;поше́дшая;form;пошедший;поше́дший;163
@@ -4979,10 +4196,6 @@ sites;sites;form;site;site;163
 столами;стола́ми;form;стол;стол;164
 столе;столе́;form;стол;стол;164
 столах;стола́х;form;стол;стол;164
-business;business;normal;business;business;164
-business;business;form;business;business;164
-businesses;businesses;form;business;business;164
-under;under;normal;under;under;165
 машина;маши́на;normal;машина;маши́на;165
 машина;маши́на;form;машина;маши́на;165
 машины;маши́ны;form;машина;маши́на;165
@@ -4997,7 +4210,6 @@ under;under;normal;under;under;165
 машинами;маши́нами;form;машина;маши́на;165
 машине;маши́не;form;машина;маши́на;165
 машинах;маши́нах;form;машина;маши́на;165
-public;public;normal;public;public;166
 мир;мир;normal;мир;мир;166
 мир;ми́р;form;мир;мир;166
 &#42;;&#42;;form;мир;мир;166
@@ -5030,23 +4242,6 @@ public;public;normal;public;public;166
 мире;ми́ре;form;мир;мир;166
 мирах;мира́х;form;мир;мир;166
 миру;миру́;form;мир;мир;166
-man;man;normal;man;man;167
-man;man;form;man;man;167
-men;men;form;man;man;167
-man;man;form;man;man;167
-mans;mans;form;man;man;167
-mane;mane;form;man;man;167
-man;man;form;man;man;167
-Mann;Mann;form;man;man;167
-mąż;mąż;form;man;man;167
-man;man;form;man;man;167
-man;man;form;man;man;167
-mans;mans;form;man;man;167
-man;man;form;man;man;167
-Mann;Mann;form;man;man;167
-mąż;mąż;form;man;man;167
-manus;manus;form;man;man;167
-manus;manus;form;man;man;167
 ночь;ночь;normal;ночь;ночь;167
 ночь;но́чь;form;ночь;ночь;167
 ночи;но́чи;form;ночь;ночь;167
@@ -5075,9 +4270,6 @@ manus;manus;form;man;man;167
 женщинами;же́нщинами;form;женщина;же́нщина;168
 женщине;же́нщине;form;женщина;же́нщина;168
 женщинах;же́нщинах;form;женщина;же́нщина;168
-country;country;normal;country;country;168
-country;country;form;country;country;168
-countries;countries;form;country;country;168
 оставшийся;оста́вшийся;normal;оставшийся;оста́вшийся;169
 оставшийся;оста́вшийся;form;оставшийся;оста́вшийся;169
 оставшееся;оста́вшееся;form;оставшийся;оста́вшийся;169
@@ -5127,73 +4319,8 @@ countries;countries;form;country;country;168
 остались;оста́лись;form;остаться;оста́ться;169
 оставшийся;оста́вшийся;form;остаться;оста́ться;169
 оставшись;оста́вшись;form;остаться;оста́ться;169
-page;page;normal;page;page;169
-page;page;form;page;page;169
-pages;pages;form;page;page;169
-read;read;normal;read;read;170
-read;read;form;read;read;170
-reads;reads;form;read;read;170
-read;read;form;read;read;170
-read;read;form;read;read;170
-reading;reading;form;read;read;170
 сразу;сра́зу;normal;сразу;сра́зу;170
 совсем;совсе́м;normal;совсем;совсе́м;171
-home;home;normal;home;home;171
-home;home;form;home;home;171
-homes;homes;form;home;home;171
-home;home;form;home;home;171
-homes;homes;form;home;home;171
-homo;homo;form;home;home;171
-home;home;form;home;home;171
-homes;homes;form;home;home;171
-склонение;склонение;form;home;home;171
-номинатив;номинатив;form;home;home;171
-home;home;form;home;home;171
-homeet;homeet;form;home;home;171
-генитив;генитив;form;home;home;171
-homeen;homeen;form;home;home;171
-homeiden;homeiden;form;home;home;171
-homeitten;homeitten;form;home;home;171
-аккузатив;аккузатив;form;home;home;171
-home;home;form;home;home;171
-homeen;homeen;form;home;home;171
-homeet;homeet;form;home;home;171
-партитив;партитив;form;home;home;171
-hometta;hometta;form;home;home;171
-homeita;homeita;form;home;home;171
-эссив;эссив;form;home;home;171
-homeena;homeena;form;home;home;171
-homeina;homeina;form;home;home;171
-транслатив;транслатив;form;home;home;171
-homeeksi;homeeksi;form;home;home;171
-homeiksi;homeiksi;form;home;home;171
-инессив;инессив;form;home;home;171
-homeessa;homeessa;form;home;home;171
-homeissa;homeissa;form;home;home;171
-элатив;элатив;form;home;home;171
-homeesta;homeesta;form;home;home;171
-homeista;homeista;form;home;home;171
-иллатив;иллатив;form;home;home;171
-homeeseen;homeeseen;form;home;home;171
-homeisiin;homeisiin;form;home;home;171
-homeihin;homeihin;form;home;home;171
-адессив;адессив;form;home;home;171
-homeella;homeella;form;home;home;171
-homeilla;homeilla;form;home;home;171
-аблатив;аблатив;form;home;home;171
-homeelta;homeelta;form;home;home;171
-homeilta;homeilta;form;home;home;171
-аллатив;аллатив;form;home;home;171
-homeelle;homeelle;form;home;home;171
-homeille;homeille;form;home;home;171
-абессив;абессив;form;home;home;171
-homeetta;homeetta;form;home;home;171
-homeitta;homeitta;form;home;home;171
-комитатив;комитатив;form;home;home;171
-homeineen;homeineen;form;home;home;171
-инструктив;инструктив;form;home;home;171
-homein;homein;form;home;home;171
-homeessa;homeessa;form;home;home;171
 ребёнок;ребёнок;normal;ребенок;ребёнок;172
 ребенок;ребёнок;normal;ребенок;ребёнок;172
 ребёнок;ребёнок;form;ребенок;ребёнок;172
@@ -5219,12 +4346,6 @@ homeessa;homeessa;form;home;home;171
 ребятам;ребя́там;form;ребенок;ребёнок;172
 ребятами;ребя́тами;form;ребенок;ребёнок;172
 ребятах;ребя́тах;form;ребенок;ребёнок;172
-provide;provide;normal;provide;provide;172
-provide;provide;form;provide;provide;172
-provides;provides;form;provide;provide;172
-provided;provided;form;provide;provide;172
-provided;provided;form;provide;provide;172
-provideing;provideing;form;provide;provide;172
 выйти;вы́йти;normal;выйти;вы́йти;173
 выйду;вы́йду;form;выйти;вы́йти;173
 вышел;вы́шел;form;выйти;вы́йти;173
@@ -5275,13 +4396,6 @@ provideing;provideing;form;provide;provide;172
 вышедшей;вы́шедшей;form;вышедший;вы́шедший;173
 вышедших;вы́шедших;form;вышедший;вы́шедший;173
 вышедшею;вы́шедшею;form;вышедший;вы́шедший;173
-result;result;normal;result;result;173
-result;result;form;result;result;173
-results;results;form;result;result;173
-resulted;resulted;form;result;result;173
-resulted;resulted;form;result;result;173
-resulting;resulting;form;result;result;173
-still;still;normal;still;still;174
 вид;вид;normal;вид;вид;174
 вид;ви́д;form;вид;вид;174
 виды;ви́ды;form;вид;вид;174
@@ -5311,15 +4425,6 @@ still;still;normal;still;still;174
 отце;отце́;form;отец;оте́ц;175
 отцах;отца́х;form;отец;оте́ц;175
 отче;о́тче;form;отец;оте́ц;175
-last;last;normal;last;last;175
-start;start;normal;start;start;176
-start;start;form;start;start;176
-starts;starts;form;start;start;176
-start;start;form;start;start;176
-starts;starts;form;start;start;176
-started;started;form;start;start;176
-started;started;form;start;start;176
-starting;starting;form;start;start;176
 вопрос;вопро́с;normal;вопрос;вопро́с;176
 вопрос;вопро́с;form;вопрос;вопро́с;176
 вопросы;вопро́сы;form;вопрос;вопро́с;176
@@ -5386,14 +4491,6 @@ starting;starting;form;start;start;176
 данный;да́нный;form;дать;дать;177
 дало;да́ло;form;дать;дать;177
 дало;дало́;form;дать;дать;177
-study;study;normal;study;study;177
-study;study;form;study;study;177
-studies;studies;form;study;study;177
-study;study;form;study;study;177
-studies;studies;form;study;study;177
-studied;studied;form;study;study;177
-studied;studied;form;study;study;177
-studying;studying;form;study;study;177
 работать;рабо́тать;normal;работать;рабо́тать;178
 работаю;рабо́таю;form;работать;рабо́тать;178
 работал;рабо́тал;form;работать;рабо́тать;178
@@ -5457,32 +4554,6 @@ studying;studying;form;study;study;177
 работающе;рабо́тающе;form;работающий;рабо́тающий;178
 работающа;рабо́тающа;form;работающий;рабо́тающий;178
 работающи;рабо́тающи;form;работающий;рабо́тающий;178
-mean;mean;normal;mean;mean;178
-mean;mean;form;mean;mean;178
-means;means;form;mean;mean;178
-meant;meant;form;mean;mean;178
-meant;meant;form;mean;mean;178
-meaning;meaning;form;mean;mean;178
-meaner;meaner;form;mean;mean;178
-meanest;meanest;form;mean;mean;178
-mean;mean;form;mean;mean;178
-means;means;form;mean;mean;178
-			;			;form;mean;mean;178
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;mean;mean;178
-		Варианты	;		Варианты	;form;mean;mean;178
-							;							;form;mean;mean;178
-		Просмотры	;		Просмотры	;form;mean;mean;178
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;mean;mean;178
-		Ещё	;		Ещё	;form;mean;mean;178
-		Еще	;		Ещё	;normal;mean;mean;178
-							;							;form;mean;mean;178
-		Поиск	;		Поиск	;form;mean;mean;178
-																	;																	;form;mean;mean;178
-			;			;form;mean;mean;178
-			;			;form;mean;mean;178
-			;			;form;mean;mean;178
-			;			;form;mean;mean;178
-			;			;form;mean;mean;178
 работавший;рабо́тавший;normal;работавший;рабо́тавший;178
 работавший;рабо́тавший;form;работавший;рабо́тавший;178
 работавшее;рабо́тавшее;form;работавший;рабо́тавший;178
@@ -5510,14 +4581,6 @@ means;means;form;mean;mean;178
 работавшей;рабо́тавшей;form;работавший;рабо́тавший;178
 работавших;рабо́тавших;form;работавший;рабо́тавший;178
 работавшею;рабо́тавшею;form;работавший;рабо́тавший;178
-tell;tell;normal;tell;tell;179
-tell;tell;form;tell;tell;179
-tells;tells;form;tell;tell;179
-told;told;form;tell;tell;179
-told;told;form;tell;tell;179
-telling;telling;form;tell;tell;179
-tell;tell;form;tell;tell;179
-tells;tells;form;tell;tell;179
 оказаться;оказа́ться;normal;оказаться;оказа́ться;179
 окажусь;окажу́сь;form;оказаться;оказа́ться;179
 оказался;оказа́лся;form;оказаться;оказа́ться;179
@@ -5553,14 +4616,6 @@ tells;tells;form;tell;tell;179
 оказавшеюся;оказа́вшеюся;form;оказавшийся;оказа́вшийся;179
 оказавшимися;оказа́вшимися;form;оказавшийся;оказа́вшийся;179
 оказавшемся;оказа́вшемся;form;оказавшийся;оказа́вшийся;179
-order;order;normal;order;order;180
-order;order;form;order;order;180
-orders;orders;form;order;order;180
-order;order;form;order;order;180
-orders;orders;form;order;order;180
-ordered;ordered;form;order;order;180
-ordered;ordered;form;order;order;180
-ordering;ordering;form;order;order;180
 ряд;ряд;normal;ряд;ряд;180
 ряд;ря́д;form;ряд;ряд;180
 ряды;ряды́;form;ряд;ряд;180
@@ -5576,25 +4631,8 @@ ordering;ordering;form;order;order;180
 рядах;ряда́х;form;ряд;ряд;180
 ряду;ряду́;form;ряд;ряд;180
 ряда;ряда́;form;ряд;ряд;180
-try;try;normal;try;try;181
-try;try;form;try;try;181
-tries;tries;form;try;try;181
-tried;tried;form;try;try;181
-tried;tried;form;try;try;181
-trying;trying;form;try;try;181
-try;try;form;try;try;181
-tries;tries;form;try;try;181
 почти;почти́;normal;почти;почти́;181
-another;another;normal;another;another;182
 снова;сно́ва;normal;снова;сно́ва;182
-research;research;normal;research;research;183
-research;research;form;research;research;183
-researches;researches;form;research;research;183
-research;research;form;research;research;183
-researches;researches;form;research;research;183
-researched;researched;form;research;research;183
-researched;researched;form;research;research;183
-researching;researching;form;research;research;183
 старый;ста́рый;normal;старый;ста́рый;183
 старый;ста́рый;form;старый;ста́рый;183
 старое;ста́рое;form;старый;ста́рый;183
@@ -5675,15 +4713,7 @@ researching;researching;form;research;research;183
 твоем;твоём;normal;твой;твой;185
 твоей;твое́й;form;твой;твой;185
 твоих;твои́х;form;твой;твой;185
-however;however;normal;however;however;185
 между;ме́жду;normal;между;ме́жду;186
-during;during;normal;during;during;186
-ask;ask;normal;ask;ask;187
-ask;ask;form;ask;ask;187
-asks;asks;form;ask;ask;187
-asked;asked;form;ask;ask;187
-asked;asked;form;ask;ask;187
-asking;asking;form;ask;ask;187
 ответивший;отве́тивший;normal;ответивший;отве́тивший;187
 ответивший;отве́тивший;form;ответивший;отве́тивший;187
 ответившее;отве́тившее;form;ответивший;отве́тивший;187
@@ -5734,15 +4764,6 @@ asking;asking;form;ask;ask;187
 ответивший;отве́тивший;form;ответить;отве́тить;187
 ответив;отве́тив;form;ответить;отве́тить;187
 ответивши;отве́тивши;form;ответить;отве́тить;187
-set;set;normal;set;set;188
-set;set;form;set;set;188
-sets;sets;form;set;set;188
-set;set;form;set;set;188
-sets;sets;form;set;set;188
-set;set;form;set;set;188
-set;set;form;set;set;188
-setting;setting;form;set;set;188
-end;end;normal;end;end;189
 война;война́;normal;война;война́;189
 война;война́;form;война;война́;189
 войны;во́йны;form;война;война́;189
@@ -5808,12 +4829,6 @@ end;end;normal;end;end;189
 подумав;поду́мав;form;подумать;поду́мать;190
 подумавши;поду́мавши;form;подумать;поду́мать;190
 подуманный;поду́манный;form;подумать;поду́мать;190
-down;down;normal;down;down;190
-down;down;form;down;down;190
-downs;downs;form;down;down;190
-law;law;normal;law;law;191
-law;law;form;law;law;191
-laws;laws;form;law;law;191
 деньги;де́ньги;normal;деньги;де́ньги;191
 деньги;де́ньги;form;деньги;де́ньги;191
 денег;де́нег;form;деньги;де́ньги;191
@@ -5824,7 +4839,6 @@ laws;laws;form;law;law;191
 деньгам;де́ньгам;form;деньги;де́ньги;191
 деньгами;де́ньгами;form;деньги;де́ньги;191
 деньгах;де́ньгах;form;деньги;де́ньги;191
-health;health;normal;health;health;192
 любить;люби́ть;normal;любить;люби́ть;192
 люблю;люблю́;form;любить;люби́ть;192
 любил;люби́л;form;любить;люби́ть;192
@@ -5901,7 +4915,6 @@ health;health;normal;health;health;192
 люблено;лю́блено;form;любленный;лю́бленный;192
 люблена;лю́блена;form;любленный;лю́бленный;192
 люблены;лю́блены;form;любленный;лю́бленный;192
-without;without;normal;without;without;193
 значить;зна́чить;normal;значить;зна́чить;193
 значу;зна́чу;form;значить;зна́чить;193
 значил;зна́чил;form;значить;зна́чить;193
@@ -5959,14 +4972,6 @@ without;without;normal;without;without;193
 значившей;зна́чившей;form;значивший;зна́чивший;193
 значивших;зна́чивших;form;значивший;зна́чивший;193
 значившею;зна́чившею;form;значивший;зна́чивший;193
-form;form;normal;form;form;194
-form;form;form;form;form;194
-forms;forms;form;form;form;194
-form;form;form;form;form;194
-forms;forms;form;form;form;194
-formed;formed;form;form;form;194
-formed;formed;form;form;form;194
-forming;forming;form;form;form;194
 белый;белый;normal;белый;белый;194
 белый;бе́лый;form;белый;белый;194
 белое;бе́лое;form;белый;белый;194
@@ -6001,10 +5006,6 @@ forming;forming;form;form;form;194
 белы;белы́;form;белый;белый;194
 белою;бе́лою;form;белый;белый;194
 бел;бел;form;белый;белый;194
-write;write;normal;write;write;195
-write;write;form;write;write;195
-writes;writes;form;write;write;195
-writing;writing;form;write;write;195
 главный;гла́вный;normal;главный;гла́вный;195
 главный;гла́вный;form;главный;гла́вный;195
 главное;гла́вное;form;главный;гла́вный;195
@@ -6036,7 +5037,6 @@ writing;writing;form;write;write;195
 главна;главна́;form;главный;гла́вный;195
 главны;гла́вны;form;главный;гла́вный;195
 главною;гла́вною;form;главный;гла́вный;195
-level;level;normal;level;level;196
 минута;мину́та;normal;минута;мину́та;196
 минута;мину́та;form;минута;мину́та;196
 минуты;мину́ты;form;минута;мину́та;196
@@ -6051,9 +5051,6 @@ level;level;normal;level;level;196
 минутами;мину́тами;form;минута;мину́та;196
 минуте;мину́те;form;минута;мину́та;196
 минутах;мину́тах;form;минута;мину́та;196
-family;family;normal;family;family;197
-family;family;form;family;family;197
-families;families;form;family;family;197
 лишь;лишь;normal;лишь;лишь;197
 товарищ;това́рищ;normal;товарищ;това́рищ;198
 товарищ;това́рищ;form;товарищ;това́рищ;198
@@ -6068,10 +5065,6 @@ families;families;form;family;family;197
 товарищами;това́рищами;form;товарищ;това́рищ;198
 товарище;това́рище;form;товарищ;това́рищ;198
 товарищах;това́рищах;form;товарищ;това́рищ;198
-example;example;normal;example;example;198
-example;example;form;example;example;198
-examples;examples;form;example;example;198
-course;course;normal;course;course;199
 опять;опя́ть;normal;опять;опя́ть;199
 ждать;ждать;normal;ждать;ждать;200
 жду;жду́;form;ждать;ждать;200
@@ -6137,7 +5130,6 @@ course;course;normal;course;course;199
 ждущей;жду́щей;form;ждущий;жду́щий;200
 ждущих;жду́щих;form;ждущий;жду́щий;200
 ждущею;жду́щею;form;ждущий;жду́щий;200
-national;national;normal;national;national;200
 жданный;жда́нный;normal;жданный;жда́нный;200
 ждавший;жда́вший;normal;ждавший;жда́вший;200
 ждавший;жда́вший;form;ждавший;жда́вший;200
@@ -6167,12 +5159,6 @@ national;national;normal;national;national;200
 ждавших;жда́вших;form;ждавший;жда́вший;200
 ждавшею;жда́вшею;form;ждавший;жда́вший;200
 однако;одна́ко;normal;однако;одна́ко;201
-too;too;normal;too;too;201
-learn;learn;normal;learn;learn;202
-learn;learn;form;learn;learn;202
-learns;learns;form;learn;learn;202
-[[learning;[[learning;form;learn;learn;202
-learning;learning;form;learn;learn;202
 правда;пра́вда;normal;правда;пра́вда;202
 правда;пра́вда;form;правда;пра́вда;202
 правды;пра́вды;form;правда;пра́вда;202
@@ -6231,17 +5217,6 @@ learning;learning;form;learn;learn;202
 		Инструменты	;		Инструменты	;form;правда;пра́вда;202
 			;			;form;правда;пра́вда;202
 			;			;form;правда;пра́вда;202
-leave;leave;normal;leave;leave;203
-leave;leave;form;leave;leave;203
-leaves;leaves;form;leave;leave;203
-left;left;form;leave;leave;203
-left;left;form;leave;leave;203
-leaving;leaving;form;leave;leave;203
-leave;leave;form;leave;leave;203
-leaves;leaves;form;leave;leave;203
-leaved;leaved;form;leave;leave;203
-leaved;leaved;form;leave;leave;203
-leaving;leaving;form;leave;leave;203
 посмотреть;посмотре́ть;normal;посмотреть;посмотре́ть;203
 посмотрю;посмотрю́;form;посмотреть;посмотре́ть;203
 посмотрел;посмотре́л;form;посмотреть;посмотре́ть;203
@@ -6295,29 +5270,8 @@ leaving;leaving;form;leave;leave;203
 посмотревшею;посмотре́вшею;form;посмотревший;посмотре́вший;203
 посмотренный;посмо́тренный;normal;посмотренный;посмо́тренный;203
 про;про;normal;про;про;204
-every;every;normal;every;every;204
-development;development;normal;development;development;205
-development;development;form;development;development;205
-developments;developments;form;development;development;205
 никогда;никогда́;normal;никогда;никогда́;205
 будто;бу́дто;normal;будто;бу́дто;206
-three;three;normal;three;three;206
-			;			;form;three;three;206
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;three;three;206
-		Варианты	;		Варианты	;form;three;three;206
-							;							;form;three;three;206
-		Просмотры	;		Просмотры	;form;three;three;206
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;three;three;206
-		Ещё	;		Ещё	;form;three;three;206
-		Еще	;		Ещё	;normal;three;three;206
-							;							;form;three;three;206
-		Поиск	;		Поиск	;form;three;three;206
-																	;																	;form;three;three;206
-			;			;form;three;three;206
-			;			;form;three;three;206
-			;			;form;three;three;206
-			;			;form;three;three;206
-			;			;form;three;three;206
 часть;часть;normal;часть;часть;207
 часть;ча́сть;form;часть;часть;207
 части;ча́сти;form;часть;часть;207
@@ -6331,11 +5285,7 @@ three;three;normal;three;three;206
 частями;частя́ми;form;часть;часть;207
 части;ча́сти;form;часть;часть;207
 частях;частя́х;form;часть;часть;207
-large;large;normal;large;large;207
 именно;и́менно;normal;именно;и́менно;208
-why;why;normal;why;why;208
-why;why;form;why;why;208
-whys;whys;form;why;why;208
 найти;найти́;normal;найти;найти́;209
 найду;найду́;form;найти;найти́;209
 нашёл;нашёл;form;найти;найти́;209
@@ -6413,22 +5363,6 @@ whys;whys;form;why;why;208
 нашедшею;наше́дшею;form;нашедший;наше́дший;209
 нашедшими;наше́дшими;form;нашедший;наше́дший;209
 нашедшем;наше́дшем;form;нашедший;наше́дший;209
-name;name;normal;name;name;209
-name;name;form;name;name;209
-names;names;form;name;name;209
-namee;namee;form;name;name;209
-namees;namees;form;name;name;209
-nameed;nameed;form;name;name;209
-nameed;nameed;form;name;name;209
-nameing;nameing;form;name;name;209
-process;process;normal;process;process;210
-process;process;form;process;process;210
-processes;processes;form;process;process;210
-processe;processe;form;process;process;210
-processes;processes;form;process;process;210
-processed;processed;form;process;process;210
-processed;processed;form;process;process;210
-processing;processing;form;process;process;210
 дорога;доро́га;normal;дорога;доро́га;210
 дорога;доро́га;form;дорога;доро́га;210
 дороги;доро́ги;form;дорога;доро́га;210
@@ -6482,12 +5416,6 @@ processing;processing;form;process;process;210
 &#42;;&#42;;form;свет;свет;211
 светах;све́тах;form;свет;свет;211
 свету;свету́;form;свет;свет;211
-require;require;normal;require;require;211
-require;require;form;require;require;211
-requires;requires;form;require;require;211
-required;required;form;require;require;211
-required;required;form;require;require;211
-requireing;requireing;form;require;require;211
 жена;жена́;normal;жена;жена́;212
 жена;жена́;form;жена;жена́;212
 жёны;жёны;form;жена;жена́;212
@@ -6509,7 +5437,6 @@ requireing;requireing;form;require;require;211
 жёнах;жёнах;form;жена;жена́;212
 женах;жёнах;normal;жена;жена́;212
 жено;же́но;form;жена;жена́;212
-different;different;normal;different;different;212
 никакой;никако́й;normal;никакой;никако́й;213
 никакой;никако́й;form;никакой;никако́й;213
 никакое;никако́е;form;никакой;никако́й;213
@@ -6537,9 +5464,6 @@ different;different;normal;different;different;212
 никакой;никако́й;form;никакой;никако́й;213
 никаких;никаки́х;form;никакой;никако́й;213
 никакою;никако́ю;form;никакой;никако́й;213
-university;university;normal;university;university;213
-university;university;form;university;university;213
-universities;universities;form;university;university;213
 лежавший;лежа́вший;normal;лежавший;лежа́вший;214
 лежавший;лежа́вший;form;лежавший;лежа́вший;214
 лежавшее;лежа́вшее;form;лежавший;лежа́вший;214
@@ -6567,12 +5491,6 @@ universities;universities;form;university;university;213
 лежавшей;лежа́вшей;form;лежавший;лежа́вший;214
 лежавших;лежа́вших;form;лежавший;лежа́вший;214
 лежавшею;лежа́вшею;form;лежавший;лежа́вший;214
-keep;keep;normal;keep;keep;214
-keep;keep;form;keep;keep;214
-keeps;keeps;form;keep;keep;214
-kept;kept;form;keep;keep;214
-kept;kept;form;keep;keep;214
-keeping;keeping;form;keep;keep;214
 лежать;лежа́ть;normal;лежать;лежа́ть;214
 лежу;лежу́;form;лежать;лежа́ть;214
 лежал;лежа́л;form;лежать;лежа́ть;214
@@ -6655,11 +5573,6 @@ keeping;keeping;form;keep;keep;214
 окнами;о́кнами;form;окно;окно́;215
 окне;окне́;form;окно;окно́;215
 окнах;о́кнах;form;окно;окно́;215
-plan;plan;normal;plan;plan;215
-plan;plan;form;plan;plan;215
-plans;plans;form;plan;plan;215
-policy;policy;normal;policy;policy;216
-ies;ies;form;policy;policy;216
 мать;мать;normal;мать;мать;217
 мать;мать;form;мать;мать;217
 матери;ма́тери;form;мать;мать;217
@@ -6686,7 +5599,6 @@ ies;ies;form;policy;policy;216
 матери;ма́тери;form;мать;мать;217
 матерях;матеря́х;form;мать;мать;217
 матерьми;матерьми́;form;мать;мать;217
-project;project;normal;project;project;218
 решённый;решённый;normal;решённый;решённый;218
 решенный;решённый;normal;решённый;решённый;218
 решённый;решённый;form;решённый;решённый;218
@@ -6856,13 +5768,6 @@ project;project;normal;project;project;218
 получена;полу́чена;form;полученный;полу́ченный;219
 получены;полу́чены;form;полученный;полу́ченный;219
 полученною;полу́ченною;form;полученный;полу́ченный;219
-feel;feel;normal;feel;feel;219
-feel;feel;form;feel;feel;219
-feels;feels;form;feel;feel;219
-felt;felt;form;feel;feel;219
-felt;felt;form;feel;feel;219
-[[feeling;[[feeling;form;feel;feel;219
-feeling;feeling;form;feel;feel;219
 получить;получи́ть;normal;получить;получи́ть;219
 получу;получу́;form;получить;получи́ть;219
 получил;получи́л;form;получить;получи́ть;219
@@ -6889,12 +5794,6 @@ feeling;feeling;form;feel;feel;219
 полученный;полу́ченный;form;получить;получи́ть;219
 москва;москва;normal;москва;москва;220
 &#42;;&#42;;form;москва;москва;220
-design;design;normal;design;design;220
-design;design;form;design;design;220
-designs;designs;form;design;design;220
-designed;designed;form;design;design;220
-designed;designed;form;design;design;220
-designing;designing;form;design;design;220
 писать;пи́сать;normal;писать;пи́сать;221
 пишу;пишу́;form;писать;пи́сать;221
 писал;писа́л;form;писать;пи́сать;221
@@ -7034,14 +5933,6 @@ designing;designing;form;design;design;220
 писана;пи́сана;form;писанный;пи́санный;221
 писаны;пи́саны;form;писанный;пи́санный;221
 писанною;пи́санною;form;писанный;пи́санный;221
-view;view;normal;view;view;221
-view;view;form;view;view;221
-views;views;form;view;view;221
-view;view;form;view;view;221
-views;views;form;view;view;221
-viewed;viewed;form;view;view;221
-viewed;viewed;form;view;view;221
-viewing;viewing;form;view;view;221
 улица;у́лица;normal;улица;у́лица;222
 улица;у́лица;form;улица;у́лица;222
 улицы;у́лицы;form;улица;у́лица;222
@@ -7056,13 +5947,6 @@ viewing;viewing;form;view;view;221
 улицами;у́лицами;form;улица;у́лица;222
 улице;у́лице;form;улица;у́лица;222
 улицах;у́лицах;form;улица;у́лица;222
-create;create;normal;create;create;222
-create;create;form;create;create;222
-creates;creates;form;create;create;222
-created;created;form;create;create;222
-created;created;form;create;create;222
-creating;creating;form;create;create;222
-american;american;normal;american;american;223
 вернуться;верну́ться;normal;вернуться;верну́ться;223
 вернусь;верну́сь;form;вернуться;верну́ться;223
 вернулся;верну́лся;form;вернуться;верну́ться;223
@@ -7104,7 +5988,6 @@ american;american;normal;american;american;223
 вернувшимися;верну́вшимися;form;вернувшийся;верну́вшийся;223
 вернувшемся;верну́вшемся;form;вернувшийся;верну́вшийся;223
 вообще;вообще́;normal;вообще;вообще́;224
-really;really;normal;really;really;224
 некоторый;не́который;normal;некоторый;не́который;225
 некоторый;не́который;form;некоторый;не́который;225
 некоторое;не́которое;form;некоторый;не́который;225
@@ -7132,13 +6015,7 @@ really;really;normal;really;really;224
 некоторой;не́которой;form;некоторый;не́который;225
 некоторых;не́которых;form;некоторый;не́который;225
 некоторою;не́которою;form;некоторый;не́который;225
-woman;woman;normal;woman;woman;225
-woman;woman;form;woman;woman;225
-women;women;form;woman;woman;225
 далекий;далекий;normal;далекий;далекий;226
-small;small;normal;small;small;226
-smaller;smaller;form;small;small;226
-smallest;smallest;form;small;small;226
 маленький;маленький;normal;маленький;маленький;227
 маленький;ма́ленький;form;маленький;маленький;227
 маленькое;ма́ленькое;form;маленький;маленький;227
@@ -7171,7 +6048,6 @@ smallest;smallest;form;small;small;226
 малы;малы́;form;маленький;маленький;227
 маленькою;ма́ленькою;form;маленький;маленький;227
 мал;мал;form;маленький;маленький;227
-product;product;normal;product;product;227
 считавший;счита́вший;normal;считавший;счита́вший;228
 считавший;счита́вший;form;считавший;счита́вший;228
 считавшее;счита́вшее;form;считавший;счита́вший;228
@@ -7199,9 +6075,6 @@ product;product;normal;product;product;227
 считавшей;счита́вшей;form;считавший;счита́вший;228
 считавших;счита́вших;form;считавший;счита́вший;228
 считавшею;счита́вшею;form;считавший;счита́вший;228
-might;might;normal;might;might;228
-might;might;form;might;might;228
-mights;mights;form;might;might;228
 считанный;счи́танный;normal;считанный;счи́танный;228
 считанное;счи́танное;form;считанный;счи́танный;228
 считанная;счи́танная;form;считанный;счи́танный;228
@@ -7360,14 +6233,6 @@ mights;mights;form;might;might;228
 будем;бу́дем;form;считать;счита́ть;228
 будете;бу́дете;form;считать;счита́ть;228
 будут;бу́дут;form;считать;счита́ть;228
-experience;experience;normal;experience;experience;229
-experience;experience;form;experience;experience;229
-experiences;experiences;form;experience;experience;229
-experience;experience;form;experience;experience;229
-experiences;experiences;form;experience;experience;229
-experienced;experienced;form;experience;experience;229
-experienced;experienced;form;experience;experience;229
-experiencing;experiencing;form;experience;experience;229
 комната;ко́мната;normal;комната;ко́мната;229
 комната;ко́мната;form;комната;ко́мната;229
 комнаты;ко́мнаты;form;комната;ко́мната;229
@@ -7382,7 +6247,6 @@ experiencing;experiencing;form;experience;experience;229
 комнатами;ко́мнатами;form;комната;ко́мната;229
 комнате;ко́мнате;form;комната;ко́мната;229
 комнатах;ко́мнатах;form;комната;ко́мната;229
-comment;comment;normal;comment;comment;230
 утро;у́тро;normal;утро;у́тро;230
 утро;у́тро;form;утро;у́тро;230
 утра;у́тра;form;утро;у́тро;230
@@ -7428,15 +6292,6 @@ comment;comment;normal;comment;comment;230
 советской;сове́тской;form;советский;советский;231
 советских;сове́тских;form;советский;советский;231
 советскою;сове́тскою;form;советский;советский;231
-important;important;normal;important;important;231
-base;base;normal;base;base;232
-base;base;form;base;base;232
-bases;bases;form;base;base;232
-base;base;form;base;base;232
-bases;bases;form;base;base;232
-based;based;form;base;base;232
-based;based;form;base;base;232
-basing;basing;form;base;base;232
 вечер;вечер;normal;вечер;вечер;232
 вечер;ве́чер;form;вечер;вечер;232
 вечера;вечера́;form;вечер;вечер;232
@@ -7451,7 +6306,6 @@ basing;basing;form;base;base;232
 вечере;ве́чере;form;вечер;вечер;232
 вечерах;вечера́х;form;вечер;вечер;232
 вечеру;вечеру́;form;вечер;вечер;232
-little;little;normal;little;little;233
 сегодня;сего́дня;normal;сегодня;сего́дня;233
 сегодня;сего́дня;form;сегодня;сего́дня;233
 сегодня;сего́дня;form;сегодня;сего́дня;233
@@ -7465,12 +6319,6 @@ little;little;normal;little;little;233
 сегодня;сего́дня;form;сегодня;сего́дня;233
 сегодня;сего́дня;form;сегодня;сего́дня;233
 сегодня;сего́дня;form;сегодня;сего́дня;233
-put;put;normal;put;put;234
-put;put;form;put;put;234
-puts;puts;form;put;put;234
-put;put;form;put;put;234
-put;put;form;put;put;234
-putting;putting;form;put;put;234
 душа;душа́;normal;душа;душа́;234
 душа;душа́;form;душа;душа́;234
 души;ду́ши;form;душа;душа́;234
@@ -7485,7 +6333,6 @@ putting;putting;form;put;put;234
 душами;ду́шами;form;душа;душа́;234
 душе;душе́;form;душа;душа́;234
 душах;ду́шах;form;душа;душа́;234
-around;around;normal;around;around;235
 книга;книга́;normal;книга;книга́;235
 книга;кни́га;form;книга;книга́;235
 книги;кни́ги;form;книга;книга́;235
@@ -7500,7 +6347,6 @@ around;around;normal;around;around;235
 книгами;кни́гами;form;книга;книга́;235
 книге;кни́ге;form;книга;книга́;235
 книгах;кни́гах;form;книга;книга́;235
-available;available;normal;available;available;236
 плечо;плечо́;normal;плечо;плечо́;236
 плечо;плечо́;form;плечо;плечо́;236
 плечи;пле́чи;form;плечо;плечо́;236
@@ -7515,38 +6361,7 @@ available;available;normal;available;available;236
 плече;плече́;form;плечо;плечо́;236
 плечах;плеча́х;form;плечо;плечо́;236
 вместе;вме́сте;normal;вместе;вме́сте;237
-cost;cost;normal;cost;cost;237
-cost;cost;form;cost;cost;237
-costs;costs;form;cost;cost;237
-cost;cost;form;cost;cost;237
-cost;cost;form;cost;cost;237
-costing;costing;form;cost;cost;237
 таки;таки́;normal;таки;таки́;238
-few;few;normal;few;few;238
-pay;pay;normal;pay;pay;239
-pay;pay;form;pay;pay;239
-pays;pays;form;pay;pay;239
-paid;paid;form;pay;pay;239
-paid;paid;form;pay;pay;239
-paying;paying;form;pay;pay;239
-pay;pay;form;pay;pay;239
-pays;pays;form;pay;pay;239
-			;			;form;pay;pay;239
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;pay;pay;239
-		Варианты	;		Варианты	;form;pay;pay;239
-							;							;form;pay;pay;239
-		Просмотры	;		Просмотры	;form;pay;pay;239
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;pay;pay;239
-		Ещё	;		Ещё	;form;pay;pay;239
-		Еще	;		Ещё	;normal;pay;pay;239
-							;							;form;pay;pay;239
-		Поиск	;		Поиск	;form;pay;pay;239
-																	;																	;form;pay;pay;239
-			;			;form;pay;pay;239
-			;			;form;pay;pay;239
-			;			;form;pay;pay;239
-			;			;form;pay;pay;239
-			;			;form;pay;pay;239
 чуть;чуть;normal;чуть;чуть;239
 пол;пол;normal;пол;пол;240
 пол;по́л;form;пол;пол;240
@@ -7574,7 +6389,6 @@ pays;pays;form;pay;pay;239
 полами;пола́ми;form;пол;пол;240
 поле;по́ле;form;пол;пол;240
 полах;пола́х;form;пол;пол;240
-off;off;normal;off;off;240
 помнящий;по́мнящий;normal;помнящий;по́мнящий;241
 помнящее;по́мнящее;form;помнящий;по́мнящий;241
 помнящая;по́мнящая;form;помнящий;по́мнящий;241
@@ -7659,7 +6473,6 @@ off;off;normal;off;off;240
 помнимо;по́мнимо;form;помнимый;по́мнимый;241
 помнима;по́мнима;form;помнимый;по́мнимый;241
 помнимы;по́мнимы;form;помнимый;по́мнимый;241
-free;free;normal;free;free;241
 помнивший;по́мнивший;normal;помнивший;по́мнивший;241
 помнивший;по́мнивший;form;помнивший;по́мнивший;241
 помнившее;по́мнившее;form;помнивший;по́мнивший;241
@@ -7729,7 +6542,6 @@ free;free;normal;free;free;241
 скольких;скольки́х;form;сколько;ско́лько;242
 скольким;скольки́м;form;сколько;ско́лько;242
 сколькими;скольки́ми;form;сколько;ско́лько;242
-old;old;normal;old;old;242
 народ;наро́д;normal;народ;наро́д;243
 народ;наро́д;form;народ;наро́д;243
 народы;наро́ды;form;народ;наро́д;243
@@ -7744,22 +6556,7 @@ old;old;normal;old;old;242
 народе;наро́де;form;народ;наро́д;243
 народах;наро́дах;form;народ;наро́д;243
 народу;наро́ду;form;народ;наро́д;243
-develop;develop;normal;develop;develop;243
-develop;develop;form;develop;develop;243
-develops;develops;form;develop;develop;243
-developed;developed;form;develop;develop;243
-developed;developed;form;develop;develop;243
-developing;developing;form;develop;develop;243
 хоть;хоть;normal;хоть;хоть;244
-community;community;normal;community;community;244
-community;community;form;community;community;244
-communities;communities;form;community;community;244
-control;control;normal;control;control;245
-control;control;form;control;control;245
-&#42;;&#42;;form;control;control;245
-controls;controls;form;control;control;245
-control;control;form;control;control;245
-controls;controls;form;control;control;245
 взгляд;взгляд;normal;взгляд;взгляд;245
 взгляд;взгля́д;form;взгляд;взгляд;245
 взгляды;взгля́ды;form;взгляд;взгляд;245
@@ -7773,13 +6570,6 @@ controls;controls;form;control;control;245
 взглядами;взгля́дами;form;взгляд;взгляд;245
 взгляде;взгля́де;form;взгляд;взгляд;245
 взглядах;взгля́дах;form;взгляд;взгляд;245
-live;live;normal;live;live;246
-live;live;form;live;live;246
-lives;lives;form;live;live;246
-lived;lived;form;live;live;246
-lived;lived;form;live;live;246
-living;living;form;live;live;246
-within;withiń;normal;within;withiń;247
 зачем;заче́м;normal;зачем;заче́м;247
 история;история;normal;история;история;248
 история;исто́рия;form;история;история;248
@@ -7795,17 +6585,6 @@ within;withiń;normal;within;withiń;247
 историями;исто́риями;form;история;история;248
 истории;исто́рии;form;история;история;248
 историях;исто́риях;form;история;история;248
-human;human;normal;human;human;248
-human;human;form;human;human;248
-humans;humans;form;human;human;248
-word;word;normal;word;word;249
-word;word;form;word;word;249
-words;words;form;word;word;249
-word;word;form;word;word;249
-words;words;form;word;word;249
-worded;worded;form;word;word;249
-worded;worded;form;word;word;249
-wording;wording;form;word;word;249
 полный;по́лный;normal;полный;по́лный;249
 полный;по́лный;form;полный;по́лный;249
 полное;по́лное;form;полный;по́лный;249
@@ -7890,7 +6669,6 @@ wording;wording;form;word;word;249
 узнав;узна́в;form;узнать;узна́ть;250
 узнавши;узна́вши;form;узнать;узна́ть;250
 узнанный;у́знанный;form;узнать;узна́ть;250
-against;against;normal;against;against;250
 узнанный;у́знанный;normal;узнанный;у́знанный;250
 узнанное;у́знанное;form;узнанный;у́знанный;250
 узнанная;у́знанная;form;узнанный;у́знанный;250
@@ -7908,14 +6686,6 @@ against;against;normal;against;against;250
 узнано;у́знано;form;узнанный;у́знанный;250
 узнана;у́знана;form;узнанный;у́знанный;250
 узнаны;у́знаны;form;узнанный;у́знанный;250
-power;power;normal;power;power;251
-power;power;form;power;power;251
-powers;powers;form;power;power;251
-power;power;form;power;power;251
-powers;powers;form;power;power;251
-powered;powered;form;power;power;251
-powered;powered;form;power;power;251
-powering;powering;form;power;power;251
 любой;любо́й;normal;любой;любо́й;251
 любой;любо́й;form;любой;любо́й;251
 любое;любо́е;form;любой;любо́й;251
@@ -7943,14 +6713,6 @@ powering;powering;form;power;power;251
 любой;любо́й;form;любой;любо́й;251
 любых;любы́х;form;любой;любо́й;251
 любою;любо́ю;form;любой;любо́й;251
-play;play;normal;play;play;252
-play;play;form;play;play;252
-plays;plays;form;play;play;252
-played;played;form;play;play;252
-played;played;form;play;play;252
-playing;playing;form;play;play;252
-play;play;form;play;play;252
-plays;plays;form;play;play;252
 бог;бог;normal;бог;бог;252
 бог;бо́г;form;бог;бог;252
 боги;бо́ги;form;бог;бог;252
@@ -8023,17 +6785,6 @@ plays;plays;form;play;play;252
 пришедший;прише́дший;form;прийти;прийти́;253
 придя;придя́;form;прийти;прийти́;253
 пришедши;прише́дши;form;прийти;прийти́;253
-increase;increase;normal;increase;increase;253
-increase;increase;form;increase;increase;253
-increases;increases;form;increase;increase;253
-increase;increase;form;increase;increase;253
-increases;increases;form;increase;increase;253
-increased;increased;form;increase;increase;253
-increased;increased;form;increase;increase;253
-increasing;increasing;form;increase;increase;253
-person;person;normal;person;person;254
-person;person;form;person;person;254
-persons;persons;form;person;person;254
 ходить;ходи́ть;normal;ходить;ходи́ть;254
 хожу;хожу́;form;ходить;ходи́ть;254
 ходил;ходи́л;form;ходить;ходи́ть;254
@@ -8148,7 +6899,6 @@ persons;persons;form;person;person;254
 заметившей;заме́тившей;form;заметивший;заме́тивший;255
 заметивших;заме́тивших;form;заметивший;заме́тивший;255
 заметившею;заме́тившею;form;заметивший;заме́тивший;255
-fact;fact;normal;fact;fact;255
 заметить;заме́тить;normal;заметить;заме́тить;255
 замечу;заме́чу;form;заметить;заме́тить;255
 заметил;заме́тил;form;заметить;заме́тить;255
@@ -8173,7 +6923,6 @@ fact;fact;normal;fact;fact;255
 заметив;заме́тив;form;заметить;заме́тить;255
 заметивши;заме́тивши;form;заметить;заме́тить;255
 замеченный;заме́ченный;form;заметить;заме́тить;255
-never;never;normal;never;never;256
 известный;известный;normal;известный;известный;256
 известный;изве́стный;form;известный;известный;256
 известное;изве́стное;form;известный;известный;256
@@ -8218,26 +6967,8 @@ never;never;normal;never;never;256
 пальцами;па́льцами;form;палец;па́лец;257
 пальце;па́льце;form;палец;па́лец;257
 пальцах;па́льцах;form;палец;па́лец;257
-war;war;normal;war;war;257
-war;war;form;war;war;257
-wars;wars;form;war;war;257
-warred;warred;form;war;war;257
-warred;warred;form;war;war;257
-warring;warring;form;war;war;257
 словно;сло́вно;normal;словно;сло́вно;258
-job;job;normal;job;job;258
 наконец;наконе́ц;normal;наконец;наконе́ц;259
-run;run;normal;run;run;259
-run;run;form;run;run;259
-runs;runs;form;run;run;259
-ran;ran;form;run;run;259
-run;run;form;run;run;259
-running;running;form;run;run;259
-run;run;form;run;run;259
-runs;runs;form;run;run;259
-offer;offer;normal;offer;offer;260
-offer;offer;form;offer;offer;260
-offers;offers;form;offer;offer;260
 общий;о́бщий;normal;общий;о́бщий;260
 общий;о́бщий;form;общий;о́бщий;260
 общее;о́бщее;form;общий;о́бщий;260
@@ -8284,13 +7015,6 @@ offers;offers;form;offer;offer;260
 именами;имена́ми;form;имя;и́мя;261
 имени;и́мени;form;имя;и́мя;261
 именах;имена́х;form;имя;и́мя;261
-seem;seem;normal;seem;seem;261
-seem;seem;form;seem;seem;261
-seems;seems;form;seem;seem;261
-seemed;seemed;form;seem;seem;261
-seemed;seemed;form;seem;seem;261
-seeming;seeming;form;seem;seem;261
-top;top;normal;top;top;262
 назад;наза́д;normal;назад;наза́д;262
 бывающий;быва́ющий;normal;бывающий;быва́ющий;263
 бывающее;быва́ющее;form;бывающий;быва́ющий;263
@@ -8362,12 +7086,6 @@ top;top;normal;top;top;262
 бывавшей;быва́вшей;form;бывавший;быва́вший;263
 бывавших;быва́вших;form;бывавший;быва́вший;263
 бывавшею;быва́вшею;form;бывавший;быва́вший;263
-allow;allow;normal;allow;allow;263
-allow;allow;form;allow;allow;263
-allows;allows;form;allow;allow;263
-allowed;allowed;form;allow;allow;263
-allowed;allowed;form;allow;allow;263
-allowing;allowing;form;allow;allow;263
 мысль;мысль;normal;мысль;мысль;264
 мысль;мы́сль;form;мысль;мысль;264
 мысли;мы́сли;form;мысль;мысль;264
@@ -8381,47 +7099,6 @@ allowing;allowing;form;allow;allow;263
 мыслями;мы́слями;form;мысль;мысль;264
 мысли;мы́сли;form;мысль;мысль;264
 мыслях;мы́слях;form;мысль;мысль;264
-list;list;normal;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-listed;listed;form;list;list;264
-listed;listed;form;list;list;264
-listing;listing;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-listed;listed;form;list;list;264
-listed;listed;form;list;list;264
-listing;listing;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-listed;listed;form;list;list;264
-listed;listed;form;list;list;264
-listing;listing;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-желание;желание;form;list;list;264
-стремление;стремление;form;list;list;264
-склонность;склонность;form;list;list;264
-&#9670;&#160;;&#9670;&#160;;form;list;list;264
-list;list;form;list;list;264
-lists;lists;form;list;list;264
-listed;listed;form;list;list;264
-listed;listed;form;list;list;264
-listing;listing;form;list;list;264
-move;move;normal;move;move;265
-move;move;form;move;move;265
-moves;moves;form;move;move;265
-moved;moved;form;move;move;265
-moved;moved;form;move;move;265
-moving;moving;form;move;move;265
-move;move;form;move;move;265
-moves;moves;form;move;move;265
 слышать;слы́шать;normal;слышать;слы́шать;265
 слышу;слы́шу;form;слышать;слы́шать;265
 слышал;слы́шал;form;слышать;слы́шать;265
@@ -8557,15 +7234,6 @@ moves;moves;form;move;move;265
 ушедшею;уше́дшею;form;ушедший;уше́дший;266
 ушедшими;уше́дшими;form;ушедший;уше́дший;266
 ушедшем;уше́дшем;form;ушедший;уше́дший;266
-interest;interest;normal;interest;interest;266
-act;act;normal;act;act;267
-act;act;form;act;act;267
-acts;acts;form;act;act;267
-act;act;form;act;act;267
-acts;acts;form;act;act;267
-acted;acted;form;act;act;267
-acted;acted;form;act;act;267
-acting;acting;form;act;act;267
 прошлый;про́шлый;normal;прошлый;про́шлый;267
 прошлый;про́шлый;form;прошлый;про́шлый;267
 прошлое;про́шлое;form;прошлый;про́шлый;267
@@ -8593,7 +7261,6 @@ acting;acting;form;act;act;267
 прошлой;про́шлой;form;прошлый;про́шлый;267
 прошлых;про́шлых;form;прошлый;про́шлый;267
 прошлою;про́шлою;form;прошлый;про́шлый;267
-next;next;normal;next;next;268
 боящийся;боя́щийся;normal;боящийся;боя́щийся;268
 боящееся;боя́щееся;form;боящийся;боя́щийся;268
 боящаяся;боя́щаяся;form;боящийся;боя́щийся;268
@@ -8650,18 +7317,6 @@ next;next;normal;next;next;268
 боявшимися;боя́вшимися;form;боявшийся;боя́вшийся;268
 боявшемся;боя́вшемся;form;боявшийся;боя́вшийся;268
 быстро;бы́стро;normal;быстро;бы́стро;269
-house;house;normal;house;house;269
-house;house;form;house;house;269
-houses;houses;form;house;house;269
-house;house;form;house;house;269
-houses;houses;form;house;house;269
-housed;housed;form;house;house;269
-housed;housed;form;house;house;269
-housing;housing;form;house;house;269
-houses;houses;form;house;house;269
-general;general;normal;general;general;270
-general;general;form;general;general;270
-generals;generals;form;general;general;270
 давно;давно́;normal;давно;давно́;270
 слушаемый;слу́шаемый;normal;слушаемый;слу́шаемый;271
 слушаемое;слу́шаемое;form;слушаемый;слу́шаемый;271
@@ -8783,14 +7438,7 @@ generals;generals;form;general;general;270
 слушающей;слу́шающей;form;слушающий;слу́шающий;271
 слушающих;слу́шающих;form;слушающий;слу́шающий;271
 слушающею;слу́шающею;form;слушающий;слу́шающий;271
-term;term;normal;term;term;271
-term;term;form;term;term;271
-terms;terms;form;term;term;271
 прямо;пря́мо;normal;прямо;пря́мо;272
-something;something;normal;something;something;272
-week;week;normal;week;week;273
-week;week;form;week;week;273
-weeks;weeks;form;week;week;273
 разговор;разгово́р;normal;разговор;разгово́р;273
 разговор;разгово́р;form;разговор;разгово́р;273
 разговоры;разгово́ры;form;разговор;разгово́р;273
@@ -8805,17 +7453,7 @@ weeks;weeks;form;week;week;273
 разговоре;разгово́ре;form;разговор;разгово́р;273
 разговорах;разгово́рах;form;разговор;разгово́р;273
 долго;до́лго;normal;долго;до́лго;274
-care;care;normal;care;care;274
 нельзя;нельзя́;normal;нельзя;нельзя́;275
-begin;begin;normal;begin;begin;275
-begin;begin;form;begin;begin;275
-begins;begins;form;begin;begin;275
-began;began;form;begin;begin;275
-begun;begun;form;begin;begin;275
-beginning;beginning;form;begin;begin;275
-revue;revue;normal;revue;revue;276
-revue;revue;form;revue;revue;276
-revues;revues;form;revue;revue;276
 похожий;похо́жий;normal;похожий;похо́жий;276
 похожий;похо́жий;form;похожий;похо́жий;276
 похожее;похо́жее;form;похожий;похо́жий;276
@@ -8876,14 +7514,6 @@ revues;revues;form;revue;revue;276
 похожа;похо́жа;form;похожий;похо́жий;276
 похожи;похо́жи;form;похожий;похо́жий;276
 похожею;похо́жею;form;похожий;похо́жий;276
-note;note;normal;note;note;277
-note;note;form;note;note;277
-notes;notes;form;note;note;277
-note;note;form;note;note;277
-notes;notes;form;note;note;277
-noted;noted;form;note;note;277
-noted;noted;form;note;note;277
-noting;noting;form;note;note;277
 право;пра́во;normal;право;пра́во;277
 право;пра́во;form;право;пра́во;277
 права;права́;form;право;пра́во;277
@@ -8912,15 +7542,6 @@ noting;noting;form;note;note;277
 лесах;леса́х;form;лес;лес;278
 лесу;лесу́;form;лес;лес;278
 лесу;ле́су;form;лес;лес;278
-story;story;normal;story;story;278
-story;story;form;story;story;278
-stories;stories;form;story;story;278
-market;market;normal;market;market;279
-market;market;form;market;market;279
-markets;markets;form;market;market;279
-marketed;marketed;form;market;market;279
-marketed;marketed;form;market;market;279
-marketing;marketing;form;market;market;279
 пять;пять;normal;пять;пять;279
 пять;пя́ть;form;пять;пять;279
 пяти;пяти́;form;пять;пять;279
@@ -9014,14 +7635,6 @@ marketing;marketing;form;market;market;279
 глядящей;глядя́щей;form;глядящий;глядя́щий;280
 глядящих;глядя́щих;form;глядящий;глядя́щий;280
 глядящею;глядя́щею;form;глядящий;глядя́щий;280
-article;article;normal;article;article;280
-article;article;form;article;article;280
-articles;articles;form;article;article;280
-article;article;form;article;article;280
-articles;articles;form;article;article;280
-articled;articled;form;article;article;280
-articled;articled;form;article;article;280
-articling;articling;form;article;article;280
 сын;сын;normal;сын;сын;281
 сын;сы́н;form;сын;сын;281
 сыновья;сыновья́;form;сын;сын;281
@@ -9076,7 +7689,6 @@ articling;articling;form;article;article;280
 		Инструменты	;		Инструменты	;form;сын;сын;281
 			;			;form;сын;сын;281
 			;			;form;сын;сын;281
-education;education;normal;education;education;281
 путь;путь;normal;путь;путь;282
 путь;путь;form;путь;путь;282
 пути;пути́;form;путь;путь;282
@@ -9091,7 +7703,6 @@ education;education;normal;education;education;281
 путями;путя́ми;form;путь;путь;282
 пути;пути́;form;путь;путь;282
 путях;путя́х;form;путь;путь;282
-believe;believe;normal;believe;believe;282
 тысяча;ты́сяча;normal;тысяча;ты́сяча;283
 тысяча;ты́сяча;form;тысяча;ты́сяча;283
 тысячи;ты́сячи;form;тысяча;ты́сяча;283
@@ -9120,31 +7731,6 @@ believe;believe;normal;believe;believe;282
 тысячами;ты́сячами;form;тысяча;ты́сяча;283
 тысяче;ты́сяче;form;тысяча;ты́сяча;283
 тысячах;ты́сячах;form;тысяча;ты́сяча;283
-activity;activity;normal;activity;activity;283
-activity;activity;form;activity;activity;283
-activities;activities;form;activity;activity;283
-line;line;normal;line;line;284
-line;line;form;line;line;284
-lines;lines;form;line;line;284
-datum;datum;normal;datum;datum;285
-datum;datum;form;datum;datum;285
-datum;datum;form;datum;datum;285
-datumi;datumi;form;datum;datum;285
-datum;datum;form;datum;datum;285
-data;data;form;datum;datum;285
-datī;datī;form;datum;datum;285
-datōrum;datōrum;form;datum;datum;285
-datō;datō;form;datum;datum;285
-datīs;datīs;form;datum;datum;285
-datum;datum;form;datum;datum;285
-data;data;form;datum;datum;285
-datō;datō;form;datum;datum;285
-datīs;datīs;form;datum;datum;285
-datum;datum;form;datum;datum;285
-data;data;form;datum;datum;285
-datum;datum;form;datum;datum;285
-dāre;dāre;form;datum;datum;285
-web;web;normal;web;web;286
 севший;се́вший;normal;севший;се́вший;286
 севший;се́вший;form;севший;се́вший;286
 севшее;се́вшее;form;севший;се́вший;286
@@ -9250,19 +7836,7 @@ web;web;normal;web;web;286
 собою;собо́ю;form;оно;оно́;287
 н-;н-;form;оно;оно́;287
 г;г;form;оно;оно́;287
-often;often;normal;often;often;287
 кроме;кро́ме;normal;кроме;кро́ме;288
-hold;hold;normal;hold;hold;288
-hold;hold;form;hold;hold;288
-holds;holds;form;hold;hold;288
-held;held;form;hold;hold;288
-held;held;form;hold;hold;288
-holding;holding;form;hold;hold;288
-hold;hold;form;hold;hold;288
-holds;holds;form;hold;hold;288
-hold;hold;form;hold;hold;288
-holdak;holdak;form;hold;hold;288
-present;present;normal;present;present;289
 стена;стена;normal;стена;стена;289
 стена;стена́;form;стена;стена;289
 стены;сте́ны;form;стена;стена;289
@@ -9340,9 +7914,6 @@ present;present;normal;present;present;289
 будете;бу́дете;form;оставаться;остава́ться;290
 будут;бу́дут;form;оставаться;остава́ться;290
 ж;ж;normal;ж;ж;291
-technology;technology;normal;technology;technology;291
-technology;technology;form;technology;technology;291
-technologies;technologies;form;technology;technology;291
 высокий;высо́кий;normal;высокий;высо́кий;292
 высокий;высо́кий;form;высокий;высо́кий;292
 высокое;высо́кое;form;высокий;высо́кий;292
@@ -9376,23 +7947,12 @@ technologies;technologies;form;technology;technology;291
 высоки;высо́ки;form;высокий;высо́кий;292
 высоки;высоки́;form;высокий;высо́кий;292
 высокою;высо́кою;form;высокий;высо́кий;292
-second;second;normal;second;second;292
-value;value;normal;value;value;293
-value;value;form;value;value;293
-values;values;form;value;value;293
-value;value;form;value;value;293
-values;values;form;value;value;293
-valued;valued;form;value;value;293
-valued;valued;form;value;value;293
-valuing;valuing;form;value;value;293
 хотеться;хоте́ться;normal;хотеться;хоте́ться;293
 хочется;хо́чется;form;хотеться;хоте́ться;293
 хотелось;хоте́лось;form;хотеться;хоте́ться;293
 будет;бу́дет;form;хотеться;хоте́ться;293
-international;international;normal;international;international;294
 совершенно;соверше́нно;normal;совершенно;соверше́нно;294
 поэтому;поэ́тому;normal;поэтому;поэ́тому;295
-united;united;normal;united;united;295
 написанный;напи́санный;normal;написанный;напи́санный;296
 написанный;напи́санный;form;написанный;напи́санный;296
 написанное;напи́санное;form;написанный;напи́санный;296
@@ -9453,14 +8013,6 @@ united;united;normal;united;united;295
 написанна;напи́санна;form;написанный;напи́санный;296
 написанны;напи́санны;form;написанный;напи́санный;296
 написанною;напи́санною;form;написанный;напи́санный;296
-open;open;normal;open;open;296
-open;open;form;open;open;296
-opens;opens;form;open;open;296
-opened;opened;form;open;open;296
-opened;opened;form;open;open;296
-opening;opening;form;open;open;296
-open;open;form;open;open;296
-opens;opens;form;open;open;296
 написавший;написа́вший;normal;написавший;написа́вший;296
 написавший;написа́вший;form;написавший;написа́вший;296
 написавшее;написа́вшее;form;написавший;написа́вший;296
@@ -9536,9 +8088,6 @@ opens;opens;form;open;open;296
 написавши;напи́савши;form;написать;напи́сать;296
 написанный;напи́санный;form;написать;напи́сать;296
 пусть;пусть;normal;пусть;пусть;297
-idea;idea;normal;idea;idea;297
-idea;idea;form;idea;idea;297
-ideas;ideas;form;idea;idea;297
 ранний;ра́нний;normal;ранний;ра́нний;298
 ранний;ра́нний;form;ранний;ра́нний;298
 раннее;ра́ннее;form;ранний;ра́нний;298
@@ -9571,7 +8120,6 @@ ideas;ideas;form;idea;idea;297
 рання;ра́ння;form;ранний;ра́нний;298
 ранни;ра́нни;form;ранний;ра́нний;298
 раннею;ра́ннею;form;ранний;ра́нний;298
-less;less;normal;less;less;298
 читанный;чи́танный;normal;читанный;чи́танный;299
 читанный;чи́танный;form;читанный;чи́танный;299
 читанное;чи́танное;form;читанный;чи́танный;299
@@ -9603,8 +8151,6 @@ less;less;normal;less;less;298
 читана;чи́тана;form;читанный;чи́танный;299
 читаны;чи́таны;form;читанный;чи́танный;299
 читанною;чи́танною;form;читанный;чи́танный;299
-receive;receive;normal;receive;receive;299
-ing;ing;form;receive;receive;299
 читающий;чита́ющий;normal;читающий;чита́ющий;299
 читающее;чита́ющее;form;читающий;чита́ющий;299
 читающая;чита́ющая;form;читающий;чита́ющий;299
@@ -9770,9 +8316,6 @@ ing;ing;form;receive;receive;299
 чувствовано;чу́вствовано;form;чувствованный;чу́вствованный;300
 чувствована;чу́вствована;form;чувствованный;чу́вствованный;300
 чувствованы;чу́вствованы;form;чувствованный;чу́вствованный;300
-month;month;normal;month;month;300
-month;month;form;month;month;300
-months;months;form;month;month;300
 чувствующий;чу́вствующий;normal;чувствующий;чу́вствующий;300
 чувствующее;чу́вствующее;form;чувствующий;чу́вствующий;300
 чувствующая;чу́вствующая;form;чувствующий;чу́вствующий;300
@@ -9800,14 +8343,6 @@ months;months;form;month;month;300
 спинами;спи́нами;form;спина;спина́;301
 спине;спине́;form;спина;спина́;301
 спинах;спи́нах;form;спина;спина́;301
-type;type;normal;type;type;301
-type;type;form;type;type;301
-types;types;form;type;type;301
-type;type;form;type;type;301
-types;types;form;type;type;301
-typed;typed;form;type;type;301
-typed;typed;form;type;type;301
-typing;typing;form;type;type;301
 месяц;месяц;normal;месяц;месяц;302
 месяц;ме́сяц;form;месяц;месяц;302
 месяцы;ме́сяцы;form;месяц;месяц;302
@@ -9821,7 +8356,6 @@ typing;typing;form;type;type;301
 месяцами;ме́сяцами;form;месяц;месяц;302
 месяце;ме́сяце;form;месяц;месяц;302
 месяцах;ме́сяцах;form;месяц;месяц;302
-social;social;normal;social;social;302
 целый;це́лый;normal;целый;це́лый;303
 целый;це́лый;form;целый;це́лый;303
 целое;це́лое;form;целый;це́лый;303
@@ -9854,12 +8388,6 @@ social;social;normal;social;social;302
 целы;це́лы;form;целый;це́лый;303
 целою;це́лою;form;целый;це́лый;303
 цел;цел;form;целый;це́лый;303
-bring;bring;normal;bring;bring;303
-bring;bring;form;bring;bring;303
-brings;brings;form;bring;bring;303
-brought;brought;form;bring;bring;303
-brought;brought;form;bring;bring;303
-bringing;bringing;form;bring;bring;303
 ведший;ве́дший;normal;ведший;ве́дший;304
 ведшее;ве́дшее;form;ведший;ве́дший;304
 ведшая;ве́дшая;form;ведший;ве́дший;304
@@ -9904,34 +8432,6 @@ bringing;bringing;form;bring;bring;303
 ведено;ведено́;form;ведённый;ведённый;304
 ведена;ведена́;form;ведённый;ведённый;304
 ведены;ведены́;form;ведённый;ведённый;304
-turn;turn;normal;turn;turn;304
-turn;turn;form;turn;turn;304
-turns;turns;form;turn;turn;304
-turned;turned;form;turn;turn;304
-turned;turned;form;turn;turn;304
-turning;turning;form;turn;turn;304
-turn;turn;form;turn;turn;304
-turns;turns;form;turn;turn;304
-Nefnifall;Nefnifall;form;turn;turn;304
-turn;turn;form;turn;turn;304
-turninn;turninn;form;turn;turn;304
-turnar;turnar;form;turn;turn;304
-turnarnir;turnarnir;form;turn;turn;304
-Þolfall;Þolfall;form;turn;turn;304
-turn;turn;form;turn;turn;304
-turninn;turninn;form;turn;turn;304
-turna;turna;form;turn;turn;304
-turnana;turnana;form;turn;turn;304
-Þágufall;Þágufall;form;turn;turn;304
-turni;turni;form;turn;turn;304
-turninum;turninum;form;turn;turn;304
-turnum;turnum;form;turn;turn;304
-turnunum;turnunum;form;turn;turn;304
-Eignarfall;Eignarfall;form;turn;turn;304
-turns;turns;form;turn;turn;304
-turnsins;turnsins;form;turn;turn;304
-turna;turna;form;turn;turn;304
-turnanna;turnanna;form;turn;turn;304
 ведущий;веду́щий;normal;ведущий;веду́щий;304
 ведущий;веду́щий;form;ведущий;веду́щий;304
 ведущее;веду́щее;form;ведущий;веду́щий;304
@@ -10044,9 +8544,6 @@ turnanna;turnanna;form;turn;turn;304
 будем;бу́дем;form;вести;вести́;304
 будете;бу́дете;form;вести;вести́;304
 будут;бу́дут;form;вести;вести́;304
-local;local;normal;local;local;305
-local;local;form;local;local;305
-locals;locals;form;local;local;305
 молодой;молодо́й;normal;молодой;молодо́й;305
 молодой;молодо́й;form;молодой;молодо́й;305
 молодое;молодо́е;form;молодой;молодо́й;305
@@ -10109,18 +8606,6 @@ locals;locals;form;local;local;305
 огромна;огро́мна;form;огромный;огро́мный;306
 огромны;огро́мны;form;огромный;огро́мный;306
 огромною;огро́мною;form;огромный;огро́мный;306
-rate;rate;normal;rate;rate;306
-water;water;normal;water;water;307
-water;water;form;water;water;307
-waters;waters;form;water;water;307
-water;water;form;water;water;307
-waters;waters;form;water;water;307
-watered;watered;form;water;water;307
-watered;watered;form;water;water;307
-watering;watering;form;water;water;307
-watered;watered;form;water;water;307
-water;water;form;water;water;307
-watered;watered;form;water;water;307
 тело;тело́;normal;тело;тело́;307
 тело;те́ло;form;тело;тело́;307
 тела;тела́;form;тело;тело́;307
@@ -10165,7 +8650,6 @@ watered;watered;form;water;water;307
 настояща;настоя́ща;form;настоящий;настоя́щий;308
 настоящи;настоя́щи;form;настоящий;настоя́щий;308
 настоящею;настоя́щею;form;настоящий;настоя́щий;308
-center;center;normal;center;center;308
 продолжающий;продолжа́ющий;normal;продолжающий;продолжа́ющий;309
 продолжающее;продолжа́ющее;form;продолжающий;продолжа́ющий;309
 продолжающая;продолжа́ющая;form;продолжающий;продолжа́ющий;309
@@ -10210,7 +8694,6 @@ center;center;normal;center;center;308
 будем;бу́дем;form;продолжать;продолжа́ть;309
 будете;бу́дете;form;продолжать;продолжа́ть;309
 будут;бу́дут;form;продолжать;продолжа́ть;309
-individual;individual;normal;individual;individual;309
 продолжавший;продолжа́вший;normal;продолжавший;продолжа́вший;309
 продолжавший;продолжа́вший;form;продолжавший;продолжа́вший;309
 продолжавшее;продолжа́вшее;form;продолжавший;продолжа́вший;309
@@ -10255,21 +8738,7 @@ individual;individual;normal;individual;individual;309
 продолжаемо;продолжа́емо;form;продолжаемый;продолжа́емый;309
 продолжаема;продолжа́ема;form;продолжаемый;продолжа́емый;309
 продолжаемы;продолжа́емы;form;продолжаемый;продолжа́емый;309
-talk;talk;normal;talk;talk;310
-talk;talk;form;talk;talk;310
-talks;talks;form;talk;talk;310
-talked;talked;form;talk;talk;310
-talked;talked;form;talk;talk;310
-talking;talking;form;talk;talk;310
-talk;talk;form;talk;talk;310
-talks;talks;form;talk;talk;310
 точно;то́чно;normal;точно;то́чно;310
-add;add;normal;add;add;311
-add;add;form;add;add;311
-adds;adds;form;add;add;311
-added;added;form;add;add;311
-added;added;form;add;add;311
-adding;adding;form;add;add;311
 язык;язы́к;normal;язык;язы́к;311
 язык;язы́к;form;язык;язы́к;311
 языки;языки́;form;язык;язы́к;311
@@ -10283,7 +8752,6 @@ adding;adding;form;add;add;311
 языками;языка́ми;form;язык;язы́к;311
 языке;языке́;form;язык;язы́к;311
 языках;языка́х;form;язык;язы́к;311
-again;again;normal;again;again;312
 мама;ма́ма;normal;мама;ма́ма;312
 мама;ма́ма;form;мама;ма́ма;312
 мамы;ма́мы;form;мама;ма́ма;312
@@ -10300,38 +8768,6 @@ again;again;normal;again;again;312
 мамах;ма́мах;form;мама;ма́ма;312
 мам;мам;form;мама;ма́ма;312
 среди;среди́;normal;среди;среди́;313
-lead;lead;normal;lead;lead;313
-lead;lead;form;lead;lead;313
-leads;leads;form;lead;lead;313
-lead;lead;form;lead;lead;313
-leads;leads;form;lead;lead;313
-leaded;leaded;form;lead;lead;313
-leaded;leaded;form;lead;lead;313
-leading;leading;form;lead;lead;313
-lead;lead;form;lead;lead;313
-leads;leads;form;lead;lead;313
-led;led;form;lead;lead;313
-led;led;form;lead;lead;313
-leading;leading;form;lead;lead;313
-lead;lead;form;lead;lead;313
-lead;lead;form;lead;lead;313
-lead;lead;form;lead;lead;313
-			;			;form;lead;lead;313
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;lead;lead;313
-		Варианты	;		Варианты	;form;lead;lead;313
-							;							;form;lead;lead;313
-		Просмотры	;		Просмотры	;form;lead;lead;313
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;lead;lead;313
-		Ещё	;		Ещё	;form;lead;lead;313
-		Еще	;		Ещё	;normal;lead;lead;313
-							;							;form;lead;lead;313
-		Поиск	;		Поиск	;form;lead;lead;313
-																	;																	;form;lead;lead;313
-			;			;form;lead;lead;313
-			;			;form;lead;lead;313
-			;			;form;lead;lead;313
-			;			;form;lead;lead;313
-			;			;form;lead;lead;313
 старик;стари́к;normal;старик;стари́к;314
 старик;ста́рик;form;старик;стари́к;314
 старики;ста́рики;form;старик;стари́к;314
@@ -10358,26 +8794,6 @@ lead;lead;form;lead;lead;313
 старике;старике́;form;старик;стари́к;314
 стариках;старика́х;form;старик;стари́к;314
 старче;ста́рче;form;старик;стари́к;314
-today;today;normal;today;today;314
-today;today;form;today;today;314
-today;today;form;today;today;314
-todays;todays;form;today;today;314
-			;			;form;today;today;314
-				СтатьяОбсуждение			;				СтатьяОбсуждение			;form;today;today;314
-		Варианты	;		Варианты	;form;today;today;314
-							;							;form;today;today;314
-		Просмотры	;		Просмотры	;form;today;today;314
-				ЧитатьПравитьИстория			;				ЧитатьПравитьИстория			;form;today;today;314
-		Ещё	;		Ещё	;form;today;today;314
-		Еще	;		Ещё	;normal;today;today;314
-							;							;form;today;today;314
-		Поиск	;		Поиск	;form;today;today;314
-																	;																	;form;today;today;314
-			;			;form;today;today;314
-			;			;form;today;today;314
-			;			;form;today;today;314
-			;			;form;today;today;314
-			;			;form;today;today;314
 успевший;успе́вший;normal;успевший;успе́вший;315
 успевший;успе́вший;form;успевший;успе́вший;315
 успевшее;успе́вшее;form;успевший;успе́вший;315
@@ -10428,12 +8844,6 @@ todays;todays;form;today;today;314
 успевший;успе́вший;form;успеть;успе́ть;315
 успев;успе́в;form;успеть;успе́ть;315
 успевши;успе́вши;form;успеть;успе́ть;315
-cause;cause;normal;cause;cause;315
-cause;cause;form;cause;cause;315
-causes;causes;form;cause;cause;315
-causeed;causeed;form;cause;cause;315
-causeed;causeed;form;cause;cause;315
-causeing;causeing;form;cause;cause;315
 смерть;смерть;normal;смерть;смерть;316
 смерть;сме́рть;form;смерть;смерть;316
 смерти;сме́рти;form;смерть;смерть;316
@@ -10447,12 +8857,6 @@ causeing;causeing;form;cause;cause;315
 смертями;смертя́ми;form;смерть;смерть;316
 смерти;сме́рти;form;смерть;смерть;316
 смертях;смертя́х;form;смерть;смерть;316
-office;office;normal;office;office;316
-office;office;form;office;office;316
-offices;offices;form;office;office;316
-city;city;normal;city;city;317
-city;city;form;city;city;317
-cities;cities;form;city;city;317
 власть;власть;normal;власть;власть;317
 власть;вла́сть;form;власть;власть;317
 власти;вла́сти;form;власть;власть;317
@@ -10479,22 +8883,6 @@ cities;cities;form;city;city;317
 мальчиками;ма́льчиками;form;мальчик;ма́льчик;318
 мальчике;ма́льчике;form;мальчик;ма́льчик;318
 мальчиках;ма́льчиках;form;мальчик;ма́льчик;318
-link;link;normal;link;link;318
-link;link;form;link;link;318
-links;links;form;link;link;318
-link;link;form;link;link;318
-links;links;form;link;link;318
-linked;linked;form;link;link;318
-linked;linked;form;link;link;318
-linking;linking;form;link;link;318
-link;link;form;link;link;318
-links;links;form;link;link;318
-let;let;normal;let;let;319
-let;let;form;let;let;319
-lets;lets;form;let;let;319
-let;let;form;let;let;319
-let;let;form;let;let;319
-letting;letting;form;let;let;319
 также;та́кже;normal;также;та́кже;319
 бравший;бра́вший;normal;бравший;бра́вший;320
 бравший;бра́вший;form;бравший;бра́вший;320
@@ -10586,7 +8974,6 @@ letting;letting;form;let;let;319
 берущей;беру́щей;form;берущий;беру́щий;320
 берущих;беру́щих;form;берущий;беру́щий;320
 берущею;беру́щею;form;берущий;беру́щий;320
-action;action;normal;action;action;320
 образ;о́браз;normal;образ;о́браз;321
 образ;о́браз;form;образ;о́браз;321
 образы;о́бразы;form;образ;о́браз;321
@@ -10612,12 +8999,6 @@ action;action;normal;action;action;320
 образами;образа́ми;form;образ;о́браз;321
 образе;о́бразе;form;образ;о́браз;321
 образах;образа́х;form;образ;о́браз;321
-security;security;normal;security;security;321
-security;security;form;security;security;321
-securities;securities;form;security;security;321
-lot;lot;normal;lot;lot;322
-lot;lot;form;lot;lot;322
-lots;lots;form;lot;lot;322
 письмо;письмо́;normal;письмо;письмо́;322
 письмо;письмо́;form;письмо;письмо́;322
 письма;пи́сьма;form;письмо;письмо́;322
@@ -10631,13 +9012,6 @@ lots;lots;form;lot;lot;322
 письмами;пи́сьмами;form;письмо;письмо́;322
 письме;письме́;form;письмо;письмо́;322
 письмах;пи́сьмах;form;письмо;письмо́;322
-continue;continue;normal;continue;continue;323
-continue;continue;form;continue;continue;323
-continues;continues;form;continue;continue;323
-continued;continued;form;continue;continue;323
-continued;continued;form;continue;continue;323
-continuing;continuing;form;continue;continue;323
-organization;organization;normal;organization;organization;324
 отношение;отноше́ние;normal;отношение;отноше́ние;324
 отношение;отноше́ние;form;отношение;отноше́ние;324
 отношения;отноше́ния;form;отношение;отноше́ние;324
@@ -10651,16 +9025,6 @@ organization;organization;normal;organization;organization;324
 отношениями;отноше́ниями;form;отношение;отноше́ние;324
 отношении;отноше́нии;form;отношение;отноше́ние;324
 отношениях;отноше́ниях;form;отношение;отноше́ние;324
-force;force;normal;force;force;325
-force;force;form;force;force;325
-forces;forces;form;force;force;325
-force;force;form;force;force;325
-forces;forces;form;force;force;325
-forced;forced;form;force;force;325
-forced;forced;form;force;force;325
-forcing;forcing;form;force;force;325
-force;force;form;force;force;325
-forces;forces;form;force;force;325
 сердце;се́рдце;normal;сердце;се́рдце;325
 сердце;се́рдце;form;сердце;се́рдце;325
 сердца;сердца́;form;сердце;се́рдце;325
@@ -10687,7 +9051,6 @@ forces;forces;form;force;force;325
 ко;ко;form;ко;ко;326
 ко;ко;form;ко;ко;326
 ко;ко;form;ко;ко;326
-always;always;normal;always;always;326
 начальник;нача́льник;normal;начальник;нача́льник;327
 начальник;нача́льник;form;начальник;нача́льник;327
 начальники;нача́льники;form;начальник;нача́льник;327
@@ -10701,7 +9064,6 @@ always;always;normal;always;always;326
 начальниками;нача́льниками;form;начальник;нача́льник;327
 начальнике;нача́льнике;form;начальник;нача́льник;327
 начальниках;нача́льниках;form;начальник;нача́льник;327
-return;return;normal;return;return;327
 пройти;пройти́;normal;пройти;пройти́;328
 пройду;пройду́;form;пройти;пройти́;328
 прошёл;прошёл;form;пройти;пройти́;328
@@ -10716,3 +9078,922 @@ return;return;normal;return;return;327
 пройдёт;пройдёт;form;пройти;пройти́;328
 пройдет;пройдёт;normal;пройти;пройти́;328
 прошёл;прошёл;form;пройти;пройти́;328
+прошел;прошёл;normal;пройти;пройти́;328
+прошла;прошла́;form;пройти;пройти́;328
+прошло;прошло́;form;пройти;пройти́;328
+пройдём;пройдём;form;пройти;пройти́;328
+пройдем;пройдём;normal;пройти;пройти́;328
+прошли;прошли́;form;пройти;пройти́;328
+пройдёмте;пройдёмте;form;пройти;пройти́;328
+пройдемте;пройдёмте;normal;пройти;пройти́;328
+пройдёте;пройдёте;form;пройти;пройти́;328
+пройдете;пройдёте;normal;пройти;пройти́;328
+прошли;прошли́;form;пройти;пройти́;328
+пройдите;пройди́те;form;пройти;пройти́;328
+пройдут;пройду́т;form;пройти;пройти́;328
+прошли;прошли́;form;пройти;пройти́;328
+прошедший;проше́дший;form;пройти;пройти́;328
+пройдя;пройдя́;form;пройти;пройти́;328
+прошедши;проше́дши;form;пройти;пройти́;328
+пройдённый;пройдённый;form;пройти;пройти́;328
+пройденный;пройдённый;normal;пройти;пройти́;328
+пройдённый;пройдённый;normal;пройдённый;пройдённый;328
+пройденный;пройдённый;normal;пройдённый;пройдённый;328
+пройдённый;пройдённый;form;пройдённый;пройдённый;328
+пройденный;пройдённый;normal;пройдённый;пройдённый;328
+пройдённое;пройдённое;form;пройдённый;пройдённый;328
+пройденное;пройдённое;normal;пройдённый;пройдённый;328
+пройдённая;пройдённая;form;пройдённый;пройдённый;328
+пройденная;пройдённая;normal;пройдённый;пройдённый;328
+пройдённые;пройдённые;form;пройдённый;пройдённый;328
+пройденные;пройдённые;normal;пройдённый;пройдённый;328
+пройдённого;пройдённого;form;пройдённый;пройдённый;328
+пройденного;пройдённого;normal;пройдённый;пройдённый;328
+пройдённого;пройдённого;form;пройдённый;пройдённый;328
+пройденного;пройдённого;normal;пройдённый;пройдённый;328
+пройдённой;пройдённой;form;пройдённый;пройдённый;328
+пройденной;пройдённой;normal;пройдённый;пройдённый;328
+пройдённых;пройдённых;form;пройдённый;пройдённый;328
+пройденных;пройдённых;normal;пройдённый;пройдённый;328
+пройдённому;пройдённому;form;пройдённый;пройдённый;328
+пройденному;пройдённому;normal;пройдённый;пройдённый;328
+пройдённому;пройдённому;form;пройдённый;пройдённый;328
+пройденному;пройдённому;normal;пройдённый;пройдённый;328
+пройдённой;пройдённой;form;пройдённый;пройдённый;328
+пройденной;пройдённой;normal;пройдённый;пройдённый;328
+пройдённым;пройдённым;form;пройдённый;пройдённый;328
+пройденным;пройдённым;normal;пройдённый;пройдённый;328
+пройдённого;пройдённого;form;пройдённый;пройдённый;328
+пройденного;пройдённого;normal;пройдённый;пройдённый;328
+пройдённое;пройдённое;form;пройдённый;пройдённый;328
+пройденное;пройдённое;normal;пройдённый;пройдённый;328
+пройдённую;пройдённую;form;пройдённый;пройдённый;328
+пройденную;пройдённую;normal;пройдённый;пройдённый;328
+пройдённых;пройдённых;form;пройдённый;пройдённый;328
+пройденных;пройдённых;normal;пройдённый;пройдённый;328
+пройдённый;пройдённый;form;пройдённый;пройдённый;328
+пройденный;пройдённый;normal;пройдённый;пройдённый;328
+пройдённые;пройдённые;form;пройдённый;пройдённый;328
+пройденные;пройдённые;normal;пройдённый;пройдённый;328
+пройдённым;пройдённым;form;пройдённый;пройдённый;328
+пройденным;пройдённым;normal;пройдённый;пройдённый;328
+пройдённым;пройдённым;form;пройдённый;пройдённый;328
+пройденным;пройдённым;normal;пройдённый;пройдённый;328
+пройдёнными;пройдёнными;form;пройдённый;пройдённый;328
+пройденными;пройдёнными;normal;пройдённый;пройдённый;328
+пройдённом;пройдённом;form;пройдённый;пройдённый;328
+пройденном;пройдённом;normal;пройдённый;пройдённый;328
+пройдённом;пройдённом;form;пройдённый;пройдённый;328
+пройденном;пройдённом;normal;пройдённый;пройдённый;328
+пройдённой;пройдённой;form;пройдённый;пройдённый;328
+пройденной;пройдённой;normal;пройдённый;пройдённый;328
+пройдённых;пройдённых;form;пройдённый;пройдённый;328
+пройденных;пройдённых;normal;пройдённый;пройдённый;328
+пройдён;пройдён;form;пройдённый;пройдённый;328
+пройден;пройдён;normal;пройдённый;пройдённый;328
+пройдено;пройдено́;form;пройдённый;пройдённый;328
+пройдена;пройдена́;form;пройдённый;пройдённый;328
+пройдены;пройдены́;form;пройдённый;пройдённый;328
+начинавший;начина́вший;normal;начинавший;начина́вший;329
+начинавший;начина́вший;form;начинавший;начина́вший;329
+начинавшее;начина́вшее;form;начинавший;начина́вший;329
+начинавшая;начина́вшая;form;начинавший;начина́вший;329
+начинавшие;начина́вшие;form;начинавший;начина́вший;329
+начинавшего;начина́вшего;form;начинавший;начина́вший;329
+начинавшего;начина́вшего;form;начинавший;начина́вший;329
+начинавшей;начина́вшей;form;начинавший;начина́вший;329
+начинавших;начина́вших;form;начинавший;начина́вший;329
+начинавшему;начина́вшему;form;начинавший;начина́вший;329
+начинавшему;начина́вшему;form;начинавший;начина́вший;329
+начинавшей;начина́вшей;form;начинавший;начина́вший;329
+начинавшим;начина́вшим;form;начинавший;начина́вший;329
+начинавшего;начина́вшего;form;начинавший;начина́вший;329
+начинавшее;начина́вшее;form;начинавший;начина́вший;329
+начинавшую;начина́вшую;form;начинавший;начина́вший;329
+начинавших;начина́вших;form;начинавший;начина́вший;329
+начинавший;начина́вший;form;начинавший;начина́вший;329
+начинавшие;начина́вшие;form;начинавший;начина́вший;329
+начинавшим;начина́вшим;form;начинавший;начина́вший;329
+начинавшим;начина́вшим;form;начинавший;начина́вший;329
+начинавшими;начина́вшими;form;начинавший;начина́вший;329
+начинавшем;начина́вшем;form;начинавший;начина́вший;329
+начинавшем;начина́вшем;form;начинавший;начина́вший;329
+начинавшей;начина́вшей;form;начинавший;начина́вший;329
+начинавших;начина́вших;form;начинавший;начина́вший;329
+начинавшею;начина́вшею;form;начинавший;начина́вший;329
+начинать;начина́ть;normal;начинать;начина́ть;329
+начинаю;начина́ю;form;начинать;начина́ть;329
+начинал;начина́л;form;начинать;начина́ть;329
+начинала;начина́ла;form;начинать;начина́ть;329
+начинаешь;начина́ешь;form;начинать;начина́ть;329
+начинал;начина́л;form;начинать;начина́ть;329
+начинала;начина́ла;form;начинать;начина́ть;329
+начинай;начина́й;form;начинать;начина́ть;329
+начинает;начина́ет;form;начинать;начина́ть;329
+начинал;начина́л;form;начинать;начина́ть;329
+начинала;начина́ла;form;начинать;начина́ть;329
+начинало;начина́ло;form;начинать;начина́ть;329
+начинаем;начина́ем;form;начинать;начина́ть;329
+начинали;начина́ли;form;начинать;начина́ть;329
+начинаете;начина́ете;form;начинать;начина́ть;329
+начинали;начина́ли;form;начинать;начина́ть;329
+начинайте;начина́йте;form;начинать;начина́ть;329
+начинают;начина́ют;form;начинать;начина́ть;329
+начинали;начина́ли;form;начинать;начина́ть;329
+начинающий;начина́ющий;form;начинать;начина́ть;329
+начинавший;начина́вший;form;начинать;начина́ть;329
+начиная;начина́я;form;начинать;начина́ть;329
+начинав;начина́в;form;начинать;начина́ть;329
+начинавши;начина́вши;form;начинать;начина́ть;329
+начинаемый;начина́емый;form;начинать;начина́ть;329
+буду;бу́ду;form;начинать;начина́ть;329
+будешь;бу́дешь;form;начинать;начина́ть;329
+будет;бу́дет;form;начинать;начина́ть;329
+будем;бу́дем;form;начинать;начина́ть;329
+будете;бу́дете;form;начинать;начина́ть;329
+будут;бу́дут;form;начинать;начина́ть;329
+начинаемый;начина́емый;normal;начинаемый;начина́емый;329
+начинаемое;начина́емое;form;начинаемый;начина́емый;329
+начинаемая;начина́емая;form;начинаемый;начина́емый;329
+начинаемые;начина́емые;form;начинаемый;начина́емый;329
+начинаемого;начина́емого;form;начинаемый;начина́емый;329
+начинаемой;начина́емой;form;начинаемый;начина́емый;329
+начинаемых;начина́емых;form;начинаемый;начина́емый;329
+начинаемому;начина́емому;form;начинаемый;начина́емый;329
+начинаемым;начина́емым;form;начинаемый;начина́емый;329
+начинаемую;начина́емую;form;начинаемый;начина́емый;329
+начинаемою;начина́емою;form;начинаемый;начина́емый;329
+начинаемыми;начина́емыми;form;начинаемый;начина́емый;329
+начинаемом;начина́емом;form;начинаемый;начина́емый;329
+начинаем;начина́ем;form;начинаемый;начина́емый;329
+начинаемо;начина́емо;form;начинаемый;начина́емый;329
+начинаема;начина́ема;form;начинаемый;начина́емый;329
+начинаемы;начина́емы;form;начинаемый;начина́емый;329
+вокруг;вокру́г;normal;вокруг;вокру́г;330
+появившийся;появи́вшийся;normal;появившийся;появи́вшийся;331
+появившееся;появи́вшееся;form;появившийся;появи́вшийся;331
+появившаяся;появи́вшаяся;form;появившийся;появи́вшийся;331
+появившиеся;появи́вшиеся;form;появившийся;появи́вшийся;331
+появившегося;появи́вшегося;form;появившийся;появи́вшийся;331
+появившейся;появи́вшейся;form;появившийся;появи́вшийся;331
+появившихся;появи́вшихся;form;появившийся;появи́вшийся;331
+появившемуся;появи́вшемуся;form;появившийся;появи́вшийся;331
+появившимся;появи́вшимся;form;появившийся;появи́вшийся;331
+появившуюся;появи́вшуюся;form;появившийся;появи́вшийся;331
+появившеюся;появи́вшеюся;form;появившийся;появи́вшийся;331
+появившимися;появи́вшимися;form;появившийся;появи́вшийся;331
+появившемся;появи́вшемся;form;появившийся;появи́вшийся;331
+появиться;появи́ться;normal;появиться;появи́ться;331
+появлюсь;появлю́сь;form;появиться;появи́ться;331
+появился;появи́лся;form;появиться;появи́ться;331
+появилась;появи́лась;form;появиться;появи́ться;331
+появишься;поя́вишься;form;появиться;появи́ться;331
+появился;появи́лся;form;появиться;появи́ться;331
+появилась;появи́лась;form;появиться;появи́ться;331
+появись;появи́сь;form;появиться;появи́ться;331
+появится;поя́вится;form;появиться;появи́ться;331
+появился;появи́лся;form;появиться;появи́ться;331
+появилась;появи́лась;form;появиться;появи́ться;331
+появилось;появи́лось;form;появиться;появи́ться;331
+появимся;поя́вимся;form;появиться;появи́ться;331
+появились;появи́лись;form;появиться;появи́ться;331
+появимтесь;поя́вимтесь;form;появиться;появи́ться;331
+появитесь;поя́витесь;form;появиться;появи́ться;331
+появились;появи́лись;form;появиться;появи́ться;331
+появитесь;появи́тесь;form;появиться;появи́ться;331
+появятся;поя́вятся;form;появиться;появи́ться;331
+появились;появи́лись;form;появиться;появи́ться;331
+появившийся;появи́вшийся;form;появиться;появи́ться;331
+появившись;появи́вшись;form;появиться;появи́ться;331
+появясь;появя́сь;form;появиться;появи́ться;331
+девушка;де́вушка;normal;девушка;де́вушка;333
+девушка;де́вушка;form;девушка;де́вушка;333
+девушки;де́вушки;form;девушка;де́вушка;333
+девушки;де́вушки;form;девушка;де́вушка;333
+девушек;де́вушек;form;девушка;де́вушка;333
+девушке;де́вушке;form;девушка;де́вушка;333
+девушкам;де́вушкам;form;девушка;де́вушка;333
+девушку;де́вушку;form;девушка;де́вушка;333
+девушек;де́вушек;form;девушка;де́вушка;333
+девушкой;де́вушкой;form;девушка;де́вушка;333
+девушкою;де́вушкою;form;девушка;де́вушка;333
+девушками;де́вушками;form;девушка;де́вушка;333
+девушке;де́вушке;form;девушка;де́вушка;333
+девушках;де́вушках;form;девушка;де́вушка;333
+солдат;солда́т;normal;солдат;солда́т;334
+солдат;солда́т;form;солдат;солда́т;334
+солдаты;солда́ты;form;солдат;солда́т;334
+солдата;солда́та;form;солдат;солда́т;334
+солдат;солда́т;form;солдат;солда́т;334
+солдату;солда́ту;form;солдат;солда́т;334
+солдатам;солда́там;form;солдат;солда́т;334
+солдата;солда́та;form;солдат;солда́т;334
+солдат;солда́т;form;солдат;солда́т;334
+солдатом;солда́том;form;солдат;солда́т;334
+солдатами;солда́тами;form;солдат;солда́т;334
+солдате;солда́те;form;солдат;солда́т;334
+солдатах;солда́тах;form;солдат;солда́т;334
+иногда;иногда́;normal;иногда;иногда́;335
+забыть;забы́ть;normal;забыть;забы́ть;336
+забыть;за́быть;form;забыть;забы́ть;336
+забыти;за́быти;form;забыть;забы́ть;336
+забыти;за́быти;form;забыть;забы́ть;336
+забытей;за́бытей;form;забыть;забы́ть;336
+забыти;за́быти;form;забыть;забы́ть;336
+забытям;за́бытям;form;забыть;забы́ть;336
+забыть;за́быть;form;забыть;забы́ть;336
+забыти;за́быти;form;забыть;забы́ть;336
+забытью;за́бытью;form;забыть;забы́ть;336
+забытями;за́бытями;form;забыть;забы́ть;336
+забыти;за́быти;form;забыть;забы́ть;336
+забытях;за́бытях;form;забыть;забы́ть;336
+забуду;забу́ду;form;забыть;забы́ть;336
+забыл;забы́л;form;забыть;забы́ть;336
+забыла;забы́ла;form;забыть;забы́ть;336
+забудешь;забу́дешь;form;забыть;забы́ть;336
+забыл;забы́л;form;забыть;забы́ть;336
+забыла;забы́ла;form;забыть;забы́ть;336
+забудь;забу́дь;form;забыть;забы́ть;336
+забудет;забу́дет;form;забыть;забы́ть;336
+забыл;забы́л;form;забыть;забы́ть;336
+забыла;забы́ла;form;забыть;забы́ть;336
+забыло;забы́ло;form;забыть;забы́ть;336
+забудем;забу́дем;form;забыть;забы́ть;336
+забыли;забы́ли;form;забыть;забы́ть;336
+забудемте;забу́демте;form;забыть;забы́ть;336
+забудете;забу́дете;form;забыть;забы́ть;336
+забыли;забы́ли;form;забыть;забы́ть;336
+забудьте;забу́дьте;form;забыть;забы́ть;336
+забудут;забу́дут;form;забыть;забы́ть;336
+забыли;забы́ли;form;забыть;забы́ть;336
+забывший;забы́вший;form;забыть;забы́ть;336
+забыв;забы́в;form;забыть;забы́ть;336
+забывши;забы́вши;form;забыть;забы́ть;336
+забытый;забы́тый;form;забыть;забы́ть;336
+забывший;забы́вший;normal;забывший;забы́вший;336
+забывший;забы́вший;form;забывший;забы́вший;336
+забывшее;забы́вшее;form;забывший;забы́вший;336
+забывшая;забы́вшая;form;забывший;забы́вший;336
+забывшие;забы́вшие;form;забывший;забы́вший;336
+забывшего;забы́вшего;form;забывший;забы́вший;336
+забывшего;забы́вшего;form;забывший;забы́вший;336
+забывшей;забы́вшей;form;забывший;забы́вший;336
+забывших;забы́вших;form;забывший;забы́вший;336
+забывшему;забы́вшему;form;забывший;забы́вший;336
+забывшему;забы́вшему;form;забывший;забы́вший;336
+забывшей;забы́вшей;form;забывший;забы́вший;336
+забывшим;забы́вшим;form;забывший;забы́вший;336
+забывшего;забы́вшего;form;забывший;забы́вший;336
+забывшее;забы́вшее;form;забывший;забы́вший;336
+забывшую;забы́вшую;form;забывший;забы́вший;336
+забывших;забы́вших;form;забывший;забы́вший;336
+забывший;забы́вший;form;забывший;забы́вший;336
+забывшие;забы́вшие;form;забывший;забы́вший;336
+забывшим;забы́вшим;form;забывший;забы́вший;336
+забывшим;забы́вшим;form;забывший;забы́вший;336
+забывшими;забы́вшими;form;забывший;забы́вший;336
+забывшем;забы́вшем;form;забывший;забы́вший;336
+забывшем;забы́вшем;form;забывший;забы́вший;336
+забывшей;забы́вшей;form;забывший;забы́вший;336
+забывших;забы́вших;form;забывший;забы́вший;336
+забывшею;забы́вшею;form;забывший;забы́вший;336
+вспомнивший;вспо́мнивший;normal;вспомнивший;вспо́мнивший;337
+вспомнивший;вспо́мнивший;form;вспомнивший;вспо́мнивший;337
+вспомнившее;вспо́мнившее;form;вспомнивший;вспо́мнивший;337
+вспомнившая;вспо́мнившая;form;вспомнивший;вспо́мнивший;337
+вспомнившие;вспо́мнившие;form;вспомнивший;вспо́мнивший;337
+вспомнившего;вспо́мнившего;form;вспомнивший;вспо́мнивший;337
+вспомнившего;вспо́мнившего;form;вспомнивший;вспо́мнивший;337
+вспомнившей;вспо́мнившей;form;вспомнивший;вспо́мнивший;337
+вспомнивших;вспо́мнивших;form;вспомнивший;вспо́мнивший;337
+вспомнившему;вспо́мнившему;form;вспомнивший;вспо́мнивший;337
+вспомнившему;вспо́мнившему;form;вспомнивший;вспо́мнивший;337
+вспомнившей;вспо́мнившей;form;вспомнивший;вспо́мнивший;337
+вспомнившим;вспо́мнившим;form;вспомнивший;вспо́мнивший;337
+вспомнившего;вспо́мнившего;form;вспомнивший;вспо́мнивший;337
+вспомнившее;вспо́мнившее;form;вспомнивший;вспо́мнивший;337
+вспомнившую;вспо́мнившую;form;вспомнивший;вспо́мнивший;337
+вспомнивших;вспо́мнивших;form;вспомнивший;вспо́мнивший;337
+вспомнивший;вспо́мнивший;form;вспомнивший;вспо́мнивший;337
+вспомнившие;вспо́мнившие;form;вспомнивший;вспо́мнивший;337
+вспомнившим;вспо́мнившим;form;вспомнивший;вспо́мнивший;337
+вспомнившим;вспо́мнившим;form;вспомнивший;вспо́мнивший;337
+вспомнившими;вспо́мнившими;form;вспомнивший;вспо́мнивший;337
+вспомнившем;вспо́мнившем;form;вспомнивший;вспо́мнивший;337
+вспомнившем;вспо́мнившем;form;вспомнивший;вспо́мнивший;337
+вспомнившей;вспо́мнившей;form;вспомнивший;вспо́мнивший;337
+вспомнивших;вспо́мнивших;form;вспомнивший;вспо́мнивший;337
+вспомнившею;вспо́мнившею;form;вспомнивший;вспо́мнивший;337
+вспомненный;вспо́мненный;normal;вспомненный;вспо́мненный;337
+вспомненное;вспо́мненное;form;вспомненный;вспо́мненный;337
+вспомненная;вспо́мненная;form;вспомненный;вспо́мненный;337
+вспомненные;вспо́мненные;form;вспомненный;вспо́мненный;337
+вспомненного;вспо́мненного;form;вспомненный;вспо́мненный;337
+вспомненной;вспо́мненной;form;вспомненный;вспо́мненный;337
+вспомненных;вспо́мненных;form;вспомненный;вспо́мненный;337
+вспомненному;вспо́мненному;form;вспомненный;вспо́мненный;337
+вспомненным;вспо́мненным;form;вспомненный;вспо́мненный;337
+вспомненную;вспо́мненную;form;вспомненный;вспо́мненный;337
+вспомненною;вспо́мненною;form;вспомненный;вспо́мненный;337
+вспомненными;вспо́мненными;form;вспомненный;вспо́мненный;337
+вспомненном;вспо́мненном;form;вспомненный;вспо́мненный;337
+вспомнен;вспо́мнен;form;вспомненный;вспо́мненный;337
+вспомнено;вспо́мнено;form;вспомненный;вспо́мненный;337
+вспомнена;вспо́мнена;form;вспомненный;вспо́мненный;337
+вспомнены;вспо́мнены;form;вспомненный;вспо́мненный;337
+вспомнить;вспо́мнить;normal;вспомнить;вспо́мнить;337
+вспомню;вспо́мню;form;вспомнить;вспо́мнить;337
+вспомнил;вспо́мнил;form;вспомнить;вспо́мнить;337
+вспомнила;вспо́мнила;form;вспомнить;вспо́мнить;337
+вспомнишь;вспо́мнишь;form;вспомнить;вспо́мнить;337
+вспомнил;вспо́мнил;form;вспомнить;вспо́мнить;337
+вспомнила;вспо́мнила;form;вспомнить;вспо́мнить;337
+вспомни;вспо́мни;form;вспомнить;вспо́мнить;337
+вспомнит;вспо́мнит;form;вспомнить;вспо́мнить;337
+вспомнил;вспо́мнил;form;вспомнить;вспо́мнить;337
+вспомнила;вспо́мнила;form;вспомнить;вспо́мнить;337
+вспомнило;вспо́мнило;form;вспомнить;вспо́мнить;337
+вспомним;вспо́мним;form;вспомнить;вспо́мнить;337
+вспомнили;вспо́мнили;form;вспомнить;вспо́мнить;337
+вспомнимте;вспо́мнимте;form;вспомнить;вспо́мнить;337
+вспомните;вспо́мните;form;вспомнить;вспо́мнить;337
+вспомнили;вспо́мнили;form;вспомнить;вспо́мнить;337
+вспомните;вспо́мните;form;вспомнить;вспо́мнить;337
+вспомнят;вспо́мнят;form;вспомнить;вспо́мнить;337
+вспомнили;вспо́мнили;form;вспомнить;вспо́мнить;337
+вспомнивший;вспо́мнивший;form;вспомнить;вспо́мнить;337
+вспомнив;вспо́мнив;form;вспомнить;вспо́мнить;337
+вспомнивши;вспо́мнивши;form;вспомнить;вспо́мнить;337
+вспомненный;вспо́мненный;form;вспомнить;вспо́мнить;337
+небо;не́бо;normal;небо;не́бо;338
+небо;не́бо;form;небо;не́бо;338
+небеса;небеса́;form;небо;не́бо;338
+неба;не́ба;form;небо;не́бо;338
+небес;небе́с;form;небо;не́бо;338
+небу;не́бу;form;небо;не́бо;338
+небесам;небеса́м;form;небо;не́бо;338
+небо;не́бо;form;небо;не́бо;338
+небеса;небеса́;form;небо;не́бо;338
+небом;не́бом;form;небо;не́бо;338
+небесами;небеса́ми;form;небо;не́бо;338
+небе;не́бе;form;небо;не́бо;338
+небесах;небеса́х;form;небо;не́бо;338
+затем;зате́м;normal;затем;зате́м;339
+система;систе́ма;normal;система;систе́ма;340
+система;систе́ма;form;система;систе́ма;340
+системы;систе́мы;form;система;систе́ма;340
+системы;систе́мы;form;система;систе́ма;340
+систем;систе́м;form;система;систе́ма;340
+системе;систе́ме;form;система;систе́ма;340
+системам;систе́мам;form;система;систе́ма;340
+систему;систе́му;form;система;систе́ма;340
+системы;систе́мы;form;система;систе́ма;340
+системой;систе́мой;form;система;систе́ма;340
+системою;систе́мою;form;система;систе́ма;340
+системами;систе́мами;form;система;систе́ма;340
+системе;систе́ме;form;система;систе́ма;340
+системах;систе́мах;form;система;систе́ма;340
+воздух;возду́х;normal;воздух;возду́х;341
+воздух;во́здух;form;воздух;возду́х;341
+&#42;;&#42;;form;воздух;возду́х;341
+воздухи;во́здухи;form;воздух;возду́х;341
+воздуха;во́здуха;form;воздух;возду́х;341
+&#42;;&#42;;form;воздух;возду́х;341
+воздухов;во́здухов;form;воздух;возду́х;341
+воздуху;во́здуху;form;воздух;возду́х;341
+&#42;;&#42;;form;воздух;возду́х;341
+воздухам;во́здухам;form;воздух;возду́х;341
+воздух;во́здух;form;воздух;возду́х;341
+&#42;;&#42;;form;воздух;возду́х;341
+воздухи;во́здухи;form;воздух;возду́х;341
+воздухом;во́здухом;form;воздух;возду́х;341
+&#42;;&#42;;form;воздух;возду́х;341
+воздухами;во́здухами;form;воздух;возду́х;341
+воздухе;во́здухе;form;воздух;возду́х;341
+&#42;;&#42;;form;воздух;возду́х;341
+воздухах;во́здухах;form;воздух;возду́х;341
+воздуху;во́здуху;form;воздух;возду́х;341
+воздух;возду́х;form;воздух;возду́х;341
+воздухи;воздухи́;form;воздух;возду́х;341
+воздуха;воздуха́;form;воздух;возду́х;341
+воздухов;воздухо́в;form;воздух;возду́х;341
+воздуху;воздуху́;form;воздух;возду́х;341
+воздухам;воздуха́м;form;воздух;возду́х;341
+воздух;возду́х;form;воздух;возду́х;341
+воздухи;воздухи́;form;воздух;возду́х;341
+воздухом;воздухо́м;form;воздух;возду́х;341
+воздухами;воздуха́ми;form;воздух;возду́х;341
+воздухе;воздухе́;form;воздух;возду́х;341
+воздухах;воздуха́х;form;воздух;возду́х;341
+оба;о́ба;normal;оба;о́ба;342
+оба;о́ба;form;оба;о́ба;342
+обе;о́бе;form;оба;о́ба;342
+обоих;обо́их;form;оба;о́ба;342
+обеих;обе́их;form;оба;о́ба;342
+обоим;обо́им;form;оба;о́ба;342
+обеим;обе́им;form;оба;о́ба;342
+обоих;обо́их;form;оба;о́ба;342
+оба;о́ба;form;оба;о́ба;342
+обеих;обе́их;form;оба;о́ба;342
+обе;о́бе;form;оба;о́ба;342
+обоими;обо́ими;form;оба;о́ба;342
+обеими;обе́ими;form;оба;о́ба;342
+обоих;обо́их;form;оба;о́ба;342
+обеих;обе́их;form;оба;о́ба;342
+обоего;обо́его;form;оба;о́ба;342
+собственный;со́бственный;normal;собственный;со́бственный;343
+собственный;со́бственный;form;собственный;со́бственный;343
+собственное;со́бственное;form;собственный;со́бственный;343
+собственная;со́бственная;form;собственный;со́бственный;343
+собственные;со́бственные;form;собственный;со́бственный;343
+собственного;со́бственного;form;собственный;со́бственный;343
+собственного;со́бственного;form;собственный;со́бственный;343
+собственной;со́бственной;form;собственный;со́бственный;343
+собственных;со́бственных;form;собственный;со́бственный;343
+собственному;со́бственному;form;собственный;со́бственный;343
+собственному;со́бственному;form;собственный;со́бственный;343
+собственной;со́бственной;form;собственный;со́бственный;343
+собственным;со́бственным;form;собственный;со́бственный;343
+собственного;со́бственного;form;собственный;со́бственный;343
+собственное;со́бственное;form;собственный;со́бственный;343
+собственную;со́бственную;form;собственный;со́бственный;343
+собственных;со́бственных;form;собственный;со́бственный;343
+собственный;со́бственный;form;собственный;со́бственный;343
+собственные;со́бственные;form;собственный;со́бственный;343
+собственным;со́бственным;form;собственный;со́бственный;343
+собственным;со́бственным;form;собственный;со́бственный;343
+собственными;со́бственными;form;собственный;со́бственный;343
+собственном;со́бственном;form;собственный;со́бственный;343
+собственном;со́бственном;form;собственный;со́бственный;343
+собственной;со́бственной;form;собственный;со́бственный;343
+собственных;со́бственных;form;собственный;со́бственный;343
+собственен;со́бственен;form;собственный;со́бственный;343
+собствен;со́бствен;form;собственный;со́бственный;343
+собственно;со́бственно;form;собственный;со́бственный;343
+собственна;со́бственна;form;собственный;со́бственный;343
+собственны;со́бственны;form;собственный;со́бственный;343
+собственною;со́бственною;form;собственный;со́бственный;343
+пытающийся;пыта́ющийся;normal;пытающийся;пыта́ющийся;344
+пытающееся;пыта́ющееся;form;пытающийся;пыта́ющийся;344
+пытающаяся;пыта́ющаяся;form;пытающийся;пыта́ющийся;344
+пытающиеся;пыта́ющиеся;form;пытающийся;пыта́ющийся;344
+пытающегося;пыта́ющегося;form;пытающийся;пыта́ющийся;344
+пытающейся;пыта́ющейся;form;пытающийся;пыта́ющийся;344
+пытающихся;пыта́ющихся;form;пытающийся;пыта́ющийся;344
+пытающемуся;пыта́ющемуся;form;пытающийся;пыта́ющийся;344
+пытающимся;пыта́ющимся;form;пытающийся;пыта́ющийся;344
+пытающуюся;пыта́ющуюся;form;пытающийся;пыта́ющийся;344
+пытающеюся;пыта́ющеюся;form;пытающийся;пыта́ющийся;344
+пытающимися;пыта́ющимися;form;пытающийся;пыта́ющийся;344
+пытающемся;пыта́ющемся;form;пытающийся;пыта́ющийся;344
+пытаться;пыта́ться;normal;пытаться;пыта́ться;344
+пытаюсь;пыта́юсь;form;пытаться;пыта́ться;344
+пытался;пыта́лся;form;пытаться;пыта́ться;344
+пыталась;пыта́лась;form;пытаться;пыта́ться;344
+пытаешься;пыта́ешься;form;пытаться;пыта́ться;344
+пытался;пыта́лся;form;пытаться;пыта́ться;344
+пыталась;пыта́лась;form;пытаться;пыта́ться;344
+пытайся;пыта́йся;form;пытаться;пыта́ться;344
+пытается;пыта́ется;form;пытаться;пыта́ться;344
+пытался;пыта́лся;form;пытаться;пыта́ться;344
+пыталась;пыта́лась;form;пытаться;пыта́ться;344
+пыталось;пыта́лось;form;пытаться;пыта́ться;344
+пытаемся;пыта́емся;form;пытаться;пыта́ться;344
+пытались;пыта́лись;form;пытаться;пыта́ться;344
+пытаетесь;пыта́етесь;form;пытаться;пыта́ться;344
+пытались;пыта́лись;form;пытаться;пыта́ться;344
+пытайтесь;пыта́йтесь;form;пытаться;пыта́ться;344
+пытаются;пыта́ются;form;пытаться;пыта́ться;344
+пытались;пыта́лись;form;пытаться;пыта́ться;344
+пытающийся;пыта́ющийся;form;пытаться;пыта́ться;344
+пытавшийся;пыта́вшийся;form;пытаться;пыта́ться;344
+пытаясь;пыта́ясь;form;пытаться;пыта́ться;344
+пытавшись;пыта́вшись;form;пытаться;пыта́ться;344
+буду;бу́ду;form;пытаться;пыта́ться;344
+будешь;бу́дешь;form;пытаться;пыта́ться;344
+будет;бу́дет;form;пытаться;пыта́ться;344
+будем;бу́дем;form;пытаться;пыта́ться;344
+будете;бу́дете;form;пытаться;пыта́ться;344
+будут;бу́дут;form;пытаться;пыта́ться;344
+пытавшийся;пыта́вшийся;normal;пытавшийся;пыта́вшийся;344
+пытавшееся;пыта́вшееся;form;пытавшийся;пыта́вшийся;344
+пытавшаяся;пыта́вшаяся;form;пытавшийся;пыта́вшийся;344
+пытавшиеся;пыта́вшиеся;form;пытавшийся;пыта́вшийся;344
+пытавшегося;пыта́вшегося;form;пытавшийся;пыта́вшийся;344
+пытавшейся;пыта́вшейся;form;пытавшийся;пыта́вшийся;344
+пытавшихся;пыта́вшихся;form;пытавшийся;пыта́вшийся;344
+пытавшемуся;пыта́вшемуся;form;пытавшийся;пыта́вшийся;344
+пытавшимся;пыта́вшимся;form;пытавшийся;пыта́вшийся;344
+пытавшуюся;пыта́вшуюся;form;пытавшийся;пыта́вшийся;344
+пытавшеюся;пыта́вшеюся;form;пытавшийся;пыта́вшийся;344
+пытавшимися;пыта́вшимися;form;пытавшийся;пыта́вшийся;344
+пытавшемся;пыта́вшемся;form;пытавшийся;пыта́вшийся;344
+находящийся;находя́щийся;normal;находящийся;находя́щийся;345
+находящийся;находя́щийся;form;находящийся;находя́щийся;345
+находящееся;находя́щееся;form;находящийся;находя́щийся;345
+находящаяся;находя́щаяся;form;находящийся;находя́щийся;345
+находящиеся;находя́щиеся;form;находящийся;находя́щийся;345
+находящегося;находя́щегося;form;находящийся;находя́щийся;345
+находящегося;находя́щегося;form;находящийся;находя́щийся;345
+находящейся;находящейся;form;находящийся;находя́щийся;345
+находящихся;находя́щихся;form;находящийся;находя́щийся;345
+находящемуся;находя́щемуся;form;находящийся;находя́щийся;345
+находящемуся;находя́щемуся;form;находящийся;находя́щийся;345
+находящейся;находя́щейся;form;находящийся;находя́щийся;345
+находящимся;находя́щимся;form;находящийся;находя́щийся;345
+находящегося;находя́щегося;form;находящийся;находя́щийся;345
+находящееся;находя́щееся;form;находящийся;находя́щийся;345
+находящуюся;находя́щуюся;form;находящийся;находя́щийся;345
+находящихся;находя́щихся;form;находящийся;находя́щийся;345
+находящийся;находя́щийся;form;находящийся;находя́щийся;345
+находящиеся;находя́щиеся;form;находящийся;находя́щийся;345
+находящимся;находя́щимся;form;находящийся;находя́щийся;345
+находящимся;находя́щимся;form;находящийся;находя́щийся;345
+находящимися;находя́щимися;form;находящийся;находя́щийся;345
+находящемся;находя́щемся;form;находящийся;находя́щийся;345
+находящемся;находя́щемся;form;находящийся;находя́щийся;345
+находящейся;находя́щейся;form;находящийся;находя́щийся;345
+находящихся;находя́щихся;form;находящийся;находя́щийся;345
+находящеюся;находя́щеюся;form;находящийся;находя́щийся;345
+находившийся;находи́вшийся;normal;находившийся;находи́вшийся;345
+находившийся;находи́вшийся;form;находившийся;находи́вшийся;345
+находившееся;находи́вшееся;form;находившийся;находи́вшийся;345
+находившаяся;находи́вшаяся;form;находившийся;находи́вшийся;345
+находившиеся;находи́вшиеся;form;находившийся;находи́вшийся;345
+находившегося;находи́вшегося;form;находившийся;находи́вшийся;345
+находившегося;находи́вшегося;form;находившийся;находи́вшийся;345
+находившейся;находи́вшейся;form;находившийся;находи́вшийся;345
+находившихся;находи́вшихся;form;находившийся;находи́вшийся;345
+находившемуся;находи́вшемуся;form;находившийся;находи́вшийся;345
+находившемуся;находи́вшемуся;form;находившийся;находи́вшийся;345
+находившейся;находи́вшейся;form;находившийся;находи́вшийся;345
+находившимся;находи́вшимся;form;находившийся;находи́вшийся;345
+находившегося;находи́вшегося;form;находившийся;находи́вшийся;345
+находившееся;находи́вшееся;form;находившийся;находи́вшийся;345
+находившуюся;находи́вшуюся;form;находившийся;находи́вшийся;345
+находившихся;находи́вшихся;form;находившийся;находи́вшийся;345
+находившийся;находи́вшийся;form;находившийся;находи́вшийся;345
+находившиеся;находи́вшиеся;form;находившийся;находи́вшийся;345
+находившимся;находи́вшимся;form;находившийся;находи́вшийся;345
+находившимся;находи́вшимся;form;находившийся;находи́вшийся;345
+находившимися;находи́вшимися;form;находившийся;находи́вшийся;345
+находившемся;находи́вшемся;form;находившийся;находи́вшийся;345
+находившемся;находи́вшемся;form;находившийся;находи́вшийся;345
+находившейся;находи́вшейся;form;находившийся;находи́вшийся;345
+находившихся;находи́вшихся;form;находившийся;находи́вшийся;345
+находившеюся;находи́вшеюся;form;находившийся;находи́вшийся;345
+находиться;находи́ться;normal;находиться;находи́ться;345
+нахожусь;нахожу́сь;form;находиться;находи́ться;345
+находился;находи́лся;form;находиться;находи́ться;345
+находилась;находи́лась;form;находиться;находи́ться;345
+находишься;нахо́дишься;form;находиться;находи́ться;345
+находился;находи́лся;form;находиться;находи́ться;345
+находилась;находи́лась;form;находиться;находи́ться;345
+находись;находи́сь;form;находиться;находи́ться;345
+находится;нахо́дится;form;находиться;находи́ться;345
+находился;находи́лся;form;находиться;находи́ться;345
+находилась;находи́лась;form;находиться;находи́ться;345
+находилось;находи́лось;form;находиться;находи́ться;345
+находимся;нахо́димся;form;находиться;находи́ться;345
+находились;находи́лись;form;находиться;находи́ться;345
+находитесь;нахо́дитесь;form;находиться;находи́ться;345
+находились;находи́лись;form;находиться;находи́ться;345
+находитесь;находи́тесь;form;находиться;находи́ться;345
+находятся;нахо́дятся;form;находиться;находи́ться;345
+находились;находи́лись;form;находиться;находи́ться;345
+находящийся;находя́щийся;form;находиться;находи́ться;345
+находившийся;находи́вшийся;form;находиться;находи́ться;345
+находясь;находя́сь;form;находиться;находи́ться;345
+находившись;находи́вшись;form;находиться;находи́ться;345
+нахожусь;нахожу́сь;form;находиться;находи́ться;345
+находился;находи́лся;form;находиться;находи́ться;345
+находилась;находи́лась;form;находиться;находи́ться;345
+находишься;нахо́дишься;form;находиться;находи́ться;345
+находился;находи́лся;form;находиться;находи́ться;345
+находилась;находи́лась;form;находиться;находи́ться;345
+находись;находи́сь;form;находиться;находи́ться;345
+находится;нахо́дится;form;находиться;находи́ться;345
+находился;находи́лся;form;находиться;находи́ться;345
+находилась;находи́лась;form;находиться;находи́ться;345
+находилось;находи́лось;form;находиться;находи́ться;345
+находимся;нахо́димся;form;находиться;находи́ться;345
+находились;находи́лись;form;находиться;находи́ться;345
+находимтесь;нахо́димтесь;form;находиться;находи́ться;345
+находитесь;нахо́дитесь;form;находиться;находи́ться;345
+находились;находи́лись;form;находиться;находи́ться;345
+находитесь;находи́тесь;form;находиться;находи́ться;345
+находятся;нахо́дятся;form;находиться;находи́ться;345
+находились;находи́лись;form;находиться;находи́ться;345
+находившийся;находи́вшийся;form;находиться;находи́ться;345
+находившись;находи́вшись;form;находиться;находи́ться;345
+буду;бу́ду;form;находиться;находи́ться;345
+будешь;бу́дешь;form;находиться;находи́ться;345
+будет;бу́дет;form;находиться;находи́ться;345
+будем;бу́дем;form;находиться;находи́ться;345
+будете;бу́дете;form;находиться;находи́ться;345
+будут;бу́дут;form;находиться;находи́ться;345
+держанный;де́ржанный;normal;держанный;де́ржанный;346
+держанное;де́ржанное;form;держанный;де́ржанный;346
+держанная;де́ржанная;form;держанный;де́ржанный;346
+держанные;де́ржанные;form;держанный;де́ржанный;346
+держанного;де́ржанного;form;держанный;де́ржанный;346
+держанной;де́ржанной;form;держанный;де́ржанный;346
+держанных;де́ржанных;form;держанный;де́ржанный;346
+держанному;де́ржанному;form;держанный;де́ржанный;346
+держанным;де́ржанным;form;держанный;де́ржанный;346
+держанную;де́ржанную;form;держанный;де́ржанный;346
+держанною;де́ржанною;form;держанный;де́ржанный;346
+держанными;де́ржанными;form;держанный;де́ржанный;346
+держанном;де́ржанном;form;держанный;де́ржанный;346
+держан;де́ржан;form;держанный;де́ржанный;346
+держано;де́ржано;form;держанный;де́ржанный;346
+держана;де́ржана;form;держанный;де́ржанный;346
+держаны;де́ржаны;form;держанный;де́ржанный;346
+держать;держа́ть;normal;держать;держа́ть;346
+держу;держу́;form;держать;держа́ть;346
+держал;держа́л;form;держать;держа́ть;346
+держала;держа́ла;form;держать;держа́ть;346
+держишь;де́ржишь;form;держать;держа́ть;346
+держал;держа́л;form;держать;держа́ть;346
+держала;держа́ла;form;держать;держа́ть;346
+держи;держи́;form;держать;держа́ть;346
+держит;де́ржит;form;держать;держа́ть;346
+держал;держа́л;form;держать;держа́ть;346
+держала;держа́ла;form;держать;держа́ть;346
+держало;держа́ло;form;держать;держа́ть;346
+держим;де́ржим;form;держать;держа́ть;346
+держали;держа́ли;form;держать;держа́ть;346
+держите;де́ржите;form;держать;держа́ть;346
+держали;держа́ли;form;держать;держа́ть;346
+держите;держи́те;form;держать;держа́ть;346
+держат;де́ржат;form;держать;держа́ть;346
+держали;держа́ли;form;держать;держа́ть;346
+держащий;держа́щий;form;держать;держа́ть;346
+державший;держа́вший;form;держать;держа́ть;346
+держа;держа́;form;держать;держа́ть;346
+держав;держа́в;form;держать;держа́ть;346
+державши;держа́вши;form;держать;держа́ть;346
+держимый;держи́мый;form;держать;держа́ть;346
+держанный;де́ржанный;form;держать;держа́ть;346
+буду;бу́ду;form;держать;держа́ть;346
+будешь;бу́дешь;form;держать;держа́ть;346
+будет;бу́дет;form;держать;держа́ть;346
+будем;бу́дем;form;держать;держа́ть;346
+будете;бу́дете;form;держать;держа́ть;346
+будут;бу́дут;form;держать;держа́ть;346
+держащий;держа́щий;normal;держащий;держа́щий;346
+держащее;держа́щее;form;держащий;держа́щий;346
+держащая;держа́щая;form;держащий;держа́щий;346
+держащие;держа́щие;form;держащий;держа́щий;346
+держащего;держа́щего;form;держащий;держа́щий;346
+держащей;держа́щей;form;держащий;держа́щий;346
+держащих;держа́щих;form;держащий;держа́щий;346
+держащему;держа́щему;form;держащий;держа́щий;346
+держащим;держа́щим;form;держащий;держа́щий;346
+держащую;держа́щую;form;держащий;держа́щий;346
+держащею;держа́щею;form;держащий;держа́щий;346
+держащими;держа́щими;form;держащий;держа́щий;346
+держащем;держа́щем;form;держащий;держа́щий;346
+державший;держа́вший;normal;державший;держа́вший;346
+державший;держа́вший;form;державший;держа́вший;346
+державшее;держа́вшее;form;державший;держа́вший;346
+державшая;держа́вшая;form;державший;держа́вший;346
+державшие;держа́вшие;form;державший;держа́вший;346
+державшего;держа́вшего;form;державший;держа́вший;346
+державшего;держа́вшего;form;державший;держа́вший;346
+державшей;держа́вшей;form;державший;держа́вший;346
+державших;держа́вших;form;державший;держа́вший;346
+державшему;держа́вшему;form;державший;держа́вший;346
+державшему;держа́вшему;form;державший;держа́вший;346
+державшей;держа́вшей;form;державший;держа́вший;346
+державшим;держа́вшим;form;державший;держа́вший;346
+державшего;держа́вшего;form;державший;держа́вший;346
+державшее;держа́вшее;form;державший;держа́вший;346
+державшую;держа́вшую;form;державший;держа́вший;346
+державших;держа́вших;form;державший;держа́вший;346
+державший;держа́вший;form;державший;держа́вший;346
+державшие;держа́вшие;form;державший;держа́вший;346
+державшим;держа́вшим;form;державший;держа́вший;346
+державшим;держа́вшим;form;державший;держа́вший;346
+державшими;держа́вшими;form;державший;держа́вший;346
+державшем;держа́вшем;form;державший;держа́вший;346
+державшем;держа́вшем;form;державший;держа́вший;346
+державшей;держа́вшей;form;державший;держа́вший;346
+державших;держа́вших;form;державший;держа́вший;346
+державшею;держа́вшею;form;державший;держа́вший;346
+держимый;держи́мый;normal;держимый;держи́мый;346
+держимое;держи́мое;form;держимый;держи́мый;346
+держимая;держи́мая;form;держимый;держи́мый;346
+держимые;держи́мые;form;держимый;держи́мый;346
+держимого;держи́мого;form;держимый;держи́мый;346
+держимой;держи́мой;form;держимый;держи́мый;346
+держимых;держи́мых;form;держимый;держи́мый;346
+держимому;держи́мому;form;держимый;держи́мый;346
+держимым;держи́мым;form;держимый;держи́мый;346
+держимую;держи́мую;form;держимый;держи́мый;346
+держимою;держи́мою;form;держимый;держи́мый;346
+держимыми;держи́мыми;form;держимый;держи́мый;346
+держимом;держи́мом;form;держимый;держи́мый;346
+держим;держи́м;form;держимый;держи́мый;346
+держимо;держи́мо;form;держимый;держи́мый;346
+держима;держи́ма;form;держимый;держи́мый;346
+держимы;держи́мы;form;держимый;держи́мый;346
+просимый;проси́мый;normal;просимый;проси́мый;347
+просимое;проси́мое;form;просимый;проси́мый;347
+просимая;проси́мая;form;просимый;проси́мый;347
+просимые;проси́мые;form;просимый;проси́мый;347
+просимого;проси́мого;form;просимый;проси́мый;347
+просимой;проси́мой;form;просимый;проси́мый;347
+просимых;проси́мых;form;просимый;проси́мый;347
+просимому;проси́мому;form;просимый;проси́мый;347
+просимым;проси́мым;form;просимый;проси́мый;347
+просимую;проси́мую;form;просимый;проси́мый;347
+просимою;проси́мою;form;просимый;проси́мый;347
+просимыми;проси́мыми;form;просимый;проси́мый;347
+просимом;проси́мом;form;просимый;проси́мый;347
+просим;проси́м;form;просимый;проси́мый;347
+просимо;проси́мо;form;просимый;проси́мый;347
+просима;проси́ма;form;просимый;проси́мый;347
+просимы;проси́мы;form;просимый;проси́мый;347
+прошенный;про́шенный;normal;прошенный;про́шенный;347
+прошенное;про́шенное;form;прошенный;про́шенный;347
+прошенная;про́шенная;form;прошенный;про́шенный;347
+прошенные;про́шенные;form;прошенный;про́шенный;347
+прошенного;про́шенного;form;прошенный;про́шенный;347
+прошенной;про́шенной;form;прошенный;про́шенный;347
+прошенных;про́шенных;form;прошенный;про́шенный;347
+прошенному;про́шенному;form;прошенный;про́шенный;347
+прошенным;про́шенным;form;прошенный;про́шенный;347
+прошенную;про́шенную;form;прошенный;про́шенный;347
+прошенною;про́шенною;form;прошенный;про́шенный;347
+прошенными;про́шенными;form;прошенный;про́шенный;347
+прошенном;про́шенном;form;прошенный;про́шенный;347
+прошен;про́шен;form;прошенный;про́шенный;347
+прошено;про́шено;form;прошенный;про́шенный;347
+прошена;про́шена;form;прошенный;про́шенный;347
+прошены;про́шены;form;прошенный;про́шенный;347
+просящий;прося́щий;normal;просящий;прося́щий;347
+просящее;прося́щее;form;просящий;прося́щий;347
+просящая;прося́щая;form;просящий;прося́щий;347
+просящие;прося́щие;form;просящий;прося́щий;347
+просящего;прося́щего;form;просящий;прося́щий;347
+просящей;прося́щей;form;просящий;прося́щий;347
+просящих;прося́щих;form;просящий;прося́щий;347
+просящему;прося́щему;form;просящий;прося́щий;347
+просящим;прося́щим;form;просящий;прося́щий;347
+просящую;прося́щую;form;просящий;прося́щий;347
+просящею;прося́щею;form;просящий;прося́щий;347
+просящими;прося́щими;form;просящий;прося́щий;347
+просящем;прося́щем;form;просящий;прося́щий;347
+просивший;проси́вший;normal;просивший;проси́вший;347
+просивший;проси́вший;form;просивший;проси́вший;347
+просившее;проси́вшее;form;просивший;проси́вший;347
+просившая;проси́вшая;form;просивший;проси́вший;347
+просившие;проси́вшие;form;просивший;проси́вший;347
+просившего;проси́вшего;form;просивший;проси́вший;347
+просившего;проси́вшего;form;просивший;проси́вший;347
+просившей;проси́вшей;form;просивший;проси́вший;347
+просивших;проси́вших;form;просивший;проси́вший;347
+просившему;проси́вшему;form;просивший;проси́вший;347
+просившему;проси́вшему;form;просивший;проси́вший;347
+просившей;проси́вшей;form;просивший;проси́вший;347
+просившим;проси́вшим;form;просивший;проси́вший;347
+просившего;проси́вшего;form;просивший;проси́вший;347
+просившее;проси́вшее;form;просивший;проси́вший;347
+просившую;проси́вшую;form;просивший;проси́вший;347
+просивших;проси́вших;form;просивший;проси́вший;347
+просивший;проси́вший;form;просивший;проси́вший;347
+просившие;проси́вшие;form;просивший;проси́вший;347
+просившим;проси́вшим;form;просивший;проси́вший;347
+просившим;проси́вшим;form;просивший;проси́вший;347
+просившими;проси́вшими;form;просивший;проси́вший;347
+просившем;проси́вшем;form;просивший;проси́вший;347
+просившем;проси́вшем;form;просивший;проси́вший;347
+просившей;проси́вшей;form;просивший;проси́вший;347
+просивших;проси́вших;form;просивший;проси́вший;347
+просившею;проси́вшею;form;просивший;проси́вший;347
+просить;проси́ть;normal;просить;проси́ть;347
+прошу;прошу́;form;просить;проси́ть;347
+просил;проси́л;form;просить;проси́ть;347
+просила;проси́ла;form;просить;проси́ть;347
+просишь;про́сишь;form;просить;проси́ть;347
+просил;проси́л;form;просить;проси́ть;347
+просила;проси́ла;form;просить;проси́ть;347
+проси;проси́;form;просить;проси́ть;347
+просит;про́сит;form;просить;проси́ть;347
+просил;проси́л;form;просить;проси́ть;347
+просила;проси́ла;form;просить;проси́ть;347
+просило;проси́ло;form;просить;проси́ть;347
+просим;про́сим;form;просить;проси́ть;347
+просили;проси́ли;form;просить;проси́ть;347
+просите;про́сите;form;просить;проси́ть;347
+просили;проси́ли;form;просить;проси́ть;347
+просите;проси́те;form;просить;проси́ть;347
+просят;про́сят;form;просить;проси́ть;347
+просили;проси́ли;form;просить;проси́ть;347
+просящий;прося́щий;form;просить;проси́ть;347
+просивший;проси́вший;form;просить;проси́ть;347
+прося;прося́;form;просить;проси́ть;347
+просив;проси́в;form;просить;проси́ть;347
+просивши;проси́вши;form;просить;проси́ть;347
+просимый;проси́мый;form;просить;проси́ть;347
+прошенный;про́шенный;form;просить;проси́ть;347
+буду;бу́ду;form;просить;проси́ть;347
+будешь;бу́дешь;form;просить;проси́ть;347
+будет;бу́дет;form;просить;проси́ть;347
+будем;бу́дем;form;просить;проси́ть;347
+будете;бу́дете;form;просить;проси́ть;347
+будут;бу́дут;form;просить;проси́ть;347
+показавший;показа́вший;normal;показавший;показа́вший;348
+показавший;показа́вший;form;показавший;показа́вший;348
+показавшее;показа́вшее;form;показавший;показа́вший;348
+показавшая;показа́вшая;form;показавший;показа́вший;348
+показавшие;показа́вшие;form;показавший;показа́вший;348
+показавшего;показа́вшего;form;показавший;показа́вший;348
+показавшего;показа́вшего;form;показавший;показа́вший;348
+показавшей;показа́вшей;form;показавший;показа́вший;348
+показавших;показа́вших;form;показавший;показа́вший;348
+показавшему;показа́вшему;form;показавший;показа́вший;348
+показавшему;показа́вшему;form;показавший;показа́вший;348
+показавшей;показа́вшей;form;показавший;показа́вший;348
+показавшим;показа́вшим;form;показавший;показа́вший;348
+показавшего;показа́вшего;form;показавший;показа́вший;348
+показавшее;показа́вшее;form;показавший;показа́вший;348
+показавшую;показа́вшую;form;показавший;показа́вший;348
+показавших;показа́вших;form;показавший;показа́вший;348
+показавший;показа́вший;form;показавший;показа́вший;348
+показавшие;показа́вшие;form;показавший;показа́вший;348
+показавшим;показа́вшим;form;показавший;показа́вший;348
+показавшим;показа́вшим;form;показавший;показа́вший;348
+показавшими;показа́вшими;form;показавший;показа́вший;348
+показавшем;показа́вшем;form;показавший;показа́вший;348
+показавшем;показа́вшем;form;показавший;показа́вший;348
+показавшей;показа́вшей;form;показавший;показа́вший;348
+показавших;показа́вших;form;показавший;показа́вший;348
+показавшею;показа́вшею;form;показавший;показа́вший;348
+показанный;пока́занный;normal;показанный;пока́занный;348
+показанное;пока́занное;form;показанный;пока́занный;348
+показанная;пока́занная;form;показанный;пока́занный;348
+показанные;пока́занные;form;показанный;пока́занный;348
+показанного;пока́занного;form;показанный;пока́занный;348
+показанной;пока́занной;form;показанный;пока́занный;348
+показанных;пока́занных;form;показанный;пока́занный;348
+показанному;пока́занному;form;показанный;пока́занный;348
+показанным;пока́занным;form;показанный;пока́занный;348
+показанную;пока́занную;form;показанный;пока́занный;348
+показанною;пока́занною;form;показанный;пока́занный;348
+показанными;пока́занными;form;показанный;пока́занный;348
+показанном;пока́занном;form;показанный;пока́занный;348
+показан;пока́зан;form;показанный;пока́занный;348
+показано;пока́зано;form;показанный;пока́занный;348
+показана;пока́зана;form;показанный;пока́занный;348
+показаны;пока́заны;form;показанный;пока́занный;348
+показать;показа́ть;normal;показать;показа́ть;348
+покажу;покажу́;form;показать;показа́ть;348
+показал;показа́л;form;показать;показа́ть;348
+показала;показа́ла;form;показать;показа́ть;348
+покажешь;пока́жешь;form;показать;показа́ть;348
+показал;показа́л;form;показать;показа́ть;348
+показала;показа́ла;form;показать;показа́ть;348
+покажи;покажи́;form;показать;показа́ть;348
+покажет;пока́жет;form;показать;показа́ть;348
+показал;показа́л;form;показать;показа́ть;348
+показала;показа́ла;form;показать;показа́ть;348
+показало;показа́ло;form;показать;показа́ть;348
+покажем;пока́жем;form;показать;показа́ть;348
+показали;показа́ли;form;показать;показа́ть;348
+покажемте;пока́жемте;form;показать;показа́ть;348
+покажете;пока́жете;form;показать;показа́ть;348
+показали;показа́ли;form;показать;показа́ть;348
+покажите;покажи́те;form;показать;показа́ть;348
+покажут;пока́жут;form;показать;показа́ть;348
+показали;показа́ли;form;показать;показа́ть;348
+показавший;показа́вший;form;показать;показа́ть;348
+показав;показа́в;form;показать;показа́ть;348
+показавши;показа́вши;form;показать;показа́ть;348
+показанный;пока́занный;form;показать;показа́ть;348
+разный;ра́зный;normal;разный;ра́зный;349
+разный;ра́зный;form;разный;ра́зный;349
+разное;ра́зное;form;разный;ра́зный;349
+разная;ра́зная;form;разный;ра́зный;349
+разные;ра́зные;form;разный;ра́зный;349
+разного;ра́зного;form;разный;ра́зный;349
+разного;ра́зного;form;разный;ра́зный;349
+разной;ра́зной;form;разный;ра́зный;349
+разных;ра́зных;form;разный;ра́зный;349
+разному;ра́зному;form;разный;ра́зный;349
+разному;ра́зному;form;разный;ра́зный;349
+разной;ра́зной;form;разный;ра́зный;349
+разным;ра́зным;form;разный;ра́зный;349
+разного;ра́зного;form;разный;ра́зный;349
+разное;ра́зное;form;разный;ра́зный;349
+разную;ра́зную;form;разный;ра́зный;349
+разных;ра́зных;form;разный;ра́зный;349
+разный;ра́зный;form;разный;ра́зный;349
+разные;ра́зные;form;разный;ра́зный;349
+разным;ра́зным;form;разный;ра́зный;349
+разным;ра́зным;form;разный;ра́зный;349
+разными;ра́зными;form;разный;ра́зный;349
+разном;ра́зном;form;разный;ра́зный;349
+разном;ра́зном;form;разный;ра́зный;349
+разной;ра́зной;form;разный;ра́зный;349
