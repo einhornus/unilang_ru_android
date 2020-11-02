@@ -1,219 +1,1115 @@
-***coxy.html
-<head> <meta charset='utf-8'> </head> <body><h1> coxy</h1><br> = cocksy</br></body> 
-***coy.html
-<head> <meta charset='utf-8'> </head> <body><h1> coy</h1><br> _a. <br>1 <a href = vnd.unilang:застенчивый.html>засте́нчивый</a>, <a href = vnd.unilang:скромный.html>скро́мный</a> <br>2 <a href = vnd.unilang:уединенный.html>уединённый</a> _Syn: timid</br></body> 
-***coyote.html
-<head> <meta charset='utf-8'> </head> <body><h1> coyote (14277)</h1><br><h3><span class="mw-headline" id="Etymology_5">Etymology</span><span class="mw-editsection"></span></h3>
-<p>Borrowed from a <span class="etyl"><a href="https://en.wikipedia.org/wiki/Nahuan_languages" class="extiw" title="w:Nahuan languages">Nahuan</a></span> language, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Nahuan" class="extiw" title="w:Proto-Nahuan">Proto-Nahuan</a></span> <i class="Latinx mention" lang="azc-nah-pro">*koyootl</i>.
-</p>
-<hr><h3><span class="mw-headline" id="Noun_5">Noun</span><span class="mw-editsection"></span></h3>
-<p><strong class="Latn headword" lang="es">coyote</strong> <span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>plural</i> <b class="Latn form-of lang-es p-form-of" lang="es">coyotes</b>)
-</p>
-<ol><li><span class="Latn" lang="en">coyote</span> <span class="gloss-brac">(</span><span class="gloss-content">canine</span><span class="gloss-brac">)</span></li>
-<li><span class="ib-brac">(</span><span class="ib-content">Mexico</span><span class="ib-brac">)</span> <span class="Latn" lang="en">coyote</span> <span class="gloss-brac">(</span><span class="gloss-content">smuggler of illegal immigrants</span><span class="gloss-brac">)</span></li>
-<li><span class="ib-brac">(</span><span class="ib-content">Mexico</span><span class="ib-brac">)</span> fixer, middleman</li>
-<li><span class="ib-brac">(</span><span class="ib-content">obsolete</span><span class="ib-brac">)</span> a person of mixed Native American and mestizo descent</li></ol>
-<h4><span class="mw-headline" id="Synonyms_2">Synonyms</span><span class="mw-editsection"></span></h4>
-<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">smuggler</span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span> <span class="Latn" lang="es">pollo</span> <span class="gender"><abbr title="masculine gender">m</abbr></span></li></ul>
-<h4><span class="mw-headline" id="Derived_terms_2">Derived terms</span><span class="mw-editsection"></span></h4>
-<ul><li><span class="Latn" lang="es">coyota</span> <span class="gender"><abbr title="feminine gender">f</abbr></span></li></ul>
-<hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
-<p><b>coyote</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>--</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="зоологическое">зоол.</span> койот <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li></ol>
+***suicide.html
+<head> <meta charset='utf-8'> </head> <body><h1> suicide (3101)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >suicide
+</td>
+<td > | <span style="font-style:oblique; ; cursor:help;" title="данная форма предположительна или малоупотребима">suicides</span>
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li>(<a href = vnd.unilang:как.html>также</a> <span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="переносное значение">перен.</span>) <a href = vnd.unilang:самоубийство.html>самоуби́йство</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">To attempt <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">suicide</span><span class="example-translate" style="color:grey"> — <a href = vnd.unilang:совершить.html>Соверши́ть</a> <a href = vnd.unilang:попытка.html>попы́тку</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:самоубийство.html>самоуби́йства</a></span></span> </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">Introducing a flat-rate tax would be political <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">suicide</span>.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:введение.html>Введе́ние</a> <a href = vnd.unilang:налог.html>нало́га</a> <a href = vnd.unilang:с.html>с</a> <a href = vnd.unilang:единый.html>еди́ной</a> <a href = vnd.unilang:ставка.html>ста́вкой</a> <a href = vnd.unilang:быть.html>бы́ло</a> <a href = vnd.unilang:бы.html>бы</a> <a href = vnd.unilang:политический.html>полити́ческим</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:самоубийство.html>самоуби́йством</a></span>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:самоубийца.html>самоуби́йца</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
 <h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>self-murder, felo-de-se</li></ol>
+<hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<td ><a href = vnd.unilang:анализировать.html>Инфинитив</a>
+</td>
+<td bgcolor="white"><a class="mw-selflink selflink">suicide</a>
+</td></tr>
+<tr>
+<td >3-е л. ед. ч.
+</td>
+<td bgcolor="white">suicides
+</td></tr>
+<tr>
+<td >Прош. вр.
+</td>
+<td bgcolor="white">suicided
+</td></tr>
+<tr>
+<td >Прич. прош. вр.
+</td>
+<td bgcolor="white">suicided
+</td></tr>
+<tr>
+<td >Герундий
+</td>
+<td bgcolor="white">suiciding
+</td></tr></tbody></table><br><a href = vnd.unilang:глагол.html>Глаго́л</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="разговорное">разг.</span> <a href = vnd.unilang:тот.html>то</a> <a href = vnd.unilang:же.html>же</a>, <a href = vnd.unilang:что.html>что</a> suicide oneself <a href = vnd.unilang:покончить.html>поко́нчить</a> <a href = vnd.unilang:с.html>с</a> <a href = vnd.unilang:себя.html>собо́й</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B_2"></span><span class="mw-headline" id="Синонимы_2"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
 <ol><li>?</li></ol>
 </body> 
-***coyoting.html
-<head> <meta charset='utf-8'> </head> <body><h1> coyoting</h1><br> _n. _собир. хищническая <a href = vnd.unilang:разработка.html>разрабо́тка</a> <a href = vnd.unilang:недра.html>не́др</a></br></body> 
-***cozen.html
-<head> <meta charset='utf-8'> </head> <body><h1> cozen</h1><br> _v. <a href = vnd.unilang:надувать.html>надува́ть</a>, <a href = vnd.unilang:морочить.html>моро́чить</a> <a href = vnd.unilang:в.html>в</a> чем-л. (into) A clever lawyer can cozen the judge into agreement. A clever lawyer can cozen the judge into freeing the prisoner.</br></body> 
-***cozenage.html
-<head> <meta charset='utf-8'> </head> <body><h1> cozenage</h1><br> _n. <a href = vnd.unilang:обман.html>обман</a>, надувательство</br></body> 
-***cozy.html
-<head> <meta charset='utf-8'> </head> <body><h1> cozy</h1><br> = cosy</br></body> 
-***cp.html
-<head> <meta charset='utf-8'> </head> <body><h1> cp</h1><br>_I calorific power _n. теплотворная <a href = vnd.unilang:способность.html>спосо́бность</a>; теплопроизводительность _II charter-party _n. _мор. чартер-партия _III Communist Party _n. <a href = vnd.unilang:коммунистический.html>коммунисти́ческая</a> <a href = vnd.unilang:партия.html>партия</a> _IV cp - candle-power _n. <a href = vnd.unilang:сила.html>си́ла</a> <a href = vnd.unilang:свет.html>све́та</a> (<a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:свеча.html>свечах</a>) _V Command Post _n. <a href = vnd.unilang:командный.html>кома́ндный</a> <a href = vnd.unilang:пункт.html>пункт</a> _VI Command Processor _n. коммандный <a href = vnd.unilang:процессор.html>проце́ссор</a></br></body> 
-***cpa.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpa</h1><br>= Communist Party of Australia _n. <a href = vnd.unilang:коммунистический.html>Коммунисти́ческая</a> <a href = vnd.unilang:партия.html>партия</a> Австралии</br></body> 
-***cpff.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpff</h1><br>= Cost Plus Fixed Fee _n. <a href = vnd.unilang:с.html>с</a> <a href = vnd.unilang:оплата.html>опла́той</a> <a href = vnd.unilang:затрата.html>затра́т</a> <a href = vnd.unilang:плюс.html>плюс</a> <a href = vnd.unilang:установленный.html>устано́вленное</a> <a href = vnd.unilang:вознаграждение.html>вознагражде́ние</a></br></body> 
-***cpi.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpi</h1><br>_I Characters Per Inch _n. (<a href = vnd.unilang:количество.html>коли́чество</a>) <a href = vnd.unilang:символ.html>си́мволов</a> <a href = vnd.unilang:на.html>на</a> <a href = vnd.unilang:дюйм.html>дю́йме</a> _II Common Programming Interface _n. <a href = vnd.unilang:общий.html>о́бщий</a> <a href = vnd.unilang:программный.html>програ́ммный</a> <a href = vnd.unilang:интерфейс.html>интерфе́йс</a></br></body> 
-***cpo.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpo</h1><br>_I Chief Petty Officer _n. <a href = vnd.unilang:главный.html>гла́вный</a> <a href = vnd.unilang:старшина.html>старшина</a> _II Chief Post Office _n. <a href = vnd.unilang:главный.html>гла́вное</a> <a href = vnd.unilang:почтовый.html>почто́вое</a> <a href = vnd.unilang:отделение.html>отделе́ние</a></br></body> 
-***cps.html
-<head> <meta charset='utf-8'> </head> <body><h1> cps</h1><br>_I cycles per second _n. (столько-то) герц _II characters per second _n. (<a href = vnd.unilang:число.html>число</a>) <a href = vnd.unilang:знак.html>зна́ков</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:секунда.html>секу́нду</a></br></body> 
-***cpsu.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpsu</h1><br>= Communist Party of the Soviet Union _n. <a href = vnd.unilang:коммунистический.html>Коммунисти́ческая</a> <a href = vnd.unilang:партия.html>партия</a> <a href = vnd.unilang:советский.html>Сове́тского</a> <a href = vnd.unilang:союз.html>Сою́за</a>, КПСС</br></body> 
-***cpt.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpt</h1><br>= CaPTain _n. <a href = vnd.unilang:капитан.html>капита́н</a></br></body> 
-***cpu.html
-<head> <meta charset='utf-8'> </head> <body><h1> cpu</h1><br>= central processing unit _n. <a href = vnd.unilang:центральный.html>центра́льный</a> <a href = vnd.unilang:процессор.html>проце́ссор</a></br></body> 
-***cr.html
-<head> <meta charset='utf-8'> </head> <body><h1> cr</h1><br>= carriage return _n. <a href = vnd.unilang:возврат.html>возвра́т</a> <a href = vnd.unilang:каретка.html>каре́тки</a></br></body> 
-***crab.html
-<head> <meta charset='utf-8'> </head> <body><h1> crab (10004)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
-<p><b>crab</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><a href = vnd.unilang:краб.html>краб</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li></ol>
-</body> 
-***crabbed.html
-<head> <meta charset='utf-8'> </head> <body><h1> crabbed</h1><br> _a. <br>1 <a href = vnd.unilang:раздражительный.html>раздражи́тельный</a>, <a href = vnd.unilang:ворчливый.html>ворчли́вый</a> <br>2 <a href = vnd.unilang:трудно.html>тру́дно</a> <a href = vnd.unilang:понимаемый.html>понима́емый</a>; <a href = vnd.unilang:неразборчивый.html>неразбо́рчивый</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:почерк.html>по́черке</a>)</br></body> 
-***crabber.html
-<head> <meta charset='utf-8'> </head> <body><h1> crabber</h1><br> _n. _мор. краболов</br></body> 
-***crabby.html
-<head> <meta charset='utf-8'> </head> <body><h1> crabby</h1><br> _a. <a href = vnd.unilang:раздражительный.html>раздражи́тельный</a></br></body> 
-***crack-brained.html
-<head> <meta charset='utf-8'> </head> <body><h1> crack-brained</h1><br> _a. <br>1 <a href = vnd.unilang:слабоумный.html>слабоу́мный</a>, <a href = vnd.unilang:помешать.html>поме́шанный</a> <br>2 <a href = vnd.unilang:бессмысленный.html>бессмы́сленный</a>, <a href = vnd.unilang:неразумный.html>неразу́мный</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:поведение.html>поведе́нии</a>, <a href = vnd.unilang:поступок.html>посту́пке</a>)</br></body> 
-***crack-jaw.html
-<head> <meta charset='utf-8'> </head> <body><h1> crack-jaw</h1><br> _a. _собир. <a href = vnd.unilang:с.html>с</a> <a href = vnd.unilang:труд.html>трудо́м</a> <a href = vnd.unilang:выговаривать.html>выгова́риваемый</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:слово.html>сло́ве</a>)</br></body> 
-***crack.html
-<head> <meta charset='utf-8'> </head> <body><h1> crack (2982)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
-<p><b>crack</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><a href = vnd.unilang:трещина.html>тре́щина</a>, <a href = vnd.unilang:очко.html>щель</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li></ol>
-</body> 
-***crackajack.html
-<head> <meta charset='utf-8'> </head> <body><h1> crackajack</h1><br>_собир. 1. _n. <a href = vnd.unilang:замечательный.html>замеча́тельный</a>, <a href = vnd.unilang:талантливый.html>тала́нтливый</a> <a href = vnd.unilang:человек.html>челове́к</a> 2. _a. <a href = vnd.unilang:замечательный.html>замеча́тельный</a>, <a href = vnd.unilang:талантливый.html>тала́нтливый</a></br></body> 
-***crackdown.html
-<head> <meta charset='utf-8'> </head> <body><h1> crackdown (15206)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+***suit.html
+<head> <meta charset='utf-8'> </head> <body><h1> suit (1754)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >suit
+</td>
+<td >suits
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:костюм.html>костю́м</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
 
-<p><b>crackdown</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>--</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><a href = vnd.unilang:подавление.html>подавле́ние</a>, <a href = vnd.unilang:разгон.html>разго́н</a>, <a href = vnd.unilang:применение.html>примене́ние</a> <a href = vnd.unilang:суровый.html>суро́вых</a> <a href = vnd.unilang:мера.html>мер</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li></ol>
+
+<li><a href = vnd.unilang:комплект.html>компле́кт</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="картёжный термин"><a href = vnd.unilang:карта.html>ка́рт</a>.</span> <a href = vnd.unilang:масть.html>масть</a>; <a href = vnd.unilang:карта.html>ка́рты</a> <a href = vnd.unilang:один.html>одно́й</a> <a href = vnd.unilang:масть.html>ма́сти</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="юридическое">юр.</span> <a href = vnd.unilang:судебный.html>суде́бный</a> <a href = vnd.unilang:иск.html>иск</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="юридическое">юр.</span> <a href = vnd.unilang:процесс.html>проце́сс</a>, <a href = vnd.unilang:тяжба.html>тя́жба</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:прошение.html>проше́ние</a>; <a href = vnd.unilang:ходатайство.html>хода́тайство</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:сватовство.html>сватовство́</a>, <a href = vnd.unilang:ухаживание.html>уха́живание</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="устаревшее">устар.</span> <a href = vnd.unilang:свита.html>свита</a>, <a href = vnd.unilang:кортеж.html>корте́ж</a>, <a href = vnd.unilang:эскорт.html>эско́рт</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+
+</ol>
+<hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<td ><a href = vnd.unilang:анализировать.html>Инфинитив</a>
+</td>
+<td bgcolor="white">suit
+</td></tr>
+<tr>
+<td >3-е л. ед. ч.
+</td>
+<td bgcolor="white">suits
+</td></tr>
+<tr>
+<td >Прош. вр.
+</td>
+<td bgcolor="white">suited
+</td></tr>
+<tr>
+<td >Прич. прош. вр.
+</td>
+<td bgcolor="white">suited
+</td></tr>
+<tr>
+<td >Герундий
+</td>
+<td bgcolor="white">suiting
+</td></tr></tbody></table><br><a href = vnd.unilang:глагол.html>Глаго́л</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:подходить.html>подходи́ть</a> (кому-либо), <a href = vnd.unilang:годиться.html>годи́ться</a> (кому-либо, <a href = vnd.unilang:для.html>для</a> кого-либо); <a href = vnd.unilang:удовлетворять.html>удовлетворя́ть</a> <a href = vnd.unilang:требование.html>тре́бованиям</a>, <a href = vnd.unilang:устраивать.html>устра́ивать</a> (кого-либо) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:идти.html>идти́</a> (перен.), <a href = vnd.unilang:подходить.html>подходи́ть</a>, <a href = vnd.unilang:быть.html>быть</a> <a href = vnd.unilang:к.html>к</a> <a href = vnd.unilang:лицо.html>лицу́</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+
+</ol>
 </body> 
-***cracked.html
-<head> <meta charset='utf-8'> </head> <body><h1> cracked</h1><br> _a. <br>1 <a href = vnd.unilang:треснуть.html>тре́снувший</a> <br>2 <a href = vnd.unilang:пошатнувшийся.html>пошатну́вшийся</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:репутация.html>репута́ции</a>, <a href = vnd.unilang:кредит.html>кредите</a>) <br>3 <a href = vnd.unilang:выживший.html>вы́живший</a> <a href = vnd.unilang:из.html>из</a> <a href = vnd.unilang:ум.html>ума́</a>; his brains are cracked - <a href = vnd.unilang:он.html>он</a> <a href = vnd.unilang:ненормальный.html>ненорма́льный</a> <br>4 <a href = vnd.unilang:резкий.html>ре́зкий</a>; <a href = vnd.unilang:надтреснутый.html>надтре́снутый</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:голос.html>го́лосе</a>)</br></body> 
-***cracker.html
-<head> <meta charset='utf-8'> </head> <body><h1> cracker (12360)</h1><br></body> 
-***cracking.html
-<head> <meta charset='utf-8'> </head> <body><h1> cracking</h1><br> _n. _тех. <a href = vnd.unilang:крекинг.html>кре́кинг</a></br></body> 
-***crackjack.html
-<head> <meta charset='utf-8'> </head> <body><h1> crackjack</h1><br> _n. _жарг. <a href = vnd.unilang:мастер.html>ма́стер</a> <a href = vnd.unilang:свое.html>своего́</a> <a href = vnd.unilang:дело.html>дела</a></br></body> 
-***crackle.html
-<head> <meta charset='utf-8'> </head> <body><h1> crackle</h1><br> 1. _n. <a href = vnd.unilang:потрескивание.html>потре́скивание</a>; <a href = vnd.unilang:треск.html>треск</a>; <a href = vnd.unilang:хруст.html>хруст</a> 2. _v. <a href = vnd.unilang:потрескивать.html>потре́скивать</a>; <a href = vnd.unilang:хрустеть.html>хрусте́ть</a></br></body> 
-***crackling.html
-<head> <meta charset='utf-8'> </head> <body><h1> crackling</h1><br> _n. <br>1 <a href = vnd.unilang:треск.html>треск</a>; <a href = vnd.unilang:хруст.html>хруст</a> <br>2 поджаристая <a href = vnd.unilang:корочка.html>ко́рочка</a> (<a href = vnd.unilang:свинина.html>свини́ны</a>) <br>3 _pl. шкварки</br></body> 
-***cracknel.html
-<head> <meta charset='utf-8'> </head> <body><h1> cracknel</h1><br> _n. <br>1 <a href = vnd.unilang:сухой.html>сухо́е</a> <a href = vnd.unilang:печенье.html>пече́нье</a> <br>2 поджаристая <a href = vnd.unilang:свинина.html>свини́на</a> <br>3 _pl. шкварки</br></body> 
-***crackpot.html
-<head> <meta charset='utf-8'> </head> <body><h1> crackpot</h1><br> _n. _собир. <a href = vnd.unilang:ненормальный.html>ненорма́льный</a>, <a href = vnd.unilang:чокнутый.html>чо́кнутый</a></br></body> 
-***cracksman.html
-<head> <meta charset='utf-8'> </head> <body><h1> cracksman</h1><br> _n. <a href = vnd.unilang:взломщик.html>взло́мщик</a></br></body> 
-***cracky.html
-<head> <meta charset='utf-8'> </head> <body><h1> cracky</h1><br> _a. <br>1 <a href = vnd.unilang:потрескавшийся.html>потре́скавшийся</a> <br>2 <a href = vnd.unilang:легко.html>легко́</a> <a href = vnd.unilang:трескаться.html>тре́скающийся</a> <br>3 _собир. <a href = vnd.unilang:помешать.html>поме́шанный</a></br></body> 
-***cradle.html
-<head> <meta charset='utf-8'> </head> <body><h1> cradle (10662)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+***suitable.html
+<head> <meta charset='utf-8'> </head> <body><h1> suitable (2584)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:подходить.html>подходя́щий</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
 
-<p><b>cradle</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>--</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><a href = vnd.unilang:колыбель.html>колыбе́ль</a>, <a href = vnd.unilang:люлька.html>лю́лька</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><a href = vnd.unilang:младенчество.html>младе́нчество</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li></ol>
-<hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
 
-<p><b>cradle</b>
-</p><p><a href = vnd.unilang:глагол.html>Глаго́л</a>, <a href = vnd.unilang:правильный.html>правильный</a>.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>--</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><a href = vnd.unilang:баюкать.html>баю́кать</a> (убаюкать, <a href = vnd.unilang:убаюкивать.html>убаю́кивать</a>) <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li></ol>
-</body> 
-***cradling.html
-<head> <meta charset='utf-8'> </head> <body><h1> cradling</h1><br> _n. <br>1 качание <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:люлька.html>лю́льке</a> <br>2 _стр. <a href = vnd.unilang:рама.html>ра́ма</a>; кружало</br></body> 
-***craft-brother.html
-<head> <meta charset='utf-8'> </head> <body><h1> craft-brother</h1><br> _n. <a href = vnd.unilang:товарищ.html>това́рищ</a> <a href = vnd.unilang:по.html>по</a> <a href = vnd.unilang:ремесло.html>ремеслу́</a></br></body> 
-***craft.html
-<head> <meta charset='utf-8'> </head> <body><h1> craft (2861)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
-
-<p><b>craft</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p><p><a href = vnd.unilang:вариант.html>Вариа́нт</a> мн. ч. crafts <a href = vnd.unilang:использоваться.html>испо́льзуется</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:значение.html>значе́нии</a> «<a href = vnd.unilang:ремесло.html>ремёсла</a>». <a href = vnd.unilang:в.html>В</a> <a href = vnd.unilang:иной.html>ины́х</a> <a href = vnd.unilang:значение.html>значе́ниях</a> <a href = vnd.unilang:слово.html>сло́во</a> <a href = vnd.unilang:либо.html>ли́бо</a> <a href = vnd.unilang:неисчислимый.html>неисчисли́мо</a>, <a href = vnd.unilang:либо.html>ли́бо</a> <a href = vnd.unilang:использоваться.html>испо́льзуется</a> <a href = vnd.unilang:вариант.html>вариа́нт</a> мн. ч. craft.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>-craft-</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="неисчисляемое">неисч.</span> <a href = vnd.unilang:умение.html>уме́ние</a>, <a href = vnd.unilang:искусство.html>иску́сство</a>, <a href = vnd.unilang:ловкость.html>ло́вкость</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><a href = vnd.unilang:ремесло.html>ремесло́</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="неисчисляемое">неисч.</span> <a href = vnd.unilang:хитрость.html>хи́трость</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="неисчисляемое">неисч.</span> <span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="рыболовецкое">рыбол.</span>, <span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="китобойный промысел">китобойн.</span> <a href = vnd.unilang:снасть.html>сна́сти</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="морское">морск.</span> <a href = vnd.unilang:судно.html>су́дно</a>, <a href = vnd.unilang:лодка.html>ло́дка</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="авиационный термин">авиац.</span>, <span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="космическое"><a href = vnd.unilang:космы.html>ко́см</a>.</span> <a href = vnd.unilang:аппарат.html>аппарат</a> (<a href = vnd.unilang:летательный.html>лета́тельный</a>, <a href = vnd.unilang:космический.html>косми́ческий</a>) <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
 </ol>
 <h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
-<ol><li>skill, art</li>
-<li>trade</li>
-<li>cunning, artifice</li>
-<li>gear, equipment</li>
-<li>vessel, boat</li>
-<li>—</li>
+<ol><li>proper, befitting</li>
 </ol>
-<hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
+</body> 
+***suitcase.html
+<head> <meta charset='utf-8'> </head> <body><h1> suitcase (12808)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:чемодан.html>чемода́н</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">She tried to run, but was hampered by her heavy <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">suitcase</span>.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:она.html>Она</a> <a href = vnd.unilang:попытаться.html>попыта́лась</a> <a href = vnd.unilang:убежать.html>убежа́ть</a>, <a href = vnd.unilang:но.html>но</a> <a href = vnd.unilang:тяжелый.html>тяжёлый</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:чемодан.html>чемода́н</a></span> <a href = vnd.unilang:помешать.html>помеша́л</a> <a href = vnd.unilang:она.html>ей</a>.</span> </span></li>
+</ul></li>
 
-<p><b>craft</b>
-</p><p><a href = vnd.unilang:глагол.html>Глаго́л</a>, <a href = vnd.unilang:правильный.html>правильный</a>.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>-craft-</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><a href = vnd.unilang:мастерить.html>мастери́ть</a>; <a href = vnd.unilang:создавать.html>создава́ть</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:производить.html>производи́ть</a> <a href = vnd.unilang:с.html>с</a> <a href = vnd.unilang:мастерство.html>мастерство́м</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:традиционный.html>традицио́нном</a> <a href = vnd.unilang:ручной.html>ручно́м</a>, <a href = vnd.unilang:высококачественный.html>высокока́чественном</a> <a href = vnd.unilang:производство.html>произво́дстве</a>) <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="игровое"><a href = vnd.unilang:игра.html>игр</a>.</span> <a href = vnd.unilang:создавать.html>создава́ть</a> внутриигровые <a href = vnd.unilang:предмет.html>предме́ты</a>, <a href = vnd.unilang:заниматься.html>занима́ться</a> крафтингом <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
+</ol>
+</body> 
+***suite.html
+<head> <meta charset='utf-8'> </head> <body><h1> suite (3006)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >suite
+</td>
+<td >suites
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:комплект.html>компле́кт</a>, <a href = vnd.unilang:гарнитура.html>гарниту́р</a>, <a href = vnd.unilang:набор.html>набо́р</a> <span style="display: none"></span><span style="display: none"></span>  <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black"><span class="example-select" style="background-color: EDF0FF; font-weight: bold;">Suite</span> of furniture.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:мебельный.html>Ме́бельный</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:гарнитура.html>гарниту́р</a></span>.</span> </span></li>
+</ul></li>
+
+
+сьют, многокомнатный <a href = vnd.unilang:номер.html>но́мер</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:гостиница.html>гости́нице</a> <span style="display: none">
+<li><a href = vnd.unilang:квартира.html>кварти́ра</a>, <a href = vnd.unilang:состоящий.html>состоя́щая</a> <a href = vnd.unilang:из.html>из</a> <a href = vnd.unilang:несколько.html>не́скольких</a> <a href = vnd.unilang:комната.html>ко́мнат</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:резиденция.html>резиде́нция</a> <span style="display: none"></span><span style="display: none"></span> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">The Presidential <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">suite</span> is well appointed and allows for good security.<span class="example-translate" style="color:grey"> — <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:резиденция.html>Резиде́нция</a></span> <a href = vnd.unilang:президент.html>президе́нта</a> <a href = vnd.unilang:расположенный.html>располо́жена</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:хороший.html>хорошо</a> <a href = vnd.unilang:защищённый.html>защищённом</a> <a href = vnd.unilang:место.html>ме́сте</a> <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:мочь.html>мо́жет</a> <a href = vnd.unilang:обеспечить.html>обеспе́чить</a> <a href = vnd.unilang:высокий.html>высо́кий</a> <a href = vnd.unilang:уровень.html>у́ровень</a> <a href = vnd.unilang:безопасность.html>безопа́сности</a>.</span> </span></li>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="музыкальное"><a href = vnd.unilang:муза.html>му́з</a>.</span> <a href = vnd.unilang:сюита.html>сюи́та</a><span style="display: none"></span></span> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="информатика и компьютерные технологии">информ.</span> <a href = vnd.unilang:программный.html>програ́ммный</a> <a href = vnd.unilang:пакет.html>паке́т</a> <span style="display: none"></span><span style="display: none"></span> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:свита.html>свита</a>; <a href = vnd.unilang:сопровождающий.html>сопровожда́ющие</a> <a href = vnd.unilang:лицо.html>лица</a>; <a href = vnd.unilang:эскорт.html>эско́рт</a>; <a href = vnd.unilang:кортеж.html>корте́ж</a> </span><span style="display: none"></span> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="геологическое">геол.</span> <a href = vnd.unilang:свита.html>свита</a>, <a href = vnd.unilang:серия.html>се́рия</a> <span style="display: none"></span><span style="display: none"></span> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"> <a href = vnd.unilang:синоним.html>Сино́нимы</a> </span></h4>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="cite_ref-1">↑</a></span> <span class="reference-text">?</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="cite_ref-5">↑</a></span> <span class="reference-text">?</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="cite_ref-9">↑</a></span> <span class="reference-text">?</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="cite_ref-13">↑</a></span> <span class="reference-text">?</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="cite_ref-17">↑</a></span> <span class="reference-text">?</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="cite_ref-21">↑</a></span> <span class="reference-text">?</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="cite_ref-25">↑</a></span> <span class="reference-text">retinue</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="cite_ref-29">↑</a></span> <span class="reference-text">?</span>
+</li>
+</ol></div>
+</body> 
+***sulfate.html
+<head> <meta charset='utf-8'> </head> <body><h1> sulfate (14253)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><b><a href = vnd.unilang:это.html>Э́то</a> <a href = vnd.unilang:слово.html>сло́во</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:выражение.html>выраже́ние</a> <a href = vnd.unilang:пока.html>пока́</a> <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:переведённый.html>переведено́</a>.</b> <a href = vnd.unilang:вы.html>Вы</a> <a href = vnd.unilang:мочь.html>мо́жете</a> <a href = vnd.unilang:предложить.html>предложи́ть</a> <a href = vnd.unilang:свое.html>свой</a> <a href = vnd.unilang:вариант.html>вариа́нт</a> <a href = vnd.unilang:перевод.html>перево́да</a>. <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***sulphur.html
+<head> <meta charset='utf-8'> </head> <body><h1> sulphur (8683)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><b><a href = vnd.unilang:это.html>Э́то</a> <a href = vnd.unilang:слово.html>сло́во</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:выражение.html>выраже́ние</a> <a href = vnd.unilang:пока.html>пока́</a> <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:переведённый.html>переведено́</a>.</b> <a href = vnd.unilang:вы.html>Вы</a> <a href = vnd.unilang:мочь.html>мо́жете</a> <a href = vnd.unilang:предложить.html>предложи́ть</a> <a href = vnd.unilang:свое.html>свой</a> <a href = vnd.unilang:вариант.html>вариа́нт</a> <a href = vnd.unilang:перевод.html>перево́да</a>. <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***sultan.html
+<head> <meta charset='utf-8'> </head> <body><h1> sultan (13833)</h1><br></body> 
+***sum.html
+<head> <meta charset='utf-8'> </head> <body><h1> sum (2337)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:сумма.html>су́мма</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***summer.html
+<head> <meta charset='utf-8'> </head> <body><h1> summer (1073)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:лето.html>ле́то</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black"><span class="example-select" style="background-color: EDF0FF; font-weight: bold;">Summer</span> is one of the four temperate seasons, marked by the time of year with the longest days, and lies between spring and autumn. </span></li>
+</ul></li>
+
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>—</li>
+</ol>
+<hr><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:летний.html>ле́тний</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
 </ol>
 <h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B_2"></span><span class="mw-headline" id="Синонимы_2"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
 <ol><li>—</li>
-<li>—</li>
+</ol>
+<hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_3"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_3"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<td ><a href = vnd.unilang:анализировать.html>Инфинитив</a>
+</td>
+<td bgcolor="white">summer
+</td></tr>
+<tr>
+<td >3-е л. ед. ч.
+</td>
+<td bgcolor="white">summers
+</td></tr>
+<tr>
+<td >Прош. вр.
+</td>
+<td bgcolor="white">summered
+</td></tr>
+<tr>
+<td >Прич. прош. вр.
+</td>
+<td bgcolor="white">summered
+</td></tr>
+<tr>
+<td >Герундий
+</td>
+<td bgcolor="white">summering
+</td></tr></tbody></table><br><a href = vnd.unilang:глагол.html>Глаго́л</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_3"></span><span class="mw-headline" id="Значение_3"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:проводить.html>проводи́ть</a> <a href = vnd.unilang:лето.html>ле́то</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">We like to <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">summer</span> in the Mediterranean. </span></li>
+</ul></li>
+
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B_3"></span><span class="mw-headline" id="Синонимы_3"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>—</li></ol>
+<hr><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_4"></span><span class="mw-headline" id="Значение_4"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li>сумматор, суммирующее <a href = vnd.unilang:устройство.html>устро́йство</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li>ригель, прогон <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:перемычка.html>перемы́чка</a> <i>(<a href = vnd.unilang:над.html>над</a> <a href = vnd.unilang:проем.html>проёмом</a>)</i> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">The <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">summer</span> supporting the attic floor joists is noteworthy as the largest member in the building, exceeding thirty feet in length. </span></li>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B_4"></span><span class="mw-headline" id="Синонимы_4"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>summator</li>
+<li>summertree</li>
+<li>bressummer</li></ol>
+</body> 
+***summit.html
+<head> <meta charset='utf-8'> </head> <body><h1> summit (3434)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >summit
+</td>
+<td >summits
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:вершина.html>верши́на</a>, <a href = vnd.unilang:верх.html>верх</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="переносное значение">перен.</span> <a href = vnd.unilang:зенит.html>зени́т</a>, <a href = vnd.unilang:высший.html>вы́сшая</a> <a href = vnd.unilang:степень.html>сте́пень</a>; <a href = vnd.unilang:высший.html>вы́сший</a> <a href = vnd.unilang:уровень.html>у́ровень</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="переносное значение">перен.</span> <a href = vnd.unilang:саммит.html>са́ммит</a>, <a href = vnd.unilang:встреча.html>встре́ча</a> <a href = vnd.unilang:на.html>на</a> <a href = vnd.unilang:высший.html>вы́сшем</a> <a href = vnd.unilang:уровень.html>у́ровне</a>; <a href = vnd.unilang:встреча.html>встре́ча</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:совещание.html>совеща́ние</a> <a href = vnd.unilang:глава.html>гла́в</a> <a href = vnd.unilang:правительство.html>прави́тельств</a>, <a href = vnd.unilang:глава.html>гла́в</a> <a href = vnd.unilang:государство.html>госуда́рств</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+
 </ol>
 </body> 
-***craftily.html
-<head> <meta charset='utf-8'> </head> <body><h1> craftily</h1><br> _adv. <br>1 <a href = vnd.unilang:хитрый.html>хитро</a> <br>2 <a href = vnd.unilang:обманный.html>обма́нным</a> <a href = vnd.unilang:путь.html>путём</a></br></body> 
-***craftiness.html
-<head> <meta charset='utf-8'> </head> <body><h1> craftiness</h1><br> _n. <a href = vnd.unilang:хитрость.html>хи́трость</a>, <a href = vnd.unilang:лукавство.html>лука́вство</a></br></body> 
-***craftsman.html
-<head> <meta charset='utf-8'> </head> <body><h1> craftsman (11664)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+***sump.html
+<head> <meta charset='utf-8'> </head> <body><h1> sump (18983)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:болото.html>боло́то</a>, <a href = vnd.unilang:топить.html>топь</a>, <a href = vnd.unilang:трясина.html>тряси́на</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
 
-<p><b>crafts<span class="hyph" style="color:lightgreen;">-</span>man</b>
-</p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>, <a href = vnd.unilang:нерегулярный.html>нерегуля́рное</a>.
-</p><p><a href = vnd.unilang:корень.html>Ко́рень</a>: <b>--</b>.
-</p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:мастер.html>ма́стер</a>, <a href = vnd.unilang:ремесленник.html>реме́сленник</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
-<li><a href = vnd.unilang:специалист.html>специали́ст</a>, <a href = vnd.unilang:умелец.html>уме́лец</a>; <a href = vnd.unilang:искусный.html>иску́сный</a> <a href = vnd.unilang:мастер.html>ма́стер</a>, <a href = vnd.unilang:квалифицированный.html>квалифици́рованный</a> <a href = vnd.unilang:рабочий.html>рабо́чий</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
+
+<li>выгребная <a href = vnd.unilang:яма.html>я́ма</a>; <a href = vnd.unilang:сточный.html>сто́чный</a> <a href = vnd.unilang:колодец.html>коло́дец</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li>грязевик <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li>маслосборник <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
 
 </ol>
 </body> 
-***craftsmanship.html
-<head> <meta charset='utf-8'> </head> <body><h1> craftsmanship (17174)</h1><br><hr><hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+***sun.html
+<head> <meta charset='utf-8'> </head> <body><h1> sun (1236)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:солнце.html>со́лнце</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Hoping to snap a better picture of a distant sun, an international team of astronomers focused its attention on Altair. </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">Flamingos bask in the sun at La Aurora zoo in Guatemala. </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">The time to repair the roof is when the sun is shining. </span></li>
+</ul></li>
 
-<p><b>crafts<span class="hyph" style="color:lightgreen;">-</span>man<span class="hyph" style="color:lightgreen;">-</span>ship</b>
+</ol>
+</body> 
+***sunday.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunday (1277)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >Sunday
+</td>
+<td >Sundays
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:воскресенье.html>воскресе́нье</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+
+</ol>
+</body> 
+***sunflower.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunflower (15701)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >sunflower
+</td>
+<td >sunflowers
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="ботаническое">ботан.</span> подсолнечник, <a href = vnd.unilang:подсолнух.html>подсо́лнух</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***sung.html
+<head> <meta charset='utf-8'> </head> <body><h1> sung (15123)</h1><br></body> 
+***sunglasses.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunglasses (12859)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >—
+</td>
+<td >sunglasses
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:солнечный.html>со́лнечные</a> <a href = vnd.unilang:очко.html>очки́</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li><span style="font-style: italic;background-color:CCFFFF;"><a href = vnd.unilang:чайка.html>сленг</a></span> shades; <span style="font-style: italic;background-color:CCFFFF;">австрал.</span> sunnies</li></ol>
+</body> 
+***sunlight.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunlight (6759)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<th bgcolor="EEF9FF">ед. ч.
+</th>
+<th bgcolor="EEF9FF">мн. ч.
+</th></tr>
+
+<tr>
+<td bgcolor="FFFFFF">sunlight
+</td>
+<td bgcolor="FFFFFF"> — 
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:солнечный.html>со́лнечный</a> <a href = vnd.unilang:свет.html>свет</a>, <a href = vnd.unilang:дневной.html>дневно́й</a> <a href = vnd.unilang:свет.html>свет</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:источник.html>исто́чник</a> <a href = vnd.unilang:счастье.html>сча́стья</a>, <a href = vnd.unilang:состояние.html>состоя́ние</a> <a href = vnd.unilang:счастье.html>сча́стья</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***sunny.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunny (7031)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:солнечный.html>со́лнечный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***sunrise.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunrise (9952)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >sunrise
+</td>
+<td >sunrises
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:восход.html>восхо́д</a> <a href = vnd.unilang:солнце.html>со́лнца</a>; <a href = vnd.unilang:утренний.html>у́тренняя</a> <a href = vnd.unilang:заря.html>заря́</a>; <a href = vnd.unilang:рассвет.html>рассве́т</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+
+</ol>
+</body> 
+***sunset.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunset (6834)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >sunset
+</td>
+<td >sunsets
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:заход.html>захо́д</a> <a href = vnd.unilang:солнце.html>со́лнца</a>; <a href = vnd.unilang:закат.html>зака́т</a>; <a href = vnd.unilang:вечерний.html>вече́рняя</a> <a href = vnd.unilang:заря.html>заря́</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">We have enjoyed <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">sunsets</span>.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:мы.html>Мы</a> <a href = vnd.unilang:наслаждаться.html>наслажда́лись</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:закат.html>зака́тами</a></span>.</span> </span></li>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="переносное значение">перен.</span> <a href = vnd.unilang:закат.html>зака́т</a>, <a href = vnd.unilang:последний.html>после́дний</a> <a href = vnd.unilang:период.html>пери́од</a>, угасание чего-либо <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">One's <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">sunset</span> years. </span></li>
+</ul></li>
+
+
+<a href = vnd.unilang:место.html>место</a>, <a href = vnd.unilang:где.html>где</a> <a href = vnd.unilang:солнце.html>Со́лнце</a> <a href = vnd.unilang:садиться.html>сади́тся</a>; <a href = vnd.unilang:запад.html>за́пад</a>
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>dusk, sundown (<a href = vnd.unilang:сша.html>Сша</a>), nightfall, twilight</li>
+<li>last, terminal, twilight</li></ol>
+</body> 
+***sunshine.html
+<head> <meta charset='utf-8'> </head> <body><h1> sunshine (7207)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >sunshine
+</td>
+<td >sunshines
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:сияние.html>сия́ние</a> <a href = vnd.unilang:солнце.html>со́лнца</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:блеск.html>блеск</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="ироничное">ирон.</span> <a href = vnd.unilang:солнышко.html>со́лнышко</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>sunlight</li>
+</ol>
+</body> 
+***sup.html
+<head> <meta charset='utf-8'> </head> <body><h1> sup (16557)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><i><span style="background-color:BBEEEE;"></span></i> отхлёбывать, прихлёбывать <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:ужинать.html>ужина́ть</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***super.html
+<head> <meta charset='utf-8'> </head> <body><h1> super (3136)</h1><br></body> 
+***superannuation.html
+<head> <meta charset='utf-8'> </head> <body><h1> superannuation (19174)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><b><a href = vnd.unilang:это.html>Э́то</a> <a href = vnd.unilang:слово.html>сло́во</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:выражение.html>выраже́ние</a> <a href = vnd.unilang:пока.html>пока́</a> <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:переведённый.html>переведено́</a>.</b> <a href = vnd.unilang:вы.html>Вы</a> <a href = vnd.unilang:мочь.html>мо́жете</a> <a href = vnd.unilang:предложить.html>предложи́ть</a> <a href = vnd.unilang:свое.html>свой</a> <a href = vnd.unilang:вариант.html>вариа́нт</a> <a href = vnd.unilang:перевод.html>перево́да</a>. <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***superb.html
+<head> <meta charset='utf-8'> </head> <body><h1> superb (6042)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:великолепный.html>великоле́пный</a>; <a href = vnd.unilang:величественный.html>вели́чественный</a>, <a href = vnd.unilang:грандиозный.html>грандио́зный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:богатый.html>бога́тый</a>, <a href = vnd.unilang:роскошный.html>роско́шный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:благородный.html>благоро́дный</a>, <a href = vnd.unilang:возвышенный.html>возвы́шенный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:высший.html>вы́сшего</a> <a href = vnd.unilang:качество.html>ка́чества</a>, <a href = vnd.unilang:превосходный.html>превосхо́дный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***supercomputer.html
+<head> <meta charset='utf-8'> </head> <body><h1> supercomputer (17385)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="компьютерное">комп.</span> суперкомпьютер <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***superfluous.html
+<head> <meta charset='utf-8'> </head> <body><h1> superfluous (15919)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:лишний.html>ли́шний</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***superintendent.html
+<head> <meta charset='utf-8'> </head> <body><h1> superintendent (6128)</h1><br></body> 
+***superior.html
+<head> <meta charset='utf-8'> </head> <body><h1> superior (2752)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><b><a href = vnd.unilang:это.html>Э́то</a> <a href = vnd.unilang:слово.html>сло́во</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:выражение.html>выраже́ние</a> <a href = vnd.unilang:пока.html>пока́</a> <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:переведённый.html>переведено́</a>.</b> <a href = vnd.unilang:вы.html>Вы</a> <a href = vnd.unilang:мочь.html>мо́жете</a> <a href = vnd.unilang:предложить.html>предложи́ть</a> <a href = vnd.unilang:свое.html>свой</a> <a href = vnd.unilang:вариант.html>вариа́нт</a> <a href = vnd.unilang:перевод.html>перево́да</a>. <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***supermarket.html
+<head> <meta charset='utf-8'> </head> <body><h1> supermarket (6150)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:универсам.html>универса́м</a>, <a href = vnd.unilang:супермаркет.html>супермаркет</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>department store</li>
+</ol>
+</body> 
+***supernatural.html
+<head> <meta charset='utf-8'> </head> <body><h1> supernatural (8774)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="250">
+<tbody><tr>
+<th bgcolor="EEF9FF" align="center" width="50%">сравн. ст.
+</th>
+<th bgcolor="EEF9FF" align="center" width="50%">превосх. ст.
+</th></tr>
+<tr>
+<td bgcolor="white" align="center">more supernatural
+</td>
+<td bgcolor="white" align="center">most supernatural
+</td></tr></tbody></table><br><a href = vnd.unilang:прилагательное.html>Прилага́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:сверхъестественный.html>сверхъесте́ственный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>частичн.: extraordinary, preternatural, unnatural</li>
+</ol>
+<hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<th bgcolor="EEF9FF">ед. ч.
+</th>
+<th bgcolor="EEF9FF">мн. ч.
+</th></tr>
+
+<tr>
+<td bgcolor="FFFFFF">supernatural
+</td>
+<td bgcolor="FFFFFF"> — 
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:сверхъестественный.html>сверхъесте́ственное</a> (<a href = vnd.unilang:явление.html>явле́ние</a>) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***superpower.html
+<head> <meta charset='utf-8'> </head> <body><h1> superpower (10882)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<p><b>superpower</b>
 </p><p><a href = vnd.unilang:существительное.html>Существи́тельное</a>.
-</p><p><br />
-<a href = vnd.unilang:корень.html>Ко́рень</a>: <b>--</b>.
 </p>
-<h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
-<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:искусство.html>иску́сство</a>, <a href = vnd.unilang:мастерство.html>мастерство́</a>, <a href = vnd.unilang:умение.html>уме́ние</a>; <a href = vnd.unilang:тонкий.html>то́нкая</a> <a href = vnd.unilang:работа.html>рабо́та</a> <span class="example-fullblock example-absent-block"><br><span class="example-block" style="color:darkgreen"><span class="example-absent" style="color:darkorange"><span class="example-recommendations" style="color:darkorange; font-weight: bold; text-decoration: inherit; -moz-text-decoration-color: darkorange; text-decoration-color: darkorange;"></span></span> <span class="example-details" style="font-size:smaller;"> <i><span class="citation-source"> </span></i></span></span></span></li>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >superpower
+</td>
+<td >superpowers
+</td></tr></tbody></table><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="политическое">полит.</span> <a href = vnd.unilang:сверхдержава.html>сверхдержа́ва</a>, супердержава <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">America remains the global <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">superpower</span> today but an enfeebled one.<span class="example-translate" style="color:grey"> — Америка <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:сегодня.html>сего́дня</a> <a href = vnd.unilang:оставаться.html>остаётся</a> <a href = vnd.unilang:мировой.html>мирово́й</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:сверхдержава.html>сверхдержа́вой</a></span>, <a href = vnd.unilang:однако.html>одна́ко</a> <a href = vnd.unilang:она.html>она</a> <a href = vnd.unilang:ослабнуть.html>осла́бла</a>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:сила.html>си́ла</a>, <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:имеющий.html>име́ющая</a> <a href = vnd.unilang:равный.html>ра́вных</a> <a href = vnd.unilang:себя.html>себе́</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="фантастическое"><a href = vnd.unilang:фант.html>фант</a>.</span> суперсила, сверхспособность — <a href = vnd.unilang:сверхъестественный.html>сверхъесте́ственные</a> <a href = vnd.unilang:или.html>или</a> паранормальные <a href = vnd.unilang:способность.html>спосо́бности</a> <a href = vnd.unilang:фантастический.html>фантасти́ческих</a> супергероев <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Unlike most superheroes, Batman does not possess any <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">superpowers</span>; he makes use of intellect, science and technology, physical prowess, martial arts skills...<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:в.html>В</a> <a href = vnd.unilang:отличие.html>отли́чие</a> <a href = vnd.unilang:от.html>от́</a> <a href = vnd.unilang:большинство.html>большинства́</a> супергероев Бэтмен <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:обладать.html>облада́ет</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">сверхспособностями</span>; <a href = vnd.unilang:он.html>он</a> <a href = vnd.unilang:использовать.html>испо́льзует</a> <a href = vnd.unilang:интеллект.html>интелле́кт</a>, <a href = vnd.unilang:познание.html>позна́ния</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:наука.html>нау́ке</a> <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:техника.html>те́хнике</a>, <a href = vnd.unilang:незаурядный.html>незауря́дную</a> <a href = vnd.unilang:физический.html>физи́ческую</a> <a href = vnd.unilang:подготовка.html>подгото́вку</a>, <a href = vnd.unilang:навык.html>на́выки</a> <a href = vnd.unilang:боевой.html>боевы́х</a> <a href = vnd.unilang:искусство.html>иску́сств</a>...</span> </span></li>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li><i>частичн.</i>: great power</li></ol>
+</body> 
+***superstar.html
+<head> <meta charset='utf-8'> </head> <body><h1> superstar (13437)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol>суперзвезда</ol>
+</body> 
+***superstition.html
+<head> <meta charset='utf-8'> </head> <body><h1> superstition (11904)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >superstition
+</td>
+<td >superstitions
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:суеверие.html>суеве́рие</a>, (<a href = vnd.unilang:религиозный.html>религио́зный</a>) <a href = vnd.unilang:предрассудок.html>предрассу́док</a>; <a href = vnd.unilang:иррациональный.html>иррациона́льная</a> <a href = vnd.unilang:вера.html>вера</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
 
 </ol>
 </body> 
-***craftspeople.html
-<head> <meta charset='utf-8'> </head> <body><h1> craftspeople</h1><br>_n. _pl. <a href = vnd.unilang:ремесленник.html>реме́сленники</a></br></body> 
-***crafty.html
-<head> <meta charset='utf-8'> </head> <body><h1> crafty</h1><br> _a. <a href = vnd.unilang:хитрый.html>хи́трый</a>, <a href = vnd.unilang:коварный.html>кова́рный</a></br></body> 
-***crag.html
-<head> <meta charset='utf-8'> </head> <body><h1> crag</h1><br> _n. <a href = vnd.unilang:скала.html>скала</a>, <a href = vnd.unilang:утес.html>утёс</a></br></body> 
-***craggy.html
-<head> <meta charset='utf-8'> </head> <body><h1> craggy</h1><br> _a. <br>1 <a href = vnd.unilang:скалистый.html>скали́стый</a>, <a href = vnd.unilang:изобиловать.html>изоби́лующий</a> <a href = vnd.unilang:скала.html>ска́лами</a> <br>2 <a href = vnd.unilang:крутой.html>круто́й</a>, <a href = vnd.unilang:отвесный.html>отве́сный</a></br></body> 
-***cragsman.html
-<head> <meta charset='utf-8'> </head> <body><h1> cragsman</h1><br> _n. <a href = vnd.unilang:альпинист.html>альпини́ст</a></br></body> 
-***craig.html
-<head> <meta charset='utf-8'> </head> <body><h1> craig (5011)</h1><br></body> 
+***supervise.html
+<head> <meta charset='utf-8'> </head> <body><h1> supervise (5075)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<td ><a href = vnd.unilang:анализировать.html>Инфинитив</a>
+</td>
+<td bgcolor="white"><a class="mw-selflink selflink">supervise</a>
+</td></tr>
+<tr>
+<td >3-е л. ед. ч.
+</td>
+<td bgcolor="white">supervises
+</td></tr>
+<tr>
+<td >Прош. вр.
+</td>
+<td bgcolor="white">supervised
+</td></tr>
+<tr>
+<td >Прич. прош. вр.
+</td>
+<td bgcolor="white">supervised
+</td></tr>
+<tr>
+<td >Герундий
+</td>
+<td bgcolor="white">supervising
+</td></tr></tbody></table><br><a href = vnd.unilang:глагол.html>Глаго́л</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:смотреть.html>смотре́ть</a>, <a href = vnd.unilang:наблюдать.html>наблюда́ть</a>  (<a href = vnd.unilang:за.html>за</a> чем-л.) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="официальное">офиц.</span> <a href = vnd.unilang:надзирать.html>надзира́ть</a>; <a href = vnd.unilang:инспектировать.html>инспекти́ровать</a>; <a href = vnd.unilang:контролировать.html>контроли́ровать</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="железнодорожное"><a href = vnd.unilang:ж.html>ж</a>.-д.</span> <a href = vnd.unilang:вести.html>вести</a> <a href = vnd.unilang:наблюдение.html>наблюде́ние</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="психология">психол.</span> супервизировать  <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Синонимы"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>—</li>
+<li>control</li></ol>
+</body> 
+***supervision.html
+<head> <meta charset='utf-8'> </head> <body><h1> supervision (4028)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >supervision
+</td>
+<td >supervisions
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:надзор.html>надзо́р</a>, <a href = vnd.unilang:наблюдение.html>наблюде́ние</a>, заведование, <a href = vnd.unilang:контроль.html>контро́ль</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Parental <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supervision</span><span class="example-translate" style="color:grey"> — <a href = vnd.unilang:родительский.html>Роди́тельский</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:надзор.html>надзо́р</a></span></span> </span></li>
+</ul></li>
+
+
+</ol>
+</body> 
+***supervisor.html
+<head> <meta charset='utf-8'> </head> <body><h1> supervisor (3507)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >supervisor
+</td>
+<td >supervisors
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li>контролёр, <a href = vnd.unilang:инспектор.html>инспе́ктор</a>, <a href = vnd.unilang:смотритель.html>смотри́тель</a> (<i><a href = vnd.unilang:лицо.html>лицо́</a>, <a href = vnd.unilang:осуществляющий.html>осуществля́ющее</a> <a href = vnd.unilang:контроль.html>контро́ль</a> <a href = vnd.unilang:за.html>за</a> какой-либо <a href = vnd.unilang:сфера.html>сфе́рой</a></i>); супервайзер, <a href = vnd.unilang:наблюдатель.html>наблюда́тель</a>; <a href = vnd.unilang:руководитель.html>руководи́тель</a>; <a href = vnd.unilang:старший.html>ста́рший</a> (<a href = vnd.unilang:группа.html>гру́ппы</a>); <a href = vnd.unilang:надсмотрщик.html>надсмо́трщик</a>, <a href = vnd.unilang:надзиратель.html>надзира́тель</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">The <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supervisor</span> fired him after he showed up at work drunk.<span class="example-translate" style="color:grey"> — <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:руководитель.html>Руководи́тель</a></span> <a href = vnd.unilang:уволить.html>уво́лил</a> <a href = vnd.unilang:он.html>его́</a> <a href = vnd.unilang:после.html>после</a> <a href = vnd.unilang:тот.html>того́</a>, <a href = vnd.unilang:как.html>как</a> <a href = vnd.unilang:он.html>он</a> <a href = vnd.unilang:появиться.html>появи́лся</a> <a href = vnd.unilang:на.html>на</a> <a href = vnd.unilang:работа.html>рабо́те</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:нетрезвый.html>нетре́звом</a> <a href = vnd.unilang:состояние.html>состоя́нии</a>.</span> </span></li>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="британский вариант английского языка"><a href = vnd.unilang:бритый.html>брит</a>.</span> <a href = vnd.unilang:куратор.html>кура́тор</a> (<i><a href = vnd.unilang:преподаватель.html>преподава́тель</a>, <a href = vnd.unilang:курировать.html>кури́рующий</a> <a href = vnd.unilang:работа.html>рабо́ту</a> <a href = vnd.unilang:конкретный.html>конкре́тного</a> <a href = vnd.unilang:студент.html>студе́нта</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:аспирант.html>аспира́нта</a></i>) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="американский вариант английского языка">амер.</span> <a href = vnd.unilang:член.html>член</a> <a href = vnd.unilang:местный.html>ме́стного</a> (<a href = vnd.unilang:городской.html>городско́го</a>, <a href = vnd.unilang:районный.html>райо́нного</a>, <a href = vnd.unilang:окружной.html>окружного</a>) <a href = vnd.unilang:совет.html>сове́та</a>, <a href = vnd.unilang:член.html>член</a> <a href = vnd.unilang:местный.html>ме́стной</a> (<a href = vnd.unilang:городской.html>городско́й</a>, <a href = vnd.unilang:районный.html>райо́нной</a>, <a href = vnd.unilang:окружной.html>окружной</a>) <a href = vnd.unilang:администрация.html>администра́ции</a> (<i><a href = vnd.unilang:выборный.html>вы́борная</a> <a href = vnd.unilang:должность.html>до́лжность</a></i>) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="компьютерное">комп.</span> супервизор; <a href = vnd.unilang:диспетчер.html>диспе́тчер</a>, <a href = vnd.unilang:управляющий.html>управля́ющая</a> <a href = vnd.unilang:программа.html>програ́мма</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***supp.html
+<head> <meta charset='utf-8'> </head> <body><h1> supp (15754)</h1><br></body> 
+***supper.html
+<head> <meta charset='utf-8'> </head> <body><h1> supper (9456)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:ужин.html>у́жин</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***supplemental.html
+<head> <meta charset='utf-8'> </head> <body><h1> supplemental (6858)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:дополнительный.html>дополни́тельный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***supplementary.html
+<head> <meta charset='utf-8'> </head> <body><h1> supplementary (6883)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><i><span style="background-color:BBEEEE;"></span></i> <a href = vnd.unilang:дополнительный.html>дополни́тельный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***supplier.html
+<head> <meta charset='utf-8'> </head> <body><h1> supplier (2659)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:поставщик.html>поставщи́к</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***supply.html
+<head> <meta charset='utf-8'> </head> <body><h1> supply (735)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >supply
+</td>
+<td >supplies
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:снабжение.html>снабже́ние</a>, <a href = vnd.unilang:поставка.html>поста́вка</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Water <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supply</span><span class="example-translate" style="color:grey"> — Водо<span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:снабжение.html>снабже́ние</a></span></span> </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">Military <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supplies</span><span class="example-translate" style="color:grey"> — <a href = vnd.unilang:военный.html>Вое́нные</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:поставка.html>поста́вки</a></span></span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:замещение.html>замеще́ние</a> <a href = vnd.unilang:вакантный.html>вака́нтной</a> <a href = vnd.unilang:должность.html>до́лжности</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:временный.html>вре́менный</a> <a href = vnd.unilang:заместитель.html>замести́тель</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li>(supplies) <a href = vnd.unilang:ресурс.html>ресу́рсы</a>, <a href = vnd.unilang:припас.html>припа́сы</a>, <a href = vnd.unilang:запас.html>запа́с</a>; <span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="военный термин">военн.</span> <a href = vnd.unilang:продовольствие.html>продово́льствие</a>, <a href = vnd.unilang:провиант.html>провиа́нт</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Food <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supplies</span><span class="example-translate" style="color:grey"> — <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:запас.html>Запа́сы</a></span> <a href = vnd.unilang:продовольствие.html>продово́льствия</a></span> </span></li>
+</ul></li>
+
+
+<li>(supplies) <a href = vnd.unilang:довольствие.html>дово́льствие</a>, <a href = vnd.unilang:содержание.html>содержа́ние</a> (<a href = vnd.unilang:денежный.html>де́нежное</a>) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li>(supplies) <a href = vnd.unilang:утверждённый.html>утверждённые</a> <a href = vnd.unilang:парламент.html>парла́ментом</a> <a href = vnd.unilang:ассигнование.html>ассигнова́ния</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li>(supplies) <a href = vnd.unilang:принадлежность.html>принадле́жности</a>, <a href = vnd.unilang:товар.html>това́ры</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Office <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supplies</span><span class="example-translate" style="color:grey"> — <a href = vnd.unilang:канцелярский.html>Канцеля́рские</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:принадлежность.html>принадле́жности</a></span></span> </span></li>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="экономическое">экон.</span> <a href = vnd.unilang:предложение.html>предложе́ние</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">Prices change according to demand and <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supply</span>.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:цена.html>Цены</a> <a href = vnd.unilang:меняться.html>меня́ются</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:зависимость.html>зави́симости</a> <a href = vnd.unilang:от.html>от́</a> <a href = vnd.unilang:спрос.html>спро́са</a> <a href = vnd.unilang:и.html>и</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:предложение.html>предложе́ния</a></span>.</span> </span></li>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="техническое">техн.</span> <a href = vnd.unilang:питание.html>пита́ние</a>, <a href = vnd.unilang:подача.html>пода́ча</a>, <a href = vnd.unilang:подвода.html>подво́д</a>, <a href = vnd.unilang:приток.html>прито́к</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black"><span class="example-select" style="background-color: EDF0FF; font-weight: bold;">Supply</span> canal<span class="example-translate" style="color:grey"> — <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:подводящий.html>Подводя́щий</a></span> <a href = vnd.unilang:канал.html>канал</a></span> </span></li>
+</ul></li>
+
+</ol>
+<hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<td ><a href = vnd.unilang:анализировать.html>Инфинитив</a>
+</td>
+<td bgcolor="white"><a class="mw-selflink selflink">supply</a>
+</td></tr>
+<tr>
+<td >3-е л. ед. ч.
+</td>
+<td bgcolor="white">supplies
+</td></tr>
+<tr>
+<td >Прош. вр.
+</td>
+<td bgcolor="white">supplied
+</td></tr>
+<tr>
+<td >Прич. прош. вр.
+</td>
+<td bgcolor="white">supplied
+</td></tr>
+<tr>
+<td >Герундий
+</td>
+<td bgcolor="white">supplying
+</td></tr></tbody></table><br><a href = vnd.unilang:глагол.html>Глаго́л</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:снабжать.html>снабжа́ть</a> (чем-либо), <a href = vnd.unilang:поставлять.html>поставля́ть</a>; <a href = vnd.unilang:доставлять.html>доставля́ть</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">We can <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supply</span> the goods from our main store.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:мы.html>Мы</a> <a href = vnd.unilang:мочь.html>мо́жем</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:поставлять.html>поставля́ть</a></span> <a href = vnd.unilang:товар.html>това́ры</a> <a href = vnd.unilang:из.html>из</a> <a href = vnd.unilang:наш.html>на́шего</a> <a href = vnd.unilang:центральный.html>центра́льного</a> <a href = vnd.unilang:магазин.html>магази́на</a>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:добавлять.html>добавля́ть</a> (что-либо <a href = vnd.unilang:недостающий.html>недостаю́щее</a>) <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black"><span class="example-select" style="background-color: EDF0FF; font-weight: bold;">Supply</span> words that are wanting.<span class="example-translate" style="color:grey"> — <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:добавить.html>Доба́вь</a></span> <a href = vnd.unilang:недостающий.html>недостаю́щие</a> <a href = vnd.unilang:слово.html>слова</a>.</span> </span></li>
+</ul></li>
+
+
+<li>восполнять, возмещать (<a href = vnd.unilang:недостаток.html>недоста́ток</a>) ; <a href = vnd.unilang:удовлетворять.html>удовлетворя́ть</a> (<a href = vnd.unilang:нужда.html>нужду́</a>, <a href = vnd.unilang:требование.html>тре́бование</a> <a href = vnd.unilang:и.html>и</a>. т. п.) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:заменять.html>заменя́ть</a>, <a href = vnd.unilang:замещать.html>замеща́ть</a> (кого-либо/ что-либо) <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">The place of his casque was <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supplied</span> by a large brown hood.<span class="example-translate" style="color:grey"> — <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:вместо.html>Вме́сто</a></span> <a href = vnd.unilang:шлем.html>шле́ма</a> <a href = vnd.unilang:на.html>на</a> <a href = vnd.unilang:он.html>нём</a> <a href = vnd.unilang:быть.html>был</a> <a href = vnd.unilang:большой.html>большо́й</a> <a href = vnd.unilang:коричневый.html>кори́чневый</a> <a href = vnd.unilang:капюшон.html>капюшо́н</a>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:замещать.html>замеща́ть</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:должность.html>до́лжности</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:подавать.html>подава́ть</a>, <a href = vnd.unilang:подводить.html>подводи́ть</a> (<a href = vnd.unilang:о.html>о</a> <a href = vnd.unilang:коммуникация.html>коммуника́циях</a>); <a href = vnd.unilang:питать.html>пита́ть</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<h4><span id=".D0.A1.D0.B8.D0.BD.D0.BE.D0.BD.D0.B8.D0.BC.D1.8B_2"></span><span class="mw-headline" id="Синонимы_2"><a href = vnd.unilang:синоним.html>Сино́нимы</a></span></h4>
+<ol><li>furnish, provide, afford</li>
+<li>-</li>
+<li>compensate</li>
+<li>replace</li></ol>
+<hr><a href = vnd.unilang:наречие.html>Наре́чие</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_3"></span><span class="mw-headline" id="Значение_3"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:гибкий.html>ги́бко</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***support.html
+<head> <meta charset='utf-8'> </head> <body><h1> support (150)</h1><br><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+<tbody><tr>
+<th  align="center" width="50%">ед. ч.
+</th>
+<th  align="center" width="50%">мн. ч.
+</th></tr>
+<tr>
+<td >support
+</td>
+<td >supports
+</td></tr></tbody></table><br><a href = vnd.unilang:существительное.html>Существи́тельное</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:поддержка.html>подде́ржка</a>, <a href = vnd.unilang:помощь.html>по́мощь</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">We need your <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">support</span>.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:мы.html>Нам</a> <a href = vnd.unilang:нужный.html>нужна́</a> <a href = vnd.unilang:ваш.html>ва́ша</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:поддержка.html>подде́ржка</a></span>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:опора.html>опо́ра</a>, <a href = vnd.unilang:оплот.html>опло́т</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="техническое">техн.</span> суппорт, <a href = vnd.unilang:держатель.html>держа́тель</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="спортивное"><a href = vnd.unilang:спорт.html>спорт</a>.</span> <a href = vnd.unilang:упор.html>упо́р</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+<hr><h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B8_.D1.81.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_2"></span><span class="mw-headline" id="Морфологические_и_синтаксические_свойства_2"></span></h3>
+<table style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; border: 1px solid 6699CC; border-collapse:collapse;" cellpadding="2" rules="all" width="210">
+
+<tbody><tr>
+<td ><a href = vnd.unilang:анализировать.html>Инфинитив</a>
+</td>
+<td bgcolor="white">support
+</td></tr>
+<tr>
+<td >3-е л. ед. ч.
+</td>
+<td bgcolor="white">supports
+</td></tr>
+<tr>
+<td >Прош. вр.
+</td>
+<td bgcolor="white">supported
+</td></tr>
+<tr>
+<td >Прич. прош. вр.
+</td>
+<td bgcolor="white">supported
+</td></tr>
+<tr>
+<td >Герундий
+</td>
+<td bgcolor="white">supporting
+</td></tr></tbody></table><br><a href = vnd.unilang:глагол.html>Глаго́л</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Значение_2"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:поддерживать.html>подде́рживать</a>; <a href = vnd.unilang:нести.html>нести́</a>; <a href = vnd.unilang:подпирать.html>подпира́ть</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">In her eagerness she rose and <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supported</span> herself on the arm of the chair.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:в.html>В</a> <a href = vnd.unilang:нетерпение.html>нетерпе́нии</a> <a href = vnd.unilang:она.html>она</a> <a href = vnd.unilang:подняться.html>подняла́сь</a>, <a href = vnd.unilang:опереться.html>опершись</a> <a href = vnd.unilang:на.html>на</a> <a href = vnd.unilang:ручка.html>ру́чку</a> <a href = vnd.unilang:кресло.html>кре́сла</a>.</span> </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">Her magnanimity provoked his tears: he wept wildly, kissing her <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supporting</span> hands, and yet could not summon courage to speak out.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:она.html>Её</a> <a href = vnd.unilang:великодуший.html>великоду́шие</a> <a href = vnd.unilang:вызвать.html>вы́звало</a> <a href = vnd.unilang:у.html>у</a> <a href = vnd.unilang:он.html>него́</a> <a href = vnd.unilang:слеза.html>слёзы</a>: <a href = vnd.unilang:он.html>он</a> <a href = vnd.unilang:плакать.html>пла́кал</a> <a href = vnd.unilang:навзрыд.html>навзры́д</a>, <a href = vnd.unilang:целовать.html>целу́я</a> <a href = vnd.unilang:она.html>её</a> <a href = vnd.unilang:рука.html>руки</a>, <a href = vnd.unilang:поддерживавший.html>подде́рживавшие</a> <a href = vnd.unilang:он.html>его́</a>, <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:весь.html>всё</a> <a href = vnd.unilang:же.html>же</a> <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:мочь.html>мо́г</a> <a href = vnd.unilang:набраться.html>набра́ться</a> <a href = vnd.unilang:храбрость.html>хра́брости</a> <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:рассказать.html>рассказа́ть</a>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:оказывать.html>ока́зывать</a> <a href = vnd.unilang:психологический.html>психологи́ческую</a> <a href = vnd.unilang:поддержка.html>подде́ржку</a>; <a href = vnd.unilang:подбадривать.html>подба́дривать</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">'You must compose yourself, ' said the doctor <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supporting</span> her.<span class="example-translate" style="color:grey"> — ― <a href = vnd.unilang:вы.html>Вы</a> <a href = vnd.unilang:должный.html>до́лжны</a> <a href = vnd.unilang:успокоиться.html>успоко́иться</a>! ― <a href = vnd.unilang:поддерживать.html>подде́рживая</a> <a href = vnd.unilang:она.html>её</a>, <a href = vnd.unilang:сказать.html>сказа́л</a> <a href = vnd.unilang:доктор.html>до́ктор</a>.</span> </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">Except you, Marie has no <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">support</span> or consolation.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:бедный.html>Бе́дная</a> Марья Ивановна, <a href = vnd.unilang:кроме.html>кро́ме</a> <a href = vnd.unilang:вы.html>вас</a>, <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:иметь.html>име́ет</a> <a href = vnd.unilang:теперь.html>тепе́рь</a> <a href = vnd.unilang:ни.html>ни</a> <a href = vnd.unilang:утешение.html>утеше́ния</a>, <a href = vnd.unilang:ни.html>ни</a> <a href = vnd.unilang:покровитель.html>покрови́теля</a>.</span> </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">She knew not how to <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">support</span> herself, and from actual weakness sat down and cried for half-an-hour.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:не.html>Не</a> <a href = vnd.unilang:иметь.html>име́я</a> больше <a href = vnd.unilang:сила.html>си́л</a> <a href = vnd.unilang:сдерживать.html>сде́рживать</a> <a href = vnd.unilang:себя.html>себя́</a>, <a href = vnd.unilang:она.html>она</a> <a href = vnd.unilang:сесть.html>села</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:кресло.html>кре́сло</a> <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:полчаса.html>полчаса</a>, <a href = vnd.unilang:совершенно.html>соверше́нно</a> <a href = vnd.unilang:обессиленный.html>обесси́ленная</a>, <a href = vnd.unilang:заливаться.html>залива́лась</a> <a href = vnd.unilang:слеза.html>слеза́ми</a>.</span> </span> <span class="example-fullblock"></li>
+<li><span class="example-block" style="color:black">'We must <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">support</span> you, you know, ' the White Queen whispered, as Alice got up to do it, very obediently, but a little frightened.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:мы.html>Мы</a> <a href = vnd.unilang:ты.html>тебя́</a> <a href = vnd.unilang:поддержать.html>подде́ржим</a>, <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:беспокоиться.html>беспоко́йся</a>, ― <a href = vnd.unilang:шепнуть.html>шепну́ла</a> <a href = vnd.unilang:белый.html>Бе́лая</a> <a href = vnd.unilang:королева.html>Короле́ва</a>. Алиса <a href = vnd.unilang:послушно.html>послу́шно</a> <a href = vnd.unilang:встать.html>вста́ла</a>, <a href = vnd.unilang:хоть.html>хоть</a> <a href = vnd.unilang:сердце.html>се́рдце</a> <a href = vnd.unilang:у.html>у</a> <a href = vnd.unilang:она.html>неё</a> <a href = vnd.unilang:и.html>и</a> <a href = vnd.unilang:похолодеть.html>похолоде́ло</a>.</span> </span></li>
+</ul></li>
+
+
+<li><a href = vnd.unilang:помогать.html>помога́ть</a>, <a href = vnd.unilang:поддерживать.html>подде́рживать</a> (<a href = vnd.unilang:материальный.html>материально</a>); <a href = vnd.unilang:содержать.html>содержа́ть</a> (<a href = vnd.unilang:семья.html>семью́</a> <a href = vnd.unilang:и.html>и</a> т. п.) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="военный термин">военн.</span> <a href = vnd.unilang:обеспечивать.html>обеспе́чивать</a>; <a href = vnd.unilang:обслуживать.html>обслу́живать</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="спортивное"><a href = vnd.unilang:спорт.html>спорт</a>.</span> <a href = vnd.unilang:быть.html>быть</a> <a href = vnd.unilang:поклонник.html>покло́нником</a>; <a href = vnd.unilang:болеть.html>боле́ть</a> (<a href = vnd.unilang:за.html>за</a> <a href = vnd.unilang:команда.html>кома́нду</a>, <a href = vnd.unilang:спортсмен.html>спортсме́на</a>) <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:подтверждать.html>подтвержда́ть</a>, <a href = vnd.unilang:служить.html>служи́ть</a> <a href = vnd.unilang:доказательство.html>доказа́тельством</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><span style="font-style: italic;background-color:CCFFFF;cursor:help;" title="театральное"><a href = vnd.unilang:театр.html>теа́тр</a>.</span> <a href = vnd.unilang:играть.html>игра́ть</a> <a href = vnd.unilang:второй.html>вторы́е</a> <a href = vnd.unilang:роль.html>ро́ли</a>, <a href = vnd.unilang:участвовать.html>уча́ствовать</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:эпизод.html>эпизо́дах</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
+***supporter.html
+<head> <meta charset='utf-8'> </head> <body><h1> supporter (2985)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:сторонник.html>сторо́нник</a>, <a href = vnd.unilang:приверженец.html>приве́рженец</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">He stayed in his hotel most of the next day, talking to friends and <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supporters</span>.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:он.html>Он</a> <a href = vnd.unilang:оставаться.html>остава́лся</a> <a href = vnd.unilang:в.html>в</a> <a href = vnd.unilang:гостиница.html>гости́нице</a> <a href = vnd.unilang:большой.html>большую</a> <a href = vnd.unilang:часть.html>часть</a> <a href = vnd.unilang:следующий.html>сле́дующего</a> <a href = vnd.unilang:день.html>дня</a>, <a href = vnd.unilang:беседовать.html>бесе́дуя</a> <a href = vnd.unilang:с.html>с</a> <a href = vnd.unilang:друг.html>друзья́ми</a> <a href = vnd.unilang:и.html>и</a> <span class="example-select" style="background-color: EDF0FF; font-weight: bold;"><a href = vnd.unilang:сторонник.html>сторо́нниками</a></span>.</span> </span></li>
+</ul></li>
+
+</ol>
+</body> 
+***supportive.html
+<head> <meta charset='utf-8'> </head> <body><h1> supportive (4839)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:благосклонный.html>благоскло́нный</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+</ol>
+</body> 
+***supposedly.html
+<head> <meta charset='utf-8'> </head> <body><h1> supposedly (5079)</h1><br><a href = vnd.unilang:наречие.html>Наре́чие</a><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><a href = vnd.unilang:по.html>по</a> <a href = vnd.unilang:общий.html>о́бщему</a> <a href = vnd.unilang:мнение.html>мне́нию</a> <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+
+<li><a href = vnd.unilang:предположительно.html>предположи́тельно</a>, <a href = vnd.unilang:якобы.html>я́кобы</a> <span class="example-fullblock"><ul>
+<li><span class="example-block" style="color:black">He’d learned a valuable lesson on a case the year before — sometimes the most important and telling things are said after an interview is <span class="example-select" style="background-color: EDF0FF; font-weight: bold;">supposedly</span> over.<span class="example-translate" style="color:grey"> — <a href = vnd.unilang:во.html>Во</a> <a href = vnd.unilang:время.html>вре́мя</a> <a href = vnd.unilang:расследование.html>рассле́дования</a> <a href = vnd.unilang:один.html>одного́</a> <a href = vnd.unilang:дело.html>дела</a> <a href = vnd.unilang:он.html>он</a> <a href = vnd.unilang:получить.html>получи́л</a> <a href = vnd.unilang:ценный.html>це́нный</a> урок―иногда <a href = vnd.unilang:самый.html>са́мые</a> <a href = vnd.unilang:важный.html>ва́жные</a> <a href = vnd.unilang:вещь.html>ве́щи</a> <a href = vnd.unilang:говориться.html>говоря́тся</a> <a href = vnd.unilang:после.html>после</a> <a href = vnd.unilang:тот.html>того́</a>, <a href = vnd.unilang:как.html>как</a> <a href = vnd.unilang:беседа.html>беседа</a> <a href = vnd.unilang:предположительно.html>предположи́тельно</a> <a href = vnd.unilang:законченный.html>зако́нчена</a>.</span> </span></li>
+</ul></li>
+
+
+</ol>
+</body> 
+***supposition.html
+<head> <meta charset='utf-8'> </head> <body><h1> supposition (16398)</h1><br></body> 
+***suppression.html
+<head> <meta charset='utf-8'> </head> <body><h1> suppression (6994)</h1><br><h4><span id=".D0.97.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Значение"><a href = vnd.unilang:значение.html>Значе́ние</a></span></h4>
+<ol><li><b><a href = vnd.unilang:это.html>Э́то</a> <a href = vnd.unilang:слово.html>сло́во</a> <a href = vnd.unilang:или.html>или</a> <a href = vnd.unilang:выражение.html>выраже́ние</a> <a href = vnd.unilang:пока.html>пока́</a> <a href = vnd.unilang:не.html>не</a> <a href = vnd.unilang:переведённый.html>переведено́</a>.</b> <a href = vnd.unilang:вы.html>Вы</a> <a href = vnd.unilang:мочь.html>мо́жете</a> <a href = vnd.unilang:предложить.html>предложи́ть</a> <a href = vnd.unilang:свое.html>свой</a> <a href = vnd.unilang:вариант.html>вариа́нт</a> <a href = vnd.unilang:перевод.html>перево́да</a>. <span class="example-fullblock example-absent-block"><ul>
+</ul></li>
+
+</ol>
+</body> 
